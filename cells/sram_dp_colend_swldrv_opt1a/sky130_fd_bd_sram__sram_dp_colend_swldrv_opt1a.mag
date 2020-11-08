@@ -1,0 +1,32 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1271 1882 1645
+<< polycont >>
+rect 597 24 601 53
+<< locali >>
+rect 567 54 601 56
+rect 567 22 597 24
+use sky130_fd_bd_sram__sram_dp_colend_swldrv_met23  sky130_fd_bd_sram__sram_dp_colend_swldrv_met23_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 -11 622 385
+use sky130_fd_bd_sram__sram_dp_swldrv_opt1_poly_siz_optb  sky130_fd_bd_sram__sram_dp_swldrv_opt1_poly_siz_optb_0
+timestamp 0
+transform 1 0 559 0 -1 54
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_swldrv_opt1_poly_siz_opta  sky130_fd_bd_sram__sram_dp_swldrv_opt1_poly_siz_opta_0
+timestamp 0
+transform 1 0 559 0 -1 24
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_colend_swldrv  sky130_fd_bd_sram__sram_dp_colend_swldrv_0
+timestamp 0
+transform 1 0 611 0 1 0
+box -611 0 0 385
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_swldrv_opt1a.gds
+string GDS_END 5686
+string GDS_START 5384
+<< end >>

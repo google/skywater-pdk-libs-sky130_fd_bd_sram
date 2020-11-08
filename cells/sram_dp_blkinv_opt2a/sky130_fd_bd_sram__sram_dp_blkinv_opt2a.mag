@@ -1,0 +1,32 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1361 1882 1454
+<< pdiff >>
+rect 100 158 286 159
+<< locali >>
+rect 118 -3 152 0
+rect 210 -3 244 0
+use sky130_fd_bd_sram__sram_dp_blkinv_base  sky130_fd_bd_sram__sram_dp_blkinv_base_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 -3 612 194
+use sky130_fd_bd_sram__sram_dp_blkinv_plic2  sky130_fd_bd_sram__sram_dp_blkinv_plic2_0
+timestamp 0
+transform 1 0 0 0 1 -40
+box 2 15 68 195
+use sky130_fd_bd_sram__sram_dp_blkinv_met23  sky130_fd_bd_sram__sram_dp_blkinv_met23_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 -11 622 169
+use sky130_fd_bd_sram__sram_dp_blkinv_mcon  sky130_fd_bd_sram__sram_dp_blkinv_mcon_0
+timestamp 0
+transform 1 0 126 0 1 -92
+box -9 -9 223 206
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_blkinv_opt2a.gds
+string GDS_END 6210
+string GDS_START 5890
+<< end >>

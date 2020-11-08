@@ -1,0 +1,39 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1500 1576
+<< locali >>
+rect 14 301 240 316
+rect 98 291 240 301
+rect 0 122 14 273
+rect 42 95 76 273
+rect 107 221 240 257
+rect 107 134 141 221
+rect 172 131 240 185
+rect 42 94 240 95
+rect 14 59 240 94
+rect 14 0 118 25
+rect 146 0 240 25
+use sky130_fd_bd_sram__sram_dp_mcon_05  sky130_fd_bd_sram__sram_dp_mcon_05_0
+timestamp 0
+transform 1 0 96 0 1 0
+box -17 0 17 17
+use sky130_fd_bd_sram__sram_dp_mcon_05  sky130_fd_bd_sram__sram_dp_mcon_05_1
+timestamp 0
+transform 0 1 0 -1 0 158
+box -17 0 17 17
+use sky130_fd_bd_sram__sram_dp_mcon_05  sky130_fd_bd_sram__sram_dp_mcon_05_2
+timestamp 0
+transform 0 -1 240 1 0 158
+box -17 0 17 17
+use sky130_fd_bd_sram__sram_dp_mcon_05  sky130_fd_bd_sram__sram_dp_mcon_05_3
+timestamp 0
+transform 1 0 168 0 1 0
+box -17 0 17 17
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_half_limcon_opta.gds
+string GDS_END 1104
+string GDS_START 320
+<< end >>

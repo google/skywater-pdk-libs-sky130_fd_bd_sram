@@ -1,0 +1,17 @@
+magic
+tech sky130A
+timestamp 0
+<< checkpaint >>
+rect -636 -633 653 650
+<< viali >>
+rect 0 0 17 17
+<< metal1 >>
+rect -6 17 23 20
+rect -6 0 0 17
+rect 17 0 23 17
+rect -6 -3 23 0
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_l1m1.gds
+string GDS_END 342
+string GDS_START 146
+<< end >>

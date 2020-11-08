@@ -1,0 +1,56 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1500 1576
+<< dnwell >>
+rect 0 0 240 316
+<< ndiffc >>
+rect 38 299 66 301
+tri 62 221 71 230 se
+tri 61 220 62 221 se
+rect 62 220 71 221
+rect 14 142 17 174
+rect 70 79 71 96
+rect 38 15 66 17
+<< pdiffc >>
+rect 223 142 226 174
+tri 174 83 186 95 nw
+<< locali >>
+rect 35 301 38 316
+rect 66 301 69 316
+rect 37 220 38 254
+rect 66 237 71 254
+rect 202 221 208 255
+rect 107 212 141 213
+rect 107 179 141 182
+rect 0 174 14 175
+rect 226 174 240 175
+rect 0 141 14 142
+rect 226 141 240 142
+rect 107 134 141 137
+rect 107 103 141 104
+rect 37 62 38 96
+rect 66 71 70 79
+rect 66 62 71 71
+rect 202 61 208 95
+rect 35 0 38 15
+rect 66 0 69 15
+use sky130_fd_bd_sram__sram_sp_cell_metopt1  sky130_fd_bd_sram__sram_sp_cell_metopt1_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 240 316
+use sky130_fd_bd_sram__sram_sp_cell_addpoly  sky130_fd_bd_sram__sram_sp_cell_addpoly_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 24 16 292
+use sky130_fd_bd_sram__sram_sp_cell  sky130_fd_bd_sram__sram_sp_cell_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 240 316
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_cell_opt1_ce.gds
+string GDS_END 5578
+string GDS_START 5326
+<< end >>

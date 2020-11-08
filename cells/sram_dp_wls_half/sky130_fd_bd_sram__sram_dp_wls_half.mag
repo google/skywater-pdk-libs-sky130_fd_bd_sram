@@ -1,0 +1,50 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1267 -1260 1382 1360
+<< poly >>
+rect 45 64 97 74
+rect 45 54 54 64
+rect 20 30 54 54
+rect 88 54 97 64
+rect 88 30 122 54
+rect 20 24 122 30
+<< polycont >>
+rect 54 30 88 64
+<< locali >>
+rect 34 73 108 81
+rect 68 64 108 73
+rect 34 30 54 39
+rect 88 30 108 64
+rect 34 18 108 30
+<< viali >>
+rect 34 64 68 73
+rect 34 39 54 64
+rect 54 39 68 64
+<< metal1 >>
+rect 20 84 55 100
+tri 55 84 71 100 sw
+rect 20 81 71 84
+rect 45 73 71 81
+rect 68 39 71 73
+rect 45 29 71 39
+rect 20 18 71 29
+<< via1 >>
+rect -7 73 45 81
+rect -7 39 34 73
+rect 34 39 45 73
+rect -7 29 45 39
+<< metal2 >>
+rect 20 81 60 86
+rect 45 72 60 81
+rect 45 29 122 72
+rect 20 24 122 29
+<< metal3 >>
+rect 20 0 122 41
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_wls_half.gds
+string GDS_END 846
+string GDS_START 162
+<< end >>

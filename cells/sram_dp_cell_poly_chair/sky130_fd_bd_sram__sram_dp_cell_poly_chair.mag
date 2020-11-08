@@ -1,0 +1,29 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1238 1516 1554
+<< poly >>
+rect 16 182 139 212
+rect 109 134 139 182
+rect 16 132 139 134
+rect 16 104 256 132
+rect 128 102 256 104
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_0
+timestamp 0
+transform 1 0 124 0 1 171
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_cell_half_wl  sky130_fd_bd_sram__sram_dp_cell_half_wl_0
+timestamp 0
+transform 1 0 0 0 -1 292
+box 0 -2 240 30
+use sky130_fd_bd_sram__sram_dp_cell_half_wl  sky130_fd_bd_sram__sram_dp_cell_half_wl_1
+timestamp 0
+transform 1 0 0 0 1 24
+box 0 -2 240 30
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_poly_chair.gds
+string GDS_END 1066
+string GDS_START 678
+<< end >>

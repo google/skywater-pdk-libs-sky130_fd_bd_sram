@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg40"
+   version="1.2"
+   viewBox="0 0 609 877"
+   height="877pt"
+   width="609pt">
+  <metadata
+     id="metadata44">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21">
+    <clipPath
+       id="clip1">
+      <path
+         id="path2"
+         d="M 18.5,2.5 H 1898 V 1059 H 18.5 Z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         id="path5"
+         d="m 661.5,140.5 h 79 v 112 h -79 z m 527,0 h 80 v 112 h -80 z m -387,217 h 112 v 113 h -112 z m 228,455 h 112 v 112 h -112 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         id="path8"
+         d="m 684.5,97.5 h 560 v 43 h -560 z m -23,43 h 607 v 112 h -607 z m 23,112 h 560 v 41 h -560 z m 0,101 h 560 v 4 h -560 z m 0,4 h 560 v 113 h -560 z m 0,113 h 560 v 4 h -560 z m 0,68 h 560 v 194 h -560 z m 0,270 h 560 v 4 h -560 z m 0,4 h 560 v 112 h -560 z m 0,112 h 560 v 50 h -560 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <path
+         id="path11"
+         d="m 661.5,140.5 h 79 v 112 h -79 z m 527,0 h 80 v 112 h -80 z m -387,217 h 112 v 113 h -112 z m 228,455 h 112 v 112 h -112 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAABASURBVDiN7dCxEQAgCATBhf57xoBUsQAluYThnwtQxIGpQJyYlN7fM6bzgXSZnPK75JBPddz85rXD9/A9POdhAZH9ZDMXFbbWAAAAAElFTkSuQmCC"
+       height="32"
+       width="32"
+       id="image223" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern0">
+      <use
+         id="use15"
+         xlink:href="#image223" />
+    </pattern>
+    <mask
+       id="mask0">
+      <rect
+         id="rect18"
+         style="fill:url(#pattern0);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+  </defs>
+  <g
+     transform="translate(-660.5,-97.5)"
+     id="surface220">
+    <g
+       style="clip-rule:nonzero"
+       id="g23"
+       clip-path="url(#clip1)" />
+    <g
+       style="clip-rule:nonzero"
+       id="g27"
+       clip-path="url(#clip2)">
+      <rect
+         id="rect25"
+         style="fill:#b066f0;fill-opacity:0.62992099;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g31"
+       clip-path="url(#clip3)">
+      <rect
+         id="rect29"
+         style="fill:#ff78f3;fill-opacity:0.62992099;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       id="path33"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 661,939 h 79 M 661,827 h 79 m -79,0 v 112 m 79,-112 v 112 m 448,0 h 80 m -80,-112 h 80 m -80,0 v 112 m 80,-112 V 939 M 801,722 H 913 M 801,609 h 112 m -112,0 V 722 M 913,609 v 113 m 116,-455 h 112 M 1029,155 h 112 m -112,0 v 112 m 112,-112 v 112"
+       style="fill:none;stroke:#7f00c2;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.94488196" />
+    <g
+       style="clip-rule:nonzero"
+       id="g37"
+       clip-path="url(#clip4)">
+      <rect
+         id="rect35"
+         mask="url(#mask0)"
+         style="fill:#7f00c2;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>

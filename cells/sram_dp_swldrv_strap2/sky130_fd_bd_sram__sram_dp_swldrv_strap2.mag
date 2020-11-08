@@ -1,0 +1,31 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1334 1576
+<< viali >>
+rect 10 31 44 65
+<< metal1 >>
+rect 0 180 37 316
+rect 0 72 74 88
+rect 0 65 11 72
+rect 0 31 10 65
+rect 0 20 11 31
+rect 63 20 74 72
+rect 0 0 74 20
+<< via1 >>
+rect 11 65 63 72
+rect 11 31 44 65
+rect 44 31 63 65
+rect 11 20 63 31
+<< metal2 >>
+rect 5 72 69 87
+rect 5 20 11 72
+rect 63 20 69 72
+rect 5 0 69 20
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_swldrv_strap2.gds
+string GDS_END 494
+string GDS_START 170
+<< end >>

@@ -1,0 +1,43 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1341 -1260 1341 1529
+use sky130_fd_bd_sram__sram_dp_wls_poly_sizing_opta  sky130_fd_bd_sram__sram_dp_wls_poly_sizing_opta_0
+timestamp 0
+transform 1 0 -51 0 1 268
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optb  sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optb_0
+timestamp 0
+transform 1 0 -51 0 1 238
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optc  sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optc_0
+timestamp 0
+transform 1 0 -51 0 1 30
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_wls_p1m_ser  sky130_fd_bd_sram__sram_dp_wls_p1m_ser_0
+timestamp 0
+transform -1 0 85 0 1 188
+box 4 0 5 1
+use sky130_fd_bd_sram__sram_dp_wls_p1m_ser  sky130_fd_bd_sram__sram_dp_wls_p1m_ser_1
+timestamp 0
+transform -1 0 85 0 1 110
+box 4 0 5 1
+use sky130_fd_bd_sram__sram_dp_wls_p1m_ser  sky130_fd_bd_sram__sram_dp_wls_p1m_ser_2
+timestamp 0
+transform 1 0 -85 0 1 110
+box 4 0 5 1
+use sky130_fd_bd_sram__sram_dp_wls_p1m_ser  sky130_fd_bd_sram__sram_dp_wls_p1m_ser_3
+timestamp 0
+transform 1 0 -85 0 1 188
+box 4 0 5 1
+use sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optd  sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optd_0
+timestamp 0
+transform 1 0 -51 0 1 0
+box 0 0 1 1
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_wls_p1m_siz.gds
+string GDS_END 3050
+string GDS_START 2474
+<< end >>

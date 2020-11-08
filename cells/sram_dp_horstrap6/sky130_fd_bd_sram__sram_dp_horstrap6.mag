@@ -1,0 +1,38 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1271 1751 1429
+<< pdiff >>
+rect 38 118 80 158
+rect 400 118 442 158
+rect 38 0 80 40
+rect 400 0 442 40
+<< metal2 >>
+rect 41 134 372 158
+use sky130_fd_bd_sram__sram_dp_horstrap_npsdm  sky130_fd_bd_sram__sram_dp_horstrap_npsdm_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_horstrap_half1  sky130_fd_bd_sram__sram_dp_horstrap_half1_0
+timestamp 0
+transform -1 0 480 0 1 0
+box -11 0 240 158
+use sky130_fd_bd_sram__sram_dp_horstrap_half5  sky130_fd_bd_sram__sram_dp_horstrap_half5_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 -11 240 169
+use sky130_fd_bd_sram__sram_dp_horstrap_limcon  sky130_fd_bd_sram__sram_dp_horstrap_limcon_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 14 0 466 158
+use sky130_fd_bd_sram__sram_dp_horstrap_p1m_siz  sky130_fd_bd_sram__sram_dp_horstrap_p1m_siz_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 24 480 135
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_horstrap6.gds
+string GDS_END 6664
+string GDS_START 6182
+<< end >>

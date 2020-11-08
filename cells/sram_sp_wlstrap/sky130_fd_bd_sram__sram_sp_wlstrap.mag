@@ -1,0 +1,39 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1531 1576
+<< pdiffc >>
+rect 14 142 17 174
+rect 243 142 246 174
+<< locali >>
+rect 0 174 14 175
+rect 246 174 260 175
+rect 0 141 14 142
+rect 246 141 260 142
+<< metal1 >>
+rect 0 0 14 15
+rect 246 0 260 15
+use sky130_fd_bd_sram__sram_sp_wlstrap_p1m_siz  sky130_fd_bd_sram__sram_sp_wlstrap_p1m_siz_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_sp_wlstrap_met2  sky130_fd_bd_sram__sram_sp_wlstrap_met2_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 24 260 257
+use sky130_fd_bd_sram__sram_sp_wlstrap_ce  sky130_fd_bd_sram__sram_sp_wlstrap_ce_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 0 271 316
+<< labels >>
+flabel metal1 s 0 0 14 15 0 FreeSans 40 90 0 0 vpwr
+port 0 nsew
+flabel metal1 s 246 0 260 15 0 FreeSans 40 90 0 0 vpwr
+port 0 nsew
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_wlstrap.gds
+string GDS_END 4574
+string GDS_START 4098
+<< end >>

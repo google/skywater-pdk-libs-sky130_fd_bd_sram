@@ -1,0 +1,89 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1511 1576
+<< nwell >>
+rect 228 31 238 41
+<< pwell >>
+rect 2 34 12 46
+<< ndiffc >>
+rect 38 299 66 301
+tri 62 221 71 230 se
+tri 61 220 62 221 se
+rect 62 220 71 221
+rect 14 142 17 174
+rect 70 79 71 96
+rect 38 15 66 17
+<< pdiffc >>
+rect 223 142 226 174
+tri 174 83 186 95 nw
+<< poly >>
+rect 109 262 133 292
+rect 108 24 132 54
+<< locali >>
+rect 35 301 38 316
+rect 66 301 69 316
+rect 37 220 38 254
+rect 66 237 71 254
+rect 202 221 208 255
+rect 107 212 141 213
+rect 107 179 141 182
+rect 0 174 14 175
+rect 226 174 240 175
+rect 0 141 14 142
+rect 226 141 240 142
+rect 107 134 141 137
+rect 107 103 141 104
+rect 37 62 38 96
+rect 66 71 70 79
+rect 66 62 71 71
+rect 202 61 208 95
+rect 35 0 38 15
+rect 66 0 69 15
+<< metal1 >>
+rect 70 208 98 244
+rect 142 208 170 244
+rect 0 0 14 15
+rect 226 0 240 15
+use sky130_fd_bd_sram__sram_sp_cell_p1m_sizing  sky130_fd_bd_sram__sram_sp_cell_p1m_sizing_0
+timestamp 0
+transform 1 0 0 0 -1 316
+box 16 119 209 198
+use sky130_fd_bd_sram__sram_sp_cell_addpoly_sizing  sky130_fd_bd_sram__sram_sp_cell_addpoly_sizing_0
+timestamp 0
+transform 1 0 0 0 -1 316
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_sp_cell_via  sky130_fd_bd_sram__sram_sp_cell_via_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 127 251 257
+use sky130_fd_bd_sram__sram_sp_cell_opt1_ce  sky130_fd_bd_sram__sram_sp_cell_opt1_ce_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 240 316
+use sky130_fd_bd_sram__sram_sp_cell_met2  sky130_fd_bd_sram__sram_sp_cell_met2_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 59 240 257
+<< labels >>
+flabel metal1 s 70 208 98 244 0 FreeSans 100 0 0 0 bl
+port 0 nsew
+flabel metal1 s 142 208 170 244 0 FreeSans 100 0 0 0 br
+port 1 nsew
+flabel metal1 s 0 0 14 15 0 FreeSans 40 90 0 0 vgnd
+port 2 nsew
+flabel metal1 s 226 0 240 15 0 FreeSans 40 90 0 0 vpwr
+port 5 nsew
+flabel nbase s 228 31 238 41 0 FreeSans 40 90 0 0 vpb
+port 4 nsew
+flabel poly s 108 24 132 54 0 FreeSans 100 0 0 0 wl
+port 6 nsew
+flabel pwell s 2 34 12 46 0 FreeSans 100 90 0 0 vnb
+port 3 nsew
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_cell_opt1a.gds
+string GDS_END 8564
+string GDS_START 7226
+<< end >>

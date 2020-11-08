@@ -1,0 +1,27 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1246 -1260 1726 1418
+use sky130_fd_bd_sram__sram_dp_horstrap_mcon  sky130_fd_bd_sram__sram_dp_horstrap_mcon_0
+timestamp 0
+transform -1 0 480 0 -1 158
+box 295 0 401 17
+use sky130_fd_bd_sram__sram_dp_horstrap_mcon  sky130_fd_bd_sram__sram_dp_horstrap_mcon_1
+timestamp 0
+transform 1 0 0 0 1 0
+box 295 0 401 17
+use sky130_fd_bd_sram__sram_dp_horstrap_li  sky130_fd_bd_sram__sram_dp_horstrap_li_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 14 0 466 25
+use sky130_fd_bd_sram__sram_dp_horstrap_li  sky130_fd_bd_sram__sram_dp_horstrap_li_1
+timestamp 0
+transform -1 0 480 0 -1 158
+box 14 0 466 25
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_horstrap_limcon.gds
+string GDS_END 952
+string GDS_START 660
+<< end >>

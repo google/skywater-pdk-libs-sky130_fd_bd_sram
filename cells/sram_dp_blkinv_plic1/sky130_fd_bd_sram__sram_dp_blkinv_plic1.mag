@@ -1,0 +1,23 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1258 -1245 1338 1455
+<< poly >>
+rect 48 81 78 82
+rect 2 65 78 81
+rect 2 31 18 65
+rect 52 53 78 65
+rect 52 31 68 53
+rect 2 15 68 31
+<< polycont >>
+rect 18 31 52 65
+<< locali >>
+rect 18 65 52 195
+rect 18 15 52 31
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_blkinv_plic1.gds
+string GDS_END 462
+string GDS_START 170
+<< end >>

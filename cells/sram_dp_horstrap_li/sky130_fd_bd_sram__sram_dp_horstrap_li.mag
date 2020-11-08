@@ -1,0 +1,15 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1246 -1260 1726 1285
+<< locali >>
+rect 98 15 334 25
+rect 14 0 334 15
+rect 362 0 466 25
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_horstrap_li.gds
+string GDS_END 378
+string GDS_START 166
+<< end >>

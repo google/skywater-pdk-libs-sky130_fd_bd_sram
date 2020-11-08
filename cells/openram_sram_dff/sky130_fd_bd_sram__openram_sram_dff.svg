@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg196"
+   version="1.2"
+   viewBox="0 0 700 877"
+   height="877pt"
+   width="700pt">
+  <metadata
+     id="metadata200">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs101">
+    <clipPath
+       id="clip1">
+      <path
+         id="path2"
+         d="M 18.5,2.5 H 1898 V 1059 H 18.5 Z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         id="path5"
+         d="m 614.5,98.5 h 698 v 466 h -698 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAApSURBVDiNY2Rg+M/AiAczMdAe/P+PH9PBDYyj4cDAwDAaDjAwGg4QAAAzhF/RgilCzQAAAABJRU5ErkJggg=="
+       height="32"
+       width="32"
+       id="image282" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern0">
+      <use
+         id="use9"
+         xlink:href="#image282" />
+    </pattern>
+    <mask
+       id="mask0">
+      <rect
+         id="rect12"
+         style="fill:url(#pattern0);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+    <clipPath
+       id="clip3">
+      <path
+         id="path15"
+         d="m 1196.5,953.5 h 49 v 20 h -49 z m -561,0 h 49 v 20 h -49 z m 80,0 h 49 v 20 h -49 z m 81,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 0,0" />
+    </clipPath>
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern1">
+      <use
+         id="use18"
+         xlink:href="#image282" />
+    </pattern>
+    <mask
+       id="mask1">
+      <rect
+         id="rect21"
+         style="fill:url(#pattern1);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+    <clipPath
+       id="clip4">
+      <path
+         id="path24"
+         d="m 667.5,174.5 h 17 v 16 h -17 z m 575,0 h 17 v 16 h -17 z m -112,0 h 17 v 16 h -17 z m -51,0 h 18 v 16 h -18 z m -42,0 h 17 v 16 h -17 z m -71,0 h 18 v 16 h -18 z m -43,0 h 18 v 16 h -18 z m -50,0 h 17 v 16 h -17 z m -43,0 h 18 v 16 h -18 z m -70,0 h 17 v 16 h -17 z m -43,0 h 18 v 16 h -18 z m -50,369 h 17 v 9 h -17 z m 463,0 h 17 v 21 h -17 z m -470,9 h 24 v 12 h -24 z m 377,-9 h 17 v 24 h -17 z m -277,0 h 17 v 24 h -17 z m 163,0 h 18 v 27 h -18 z m -50,0 h 17 v 27 h -17 z m -226,21 h 37 v 6 h -37 z m 483,0 h 42 v 9 h -42 z m -483,6 h 31 v 3 h -31 z m 375,-3 h 32 v 9 h -32 z m -262,0 h 32 v 9 h -32 z m 113,3 h 68 v 6 h -68 z m 257,3 h 42 v 8 h -42 z m 6,8 h 36 v 12 h -36 z m -489,-8 h 31 v 20 h -31 z m 226,3 h 68 v 20 h -68 z m -113,0 h 32 v 20 h -32 z m 262,0 h 32 v 20 h -32 z m -149,20 h 68 v 6 h -68 z m -226,-3 h 31 v 10 h -31 z m 489,0 h 36 v 10 h -36 z m -114,3 h 32 v 10 h -32 z m -262,0 h 32 v 10 h -32 z m 319,-53 h 18 v 68 h -18 z m -362,0 h 18 v 68 h -18 z m 362,68 h 32 v 9 h -32 z m -376,0 h 32 v 9 h -32 z m 376,9 h 32 v 20 h -32 z m -376,0 h 32 v 20 h -32 z m 0,20 h 32 v 10 h -32 z m 263,-97 h 18 v 107 h -18 z m 113,97 h 32 v 10 h -32 z m -249,-97 h 18 v 107 h -18 z m 412,0 h 17 v 115 h -17 z m -482,107 h 294 v 18 h -294 z m 468,8 h 31 v 10 h -31 z m -92,-55 h 18 v 76 h -18 z m -114,65 h 32 v 20 h -32 z m 206,0 h 31 v 20 h -31 z m 0,20 h 31 v 9 h -31 z m -206,0 h 32 v 9 h -32 z m -361,-85 h 17 v 96 h -17 z m 155,102 h 32 v 10 h -32 z m 150,0 h 32 v 10 h -32 z m -93,4 h 68 v 6 h -68 z m -212,-10 h 23 v 18 h -23 z m 212,16 h 68 v 20 h -68 z m -57,0 h 32 v 20 h -32 z m 150,0 h 32 v 20 h -32 z m -93,20 h 68 v 6 h -68 z m 257,-56 h 24 v 65 h -24 z m -164,56 h 32 v 9 h -32 z m -150,0 h 32 v 9 h -32 z m 14,9 h 18 v 41 h -18 z m 43,-3 h 17 v 44 h -17 z m 164,-44 h 17 v 88 h -17 z m -370,20 h 17 v 68 h -17 z m 412,-67 h 18 v 135 h -18 z m 163,47 h 17 v 88 h -17 z m -525,-47 h 18 v 135 h -18 z m 249,94 h 18 v 41 h -18 z m -43,-3 h 18 v 44 h -18 z m -163,-73 h 17 v 117 h -17 z m 370,76 h 17 v 41 h -17 z m -463,159 h 17 v 15 h -17 z m 575,0 h 17 v 15 h -17 z m -112,0 h 17 v 15 h -17 z m -51,0 h 18 v 15 h -18 z m -42,0 h 17 v 15 h -17 z m -71,0 h 18 v 15 h -18 z m -43,0 h 18 v 15 h -18 z m -50,0 h 17 v 15 h -17 z m -43,0 h 18 v 15 h -18 z m -70,0 h 17 v 15 h -17 z m -43,0 h 18 v 15 h -18 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <path
+         id="path27"
+         d="m 635.5,785.5 h 32 v 38 h -32 z m 349,0 h 53 v 38 h -53 z m -207,0 h 53 v 38 h -53 z m 113,0 h 33 v 38 h -33 z m 257,0 h 32 v 38 h -32 z m -50,0 h 33 v 38 h -33 z m -413,0 h 33 v 38 h -33 z m 526,0 h 32 v 38 h -32 z m 49,0 h 32 v 38 h -32 z m -49,38 h 32 v 20 h -32 z m -63,0 h 32 v 20 h -32 z m -463,0 h 33 v 20 h -33 z m -49,0 h 32 v 20 h -32 z m 255,0 h 33 v 20 h -33 z m 207,0 h 33 v 20 h -33 z m -113,0 h 53 v 20 h -53 z m -207,0 h 53 v 20 h -53 z m 482,0 h 32 v 20 h -32 z m 0,20 h 32 v 20 h -32 z m -49,0 h 32 v 20 h -32 z m -63,0 h 32 v 20 h -32 z m -163,0 h 53 v 20 h -53 z m 113,0 h 33 v 20 h -33 z m -462,0 h 32 v 20 h -32 z m 255,0 h 33 v 20 h -33 z m -206,0 h 33 v 20 h -33 z m 93,0 h 53 v 20 h -53 z m 320,20 h 33 v 20 h -33 z m 113,0 h 32 v 20 h -32 z m -63,0 h 32 v 20 h -32 z m -370,0 h 53 v 20 h -53 z m 207,0 h 53 v 20 h -53 z m -300,0 h 33 v 20 h -33 z m -49,0 h 32 v 20 h -32 z m 624,0 h 32 v 20 h -32 z m -369,0 h 33 v 20 h -33 z m -206,20 h 33 v 20 h -33 z m 463,0 h 32 v 20 h -32 z m -370,0 h 53 v 20 h -53 z m -42,-98 h 25 v 118 h -25 z m -100,98 h 32 v 20 h -32 z m 349,0 h 53 v 20 h -53 z m 226,0 h 32 v 20 h -32 z m -156,-98 h 25 v 118 h -25 z m -164,98 h 33 v 20 h -33 z m -42,-98 h 25 v 118 h -25 z m 249,98 h 33 v 20 h -33 z m 162,0 h 32 v 20 h -32 z m -318,-98 h 25 v 118 h -25 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <path
+         id="path30"
+         d="m 635.5,120.5 h 49 v 20 h -49 z m 80,0 h 49 v 20 h -49 z m 81,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 49 v 20 h -49 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAAwSURBVDiNY/j/n4EBH2ZiIAAY/xNQQNgEBob/DIx4MB3cwMKA1wWMo+EwGg4jMRwAehZNIEIrpyYAAAAASUVORK5CYII="
+       height="32"
+       width="32"
+       id="image283" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern2">
+      <use
+         id="use34"
+         xlink:href="#image283" />
+    </pattern>
+    <mask
+       id="mask2">
+      <rect
+         id="rect37"
+         style="fill:url(#pattern2);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+    <clipPath
+       id="clip7">
+      <path
+         id="path40"
+         d="m 635.5,190.5 h 32 v 19 h -32 z m 624,0 h 32 v 19 h -32 z m -112,0 h 32 v 19 h -32 z m 63,0 h 32 v 19 h -32 z m -226,0 h 53 v 19 h -53 z m -94,0 h 33 v 19 h -33 z m 207,0 h 33 v 19 h -33 z m -413,0 h 33 v 19 h -33 z m 93,0 h 53 v 19 h -53 z m 320,19 h 33 v 20 h -33 z m -462,0 h 32 v 20 h -32 z m 142,0 h 53 v 20 h -53 z m -93,0 h 33 v 20 h -33 z m 300,0 h 53 v 20 h -53 z m 226,0 h 32 v 20 h -32 z m -320,0 h 33 v 20 h -33 z m 369,0 h 32 v 20 h -32 z m -112,0 h 32 v 20 h -32 z m -50,20 h 33 v 20 h -33 z m -113,0 h 53 v 20 h -53 z m -349,0 h 32 v 20 h -32 z m 255,0 h 33 v 20 h -33 z m 369,0 h 32 v 20 h -32 z m -49,0 h 32 v 20 h -32 z m -63,0 h 32 v 20 h -32 z m -463,0 h 33 v 20 h -33 z m 93,0 h 53 v 20 h -53 z m -93,20 h 33 v 20 h -33 z m 300,0 h 53 v 20 h -53 z m -207,0 h 53 v 20 h -53 z m 433,0 h 32 v 20 h -32 z m 49,0 h 32 v 20 h -32 z m -162,0 h 33 v 20 h -33 z m -207,0 h 33 v 20 h -33 z m -255,0 h 32 v 20 h -32 z m 512,0 h 32 v 20 h -32 z m -257,20 h 33 v 20 h -33 z m 207,0 h 33 v 20 h -33 z m 50,0 h 32 v 20 h -32 z m -370,0 h 53 v 20 h -53 z m 433,0 h 32 v 20 h -32 z m 49,0 h 32 v 20 h -32 z m -275,0 h 53 v 20 h -53 z m -349,0 h 32 v 20 h -32 z m 49,0 h 33 v 20 h -33 z m 413,20 h 33 v 20 h -33 z m -113,0 h 53 v 20 h -53 z m 163,0 h 32 v 20 h -32 z m -463,0 h 33 v 20 h -33 z m 526,0 h 32 v 20 h -32 z m -320,0 h 33 v 20 h -33 z m -113,0 h 53 v 20 h -53 z m 482,0 h 32 v 20 h -32 z m -624,0 h 32 v 20 h -32 z m 624,20 h 32 v 20 h -32 z m -275,0 h 53 v 20 h -53 z m 163,0 h 32 v 20 h -32 z m 63,0 h 32 v 20 h -32 z m -320,0 h 33 v 20 h -33 z m 207,0 h 33 v 20 h -33 z m -413,0 h 33 v 20 h -33 z m -49,0 h 32 v 20 h -32 z m 142,0 h 53 v 20 h -53 z m 482,20 h 32 v 20 h -32 z m -482,0 h 53 v 20 h -53 z m 433,0 h 32 v 20 h -32 z m -226,0 h 53 v 20 h -53 z m -349,0 h 32 v 20 h -32 z m 512,0 h 32 v 20 h -32 z m -257,0 h 33 v 20 h -33 z m -206,0 h 33 v 20 h -33 z m 413,0 h 33 v 20 h -33 z m -207,20 h 33 v 20 h -33 z m -113,0 h 53 v 20 h -53 z m 207,0 h 53 v 20 h -53 z m 163,0 h 32 v 20 h -32 z m 63,0 h 32 v 20 h -32 z m -575,0 h 32 v 20 h -32 z m 49,0 h 33 v 20 h -33 z m 575,0 h 32 v 20 h -32 z m -162,0 h 33 v 20 h -33 z m -413,20 h 33 v 20 h -33 z m 206,0 h 33 v 20 h -33 z m -113,0 h 53 v 20 h -53 z m 482,0 h 32 v 20 h -32 z m -112,0 h 32 v 20 h -32 z m -163,0 h 53 v 20 h -53 z m 113,0 h 33 v 20 h -33 z m 113,0 h 32 v 20 h -32 z m -575,0 h 32 v 20 h -32 z m 624,20 h 32 v 20 h -32 z m -112,0 h 32 v 20 h -32 z m -463,0 h 33 v 20 h -33 z m 413,0 h 33 v 20 h -33 z m 113,0 h 32 v 20 h -32 z m -575,0 h 32 v 20 h -32 z m 349,0 h 53 v 20 h -53 z m -207,0 h 53 v 20 h -53 z m 113,0 h 33 v 20 h -33 z m 320,20 h 32 v 20 h -32 z m 49,0 h 32 v 20 h -32 z m -482,0 h 53 v 20 h -53 z m -142,0 h 32 v 20 h -32 z m 462,0 h 33 v 20 h -33 z m -113,0 h 53 v 20 h -53 z m -94,0 h 33 v 20 h -33 z m 257,0 h 32 v 20 h -32 z m -463,0 h 33 v 20 h -33 z m 0,20 h 33 v 21 h -33 z m -49,0 h 32 v 21 h -32 z m 624,0 h 32 v 21 h -32 z m -275,0 h 53 v 21 h -53 z m -94,0 h 33 v 21 h -33 z m -113,0 h 53 v 21 h -53 z m 370,0 h 32 v 21 h -32 z m 63,0 h 32 v 21 h -32 z m -113,0 h 33 v 21 h -33 z m -462,21 h 32 v 20 h -32 z m 49,0 h 33 v 20 h -33 z m 413,0 h 33 v 20 h -33 z m 50,0 h 32 v 20 h -32 z m -370,0 h 53 v 20 h -53 z m 113,0 h 33 v 20 h -33 z m 369,0 h 32 v 20 h -32 z m -49,0 h 32 v 20 h -32 z m -226,0 h 53 v 20 h -53 z m 0,20 h 53 v 73 h -53 z m 226,0 h 32 v 73 h -32 z m -320,0 h 33 v 73 h -33 z m 164,-280 h 25 v 353 h -25 z m -277,280 h 53 v 73 h -53 z m -93,0 h 33 v 73 h -33 z m 413,0 h 33 v 73 h -33 z m -362,-280 h 25 v 353 h -25 z m -100,280 h 32 v 73 h -32 z m 213,-280 h 25 v 353 h -25 z m 299,280 h 32 v 73 h -32 z m 112,0 h 32 v 73 h -32 z m -318,-280 h 25 v 353 h -25 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip8">
+      <path
+         id="path43"
+         d="m 635.5,953.5 h 49 v 20 h -49 z m 80,0 h 49 v 20 h -49 z m 81,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 48 v 20 h -48 z m 80,0 h 49 v 20 h -49 z m 0,0" />
+    </clipPath>
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern3">
+      <use
+         id="use46"
+         xlink:href="#image283" />
+    </pattern>
+    <mask
+       id="mask3">
+      <rect
+         id="rect49"
+         style="fill:url(#pattern3);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+    <clipPath
+       id="clip9">
+      <path
+         id="path52"
+         d="m 1242.5,785.5 h 17 v 118 h -17 z m -575,0 h 17 v 118 h -17 z m 50,0 h 18 v 118 h -18 z m 43,0 h 17 v 118 h -17 z m 70,0 h 18 v 118 h -18 z m 43,0 h 17 v 118 h -17 z m 50,0 h 18 v 118 h -18 z m 43,0 h 18 v 118 h -18 z m 71,0 h 17 v 118 h -17 z m 42,0 h 18 v 118 h -18 z m 51,0 h 17 v 118 h -17 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAAtSURBVDiNY/jPwMDAwMDwHxeNWwZK49E7eFQwwnzDiINmGA0HhtFwGA0HdBoAtQDvIRl1O+YAAAAASUVORK5CYII="
+       height="32"
+       width="32"
+       id="image284" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern4">
+      <use
+         id="use56"
+         xlink:href="#image284" />
+    </pattern>
+    <mask
+       id="mask4">
+      <rect
+         id="rect59"
+         style="fill:url(#pattern4);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+    <clipPath
+       id="clip10">
+      <path
+         id="path62"
+         d="m 1242.5,190.5 h 17 v 353 h -17 z m -575,0 h 17 v 353 h -17 z m 50,0 h 18 v 353 h -18 z m 43,0 h 17 v 353 h -17 z m 70,0 h 18 v 353 h -18 z m 43,0 h 17 v 353 h -17 z m 50,0 h 18 v 353 h -18 z m 43,0 h 18 v 353 h -18 z m 71,0 h 17 v 353 h -17 z m 42,0 h 18 v 353 h -18 z m 51,0 h 17 v 353 h -17 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAAtSURBVDiNY/jPwMDAwMDwHxfNCKUZGHHQBPQPEZphNBxgHsSvbjQcIPQICQcAbQzvIWHO67YAAAAASUVORK5CYII="
+       height="32"
+       width="32"
+       id="image285" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern5">
+      <use
+         id="use66"
+         xlink:href="#image285" />
+    </pattern>
+    <mask
+       id="mask5">
+      <rect
+         id="rect69"
+         style="fill:url(#pattern5);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+    <clipPath
+       id="clip11">
+      <path
+         id="path72"
+         d="m 619.5,119.5 h 688 v 1 h -688 z m 0,1 h 688 v 20 h -688 z m 596,20 h 20 v 69 h -20 z m -524,0 h 20 v 69 h -20 z m 412,0 h 20 v 69 h -20 z m -463,50 h 20 v 19 h -20 z m 514,0 h 20 v 19 h -20 z m -370,0 h 40 v 19 h -40 z m 113,-50 h 20 v 69 h -20 z m 369,50 h 20 v 19 h -20 z m -276,0 h 40 v 19 h -40 z m 276,19 h 20 v 20 h -20 z m -369,0 h 20 v 20 h -20 z m 206,0 h 20 v 20 h -20 z m 112,0 h 20 v 20 h -20 z m -575,0 h 20 v 20 h -20 z m 350,0 h 40 v 20 h -40 z m 164,0 h 20 v 20 h -20 z m -370,0 h 40 v 20 h -40 z m -93,0 h 20 v 20 h -20 z m 463,20 h 20 v 20 h -20 z m -257,0 h 20 v 20 h -20 z m -206,0 h 20 v 20 h -20 z m 575,0 h 20 v 20 h -20 z m -51,0 h 20 v 20 h -20 z m -112,0 h 20 v 20 h -20 z m -319,0 h 40 v 20 h -40 z m 206,0 h 40 v 20 h -40 z m -350,0 h 20 v 20 h -20 z m 350,20 h 40 v 20 h -40 z m 276,0 h 20 v 20 h -20 z m -626,0 h 20 v 20 h -20 z m 575,0 h 20 v 20 h -20 z m -524,0 h 20 v 20 h -20 z m 412,0 h 20 v 20 h -20 z m -319,0 h 40 v 20 h -40 z m 113,0 h 20 v 20 h -20 z m 257,0 h 20 v 20 h -20 z m -164,20 h 40 v 20 h -40 z m 164,0 h 20 v 20 h -20 z m -51,0 h 20 v 20 h -20 z m -463,0 h 20 v 20 h -20 z m 257,0 h 20 v 20 h -20 z m 369,0 h 20 v 20 h -20 z m -51,0 h 20 v 20 h -20 z m -431,0 h 40 v 20 h -40 z m -93,0 h 20 v 20 h -20 z m 206,20 h 20 v 20 h -20 z m 369,0 h 20 v 20 h -20 z m -163,0 h 20 v 20 h -20 z m 112,0 h 20 v 20 h -20 z m -225,0 h 40 v 20 h -40 z m 164,0 h 20 v 20 h -20 z m -463,0 h 20 v 20 h -20 z m 93,0 h 40 v 20 h -40 z m -144,0 h 20 v 20 h -20 z m 575,20 h 20 v 20 h -20 z m -318,0 h 20 v 20 h -20 z m -257,0 h 20 v 20 h -20 z m 463,0 h 20 v 20 h -20 z m -412,0 h 20 v 20 h -20 z m 575,0 h 20 v 20 h -20 z m -276,0 h 40 v 20 h -40 z m 164,0 h 20 v 20 h -20 z m -370,0 h 40 v 20 h -40 z m 482,20 h 20 v 20 h -20 z m -626,0 h 20 v 20 h -20 z m 463,0 h 20 v 20 h -20 z m -319,0 h 40 v 20 h -40 z m 431,0 h 20 v 20 h -20 z m -61,0 h 20 v 20 h -20 z m -463,0 h 20 v 20 h -20 z m 299,0 h 40 v 20 h -40 z m -93,0 h 20 v 20 h -20 z m 93,20 h 40 v 20 h -40 z m 225,0 h 20 v 20 h -20 z m -431,0 h 40 v 20 h -40 z m 370,0 h 20 v 20 h -20 z m 112,0 h 20 v 20 h -20 z m -163,0 h 20 v 20 h -20 z m -206,0 h 20 v 20 h -20 z m -206,0 h 20 v 20 h -20 z m -51,0 h 20 v 20 h -20 z m 575,20 h 20 v 20 h -20 z m -524,0 h 20 v 20 h -20 z m 412,0 h 20 v 20 h -20 z m -319,0 h 40 v 20 h -40 z m 370,0 h 20 v 20 h -20 z m -514,0 h 20 v 20 h -20 z m 350,0 h 40 v 20 h -40 z m 276,0 h 20 v 20 h -20 z m -369,0 h 20 v 20 h -20 z m -206,20 h 20 v 20 h -20 z m 412,0 h 20 v 20 h -20 z m 112,0 h 20 v 20 h -20 z m -61,0 h 20 v 20 h -20 z m -514,0 h 20 v 20 h -20 z m 626,0 h 20 v 20 h -20 z m -369,0 h 20 v 20 h -20 z m 93,0 h 40 v 20 h -40 z m -206,0 h 40 v 20 h -40 z m 370,20 h 20 v 20 h -20 z m -370,0 h 40 v 20 h -40 z m 431,0 h 20 v 20 h -20 z m -225,0 h 40 v 20 h -40 z m 276,0 h 20 v 20 h -20 z m -369,0 h 20 v 20 h -20 z m 206,0 h 20 v 20 h -20 z m -412,0 h 20 v 20 h -20 z m -51,0 h 20 v 20 h -20 z m 575,20 h 20 v 21 h -20 z m -61,0 h 20 v 21 h -20 z m -164,0 h 40 v 21 h -40 z m 276,0 h 20 v 21 h -20 z m -626,0 h 20 v 21 h -20 z m 257,0 h 20 v 21 h -20 z m -206,0 h 20 v 21 h -20 z m 93,0 h 40 v 21 h -40 z m 319,0 h 20 v 21 h -20 z m -319,21 h 40 v 20 h -40 z m -93,0 h 20 v 20 h -20 z m 412,0 h 20 v 20 h -20 z m -113,0 h 40 v 20 h -40 z m 276,0 h 20 v 20 h -20 z m -626,0 h 20 v 20 h -20 z m 514,0 h 20 v 20 h -20 z m 61,0 h 20 v 20 h -20 z m -318,0 h 20 v 20 h -20 z m -113,20 h 40 v 9 h -40 z m 206,0 h 40 v 9 h -40 z m 164,0 h 20 v 9 h -20 z m -514,0 h 20 v 9 h -20 z m 626,0 h 20 v 9 h -20 z m -482,9 h 40 v 10 h -40 z m 431,-9 h 20 v 19 h -20 z m -524,0 h 20 v 19 h -20 z m 299,9 h 40 v 10 h -40 z m 113,-9 h 20 v 19 h -20 z m -206,0 h 20 v 19 h -20 z m 103,19 h 20 v 10 h -20 z m -360,-10 h 20 v 20 h -20 z m 154,10 h 20 v 10 h -20 z m 360,-10 h 20 v 20 h -20 z m 112,0 h 20 v 20 h -20 z m -623,47 h 643 v 20 h -643 z m 503,20 h 20 v 27 h -20 z m -380,0 h 20 v 30 h -20 z m 262,0 h 20 v 30 h -20 z m 108,27 h 39 v 20 h -39 z m -493,0 h 62 v 20 h -62 z m 245,3 h 38 v 20 h -38 z m 140,0 h 20 v 20 h -20 z m -262,0 h 20 v 20 h -20 z m 500,3 h 20 v 20 h -20 z m -500,17 h 20 v 10 h -20 z m 262,0 h 20 v 10 h -20 z m 238,3 h 20 v 21 h -20 z m -369,-3 h 20 v 33 h -20 z m 179,24 h 210 v 20 h -210 z m -376,0 h 38 v 20 h -38 z m 60,9 h 157 v 20 h -157 z m 0,20 h 20 v 19 h -20 z m -120,19 h 140 v 20 h -140 z m 379,0 h 155 v 20 h -155 z m 196,0 h 48 v 20 h -48 z m -318,-19 h 20 v 66 h -20 z m 75,-103 h 20 v 169 h -20 z m -84,169 h 38 v 20 h -38 z m 74,0 h 39 v 20 h -39 z m -150,0 h 50 v 20 h -50 z m 403,-27 h 20 v 74 h -20 z m -215,74 h 235 v 20 h -235 z m 0,20 h 20 v 22 h -20 z m 266,21 h 20 v 6 h -20 z m -626,1 h 20 v 5 h -20 z m 514,-1 h 20 v 6 h -20 z m -164,1 h 40 v 5 h -40 z m -206,0 h 40 v 5 h -40 z m 319,0 h 20 v 19 h -20 z m 112,0 h 20 v 19 h -20 z m -318,0 h 20 v 19 h -20 z m -206,0 h 20 v 19 h -20 z m 575,5 h 20 v 14 h -20 z m -112,0 h 20 v 14 h -20 z m -514,0 h 20 v 14 h -20 z m 463,14 h 20 v 20 h -20 z m 51,0 h 20 v 20 h -20 z m 112,0 h 20 v 20 h -20 z m -482,-14 h 40 v 34 h -40 z m 431,14 h 20 v 20 h -20 z m -575,0 h 20 v 20 h -20 z m 51,0 h 20 v 20 h -20 z m 206,0 h 20 v 20 h -20 z m 93,-14 h 40 v 34 h -40 z m -93,34 h 20 v 20 h -20 z m -206,0 h 20 v 20 h -20 z m -51,0 h 20 v 20 h -20 z m 144,0 h 40 v 20 h -40 z m 482,0 h 20 v 20 h -20 z m -112,0 h 20 v 20 h -20 z m 61,0 h 20 v 20 h -20 z m -225,0 h 40 v 20 h -40 z m 113,0 h 20 v 20 h -20 z m -206,20 h 20 v 20 h -20 z m 93,0 h 40 v 20 h -40 z m 164,0 h 20 v 20 h -20 z m -463,0 h 20 v 20 h -20 z m 524,0 h 20 v 20 h -20 z m -575,0 h 20 v 20 h -20 z m 626,0 h 20 v 20 h -20 z m -482,0 h 40 v 20 h -40 z m 319,0 h 20 v 20 h -20 z m 51,20 h 20 v 20 h -20 z m -514,0 h 20 v 20 h -20 z m 350,0 h 40 v 20 h -40 z m 276,0 h 20 v 20 h -20 z m -482,0 h 40 v 20 h -40 z m 113,0 h 20 v 68 h -20 z m 318,0 h 20 v 68 h -20 z m -112,0 h 20 v 68 h -20 z m -412,0 h 20 v 68 h -20 z m -72,68 h 688 v 2 h -688 z m 0,2 h 688 v 20 h -688 z m 0,20 h 688 v 1 h -688 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip12">
+      <path
+         id="path75"
+         d="m 1259.5,475.5 h 34 v 4 h -34 z m -626,0 h 34 v 4 h -34 z m 514,0 h 34 v 4 h -34 z m -360,0 h 34 v 4 h -34 z m 206,0 h 34 v 4 h -34 z m 154,4 h 34 v 20 h -34 z m -360,0 h 34 v 20 h -34 z m -154,0 h 34 v 20 h -34 z m 626,0 h 34 v 20 h -34 z m -266,0 h 34 v 20 h -34 z m -206,20 h 34 v 4 h -34 z m -154,0 h 34 v 4 h -34 z m 514,0 h 34 v 4 h -34 z m 112,0 h 34 v 4 h -34 z m -266,0 h 34 v 4 h -34 z m -157,18 h 32 v 4 h -32 z m 0,4 h 32 v 2 h -32 z m -1,2 h 34 v 27 h -34 z m 1,27 h 32 v 1 h -32 z m 0,1 h 32 v 4 h -32 z m 430,-48 h 20 v 70 h -20 z m -472,0 h 20 v 70 h -20 z m -116,67 h 35 v 3 h -35 z m 0,3 h 136 v 20 h -136 z m 0,20 h 35 v 4 h -35 z m 578,-20 h 39 v 31 h -39 z m -556,42 h 38 v 31 h -38 z m -60,-112 h 20 v 161 h -20 z m 514,0 h 20 v 161 h -20 z m -521,161 h 34 v 4 h -34 z m 514,0 h 34 v 4 h -34 z m 0,4 h 34 v 20 h -34 z m -514,0 h 34 v 20 h -34 z m 0,20 h 34 v 3 h -34 z m 514,0 h 34 v 3 h -34 z m 63,-26 h 39 v 31 h -39 z m -368,-107 h 20 v 151 h -20 z m -6,151 h 32 v 5 h -32 z m -1,5 h 34 v 4 h -34 z m 0,4 h 34 v 20 h -34 z m 0,20 h 34 v 3 h -34 z m 1,3 h 32 v 6 h -32 z m -42,-145 h 20 v 212 h -20 z m 206,-90 h 20 v 302 h -20 z m 266,101 h 20 v 201 h -20 z m -112,87 h 20 v 114 h -20 z m -514,0 h 20 v 114 h -20 z m -7,114 h 34 v 4 h -34 z m 360,0 h 34 v 4 h -34 z m 154,0 h 34 v 4 h -34 z m 112,0 h 34 v 4 h -34 z m -472,0 h 34 v 4 h -34 z m 0,4 h 34 v 20 h -34 z m 472,0 h 34 v 20 h -34 z m -266,0 h 34 v 20 h -34 z m -360,0 h 34 v 20 h -34 z m 514,0 h 34 v 20 h -34 z m -360,20 h 34 v 3 h -34 z m 360,0 h 34 v 3 h -34 z m -154,0 h 34 v 3 h -34 z m 266,0 h 34 v 3 h -34 z m -626,0 h 34 v 3 h -34 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip13">
+      <path
+         id="path78"
+         d="m 640.5,479.5 h 20 v 20 h -20 z m 626,0 h 20 v 20 h -20 z m -112,0 h 20 v 20 h -20 z m -154,0 h 20 v 20 h -20 z m -206,0 h 20 v 20 h -20 z m 48,47 h 20 v 20 h -20 z m -157,47 h 20 v 20 h -20 z m 581,6 h 20 v 20 h -20 z m -557,41 h 20 v 20 h -20 z m -69,48 h 20 v 20 h -20 z m 580,0 h 20 v 20 h -20 z m -66,0 h 20 v 20 h -20 z m -312,47 h 20 v 20 h -20 z m -202,94 h 20 v 14 h -20 z m 360,0 h 20 v 14 h -20 z m 154,0 h 20 v 14 h -20 z m 112,0 h 20 v 14 h -20 z m -472,0 h 20 v 14 h -20 z m -154,14 h 20 v 6 h -20 z m 360,0 h 20 v 6 h -20 z m 266,0 h 20 v 6 h -20 z m -472,0 h 20 v 6 h -20 z m 360,0 h 20 v 6 h -20 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAA9SURBVDiN7ZAhEgAgDMNS/v/nIsAgtnpuMzG7axsIJ9xTYEDUBJ/nkqGDQ48FulEFQ36uMR7o94+Hl3942JrBc/FcUmODAAAAAElFTkSuQmCC"
+       height="32"
+       width="32"
+       id="image286" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern6">
+      <use
+         id="use82"
+         xlink:href="#image286" />
+    </pattern>
+    <mask
+       id="mask6">
+      <rect
+         id="rect85"
+         style="fill:url(#pattern6);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+    <clipPath
+       id="clip14">
+      <path
+         id="path88"
+         d="m 836.5,517.5 h 32 v 4 h -32 z m 0,4 h 32 v 30 h -32 z m 0,30 h 32 v 4 h -32 z m 420,22 h 39 v 31 h -39 z m -556,42 h 38 v 31 h -38 z m 510,47 h 39 v 31 h -39 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip15">
+      <path
+         id="path91"
+         d="m 837.5,521.5 h 31 v 5 h -31 z m 0,5 h 31 v 20 h -31 z m 0,20 h 31 v 5 h -31 z m 424,27 h 30 v 6 h -30 z m 0,6 h 30 v 20 h -30 z m 0,20 h 30 v 5 h -30 z m -557,16 h 30 v 5 h -30 z m 0,5 h 30 v 20 h -30 z m 0,20 h 30 v 6 h -30 z m 511,22 h 30 v 6 h -30 z m 0,6 h 30 v 20 h -30 z m 0,20 h 30 v 5 h -30 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAABASURBVDiN7dCxEQAgCATBhf57xoBUsQAluYThnwtQxIGpQJyYlN7fM6bzgXSZnPK75JBPddz85rXD9/A9POdhAZH9ZDMXFbbWAAAAAElFTkSuQmCC"
+       height="32"
+       width="32"
+       id="image287" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern7">
+      <use
+         id="use95"
+         xlink:href="#image287" />
+    </pattern>
+    <mask
+       id="mask7">
+      <rect
+         id="rect98"
+         style="fill:url(#pattern7);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+  </defs>
+  <g
+     transform="translate(-613.5,-97.5)"
+     id="surface279">
+    <g
+       style="clip-rule:nonzero"
+       id="g103"
+       clip-path="url(#clip1)" />
+    <path
+       id="path105"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 614,981 h 698 M 614,515 h 698 m -698,0 v 466 m 698,-466 v 466"
+       style="fill:none;stroke:#00de00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.49606299" />
+    <g
+       style="clip-rule:nonzero"
+       id="g109"
+       clip-path="url(#clip2)">
+      <rect
+         id="rect107"
+         mask="url(#mask0)"
+         style="fill:#00de00;fill-opacity:0.49606299;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       id="path111"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 635,126 h 49 m -49,-20 h 49 m -49,0 v 20 m 49,-20 v 20 m 31,0 h 49 m -49,-20 h 49 m -49,0 v 20 m 49,-20 v 20 m 32,0 h 48 m -48,-20 h 48 m -48,0 v 20 m 48,-20 v 20 m 32,0 h 48 m -48,-20 h 48 m -48,0 v 20 m 48,-20 v 20 m 32,0 h 48 m -48,-20 h 48 m -48,0 v 20 m 48,-20 v 20 m 32,0 h 48 m -48,-20 h 48 m -48,0 v 20 m 48,-20 v 20 m 32,0 h 48 m -48,-20 h 48 m -48,0 v 20 m 48,-20 v 20 m 32,0 h 49 m -49,-20 h 49 m -49,0 v 20 m 49,-20 v 20"
+       style="fill:none;stroke:#c77319;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.49606299" />
+    <g
+       style="clip-rule:nonzero"
+       id="g115"
+       clip-path="url(#clip3)">
+      <rect
+         id="rect113"
+         mask="url(#mask1)"
+         style="fill:#c77319;fill-opacity:0.49606299;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g119"
+       clip-path="url(#clip4)">
+      <rect
+         id="rect117"
+         style="fill:#eb0000;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g123"
+       clip-path="url(#clip5)">
+      <rect
+         id="rect121"
+         style="fill:#00de00;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g127"
+       clip-path="url(#clip6)">
+      <rect
+         id="rect125"
+         mask="url(#mask2)"
+         style="fill:#00de00;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g131"
+       clip-path="url(#clip7)">
+      <rect
+         id="rect129"
+         style="fill:#c77319;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g135"
+       clip-path="url(#clip8)">
+      <rect
+         id="rect133"
+         mask="url(#mask3)"
+         style="fill:#c77319;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g141"
+       clip-path="url(#clip9)">
+      <rect
+         id="rect137"
+         style="fill:#853800;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+      <rect
+         id="rect139"
+         mask="url(#mask4)"
+         style="fill:#00de00;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g147"
+       clip-path="url(#clip10)">
+      <rect
+         id="rect143"
+         style="fill:#a30000;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+      <rect
+         id="rect145"
+         mask="url(#mask5)"
+         style="fill:#c77319;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g151"
+       clip-path="url(#clip11)">
+      <rect
+         id="rect149"
+         style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g155"
+       clip-path="url(#clip12)">
+      <rect
+         id="rect153"
+         style="fill:#b066f0;fill-opacity:0.62992099;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       id="path157"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 640,600 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 134,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 186,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 134,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 92,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 M 842,553 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 M 685,506 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 4,-47 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -89,-48 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 606,89 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -132,-89 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 46,0 h 13 m -13,-20 h 13 m -13,0 v 20 m 13,-20 v 20 m 0,0 h 7 m -7,-20 h 7 m -7,0 v 20 m 7,-20 v 20 M 842,364 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 M 640,270 h 20 m -20,-14 h 20 m -20,0 v 14 m 20,-14 v 14 m -20,-14 h 20 m -20,-6 h 20 m -20,0 v 6 m 20,-6 v 6 m 134,14 h 20 m -20,-14 h 20 m -20,0 v 14 m 20,-14 v 14 m -20,-14 h 20 m -20,-6 h 20 m -20,0 v 6 m 20,-6 v 6 m 186,14 h 20 m -20,-14 h 20 m -20,0 v 14 m 20,-14 v 14 m -20,-14 h 20 m -20,-6 h 20 m -20,0 v 6 m 20,-6 v 6 m 134,14 h 20 m -20,-14 h 20 m -20,0 v 14 m 20,-14 v 14 m -20,-14 h 20 m -20,-6 h 20 m -20,0 v 6 m 20,-6 v 6 m 92,14 h 20 m -20,-14 h 20 m -20,0 v 14 m 20,-14 v 14 m -20,-14 h 20 m -20,-6 h 20 m -20,0 v 6 m 20,-6 v 6"
+       style="fill:none;stroke:#005eff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.94488196" />
+    <g
+       style="clip-rule:nonzero"
+       id="g161"
+       clip-path="url(#clip13)">
+      <rect
+         id="rect159"
+         mask="url(#mask6)"
+         style="fill:#005eff;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g165"
+       clip-path="url(#clip14)">
+      <rect
+         id="rect163"
+         style="fill:#ff78f3;fill-opacity:0.62992099;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       id="path167"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 837,558 h 31 m 0,-5 v 5 m -31,-5 v 5 m 5,-5 h 20 m -20,-20 v 20 m -5,-20 v 20 m 5,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 6,-20 v 20 m -6,-20 v 20 m -25,-25 h 31 m 0,0 v 5 m -31,-5 v 5 m 5,0 h 20 M 704,464 h 30 m 0,-5 v 5 m -30,-5 v 5 m 5,-5 h 20 m -20,-20 v 20 m -5,-20 v 20 m 5,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 5,-20 v 20 m -5,-20 v 20 m -25,-26 h 30 m 0,0 v 6 m -30,-6 v 6 m 5,0 h 20 m 532,67 h 30 m 0,-6 v 6 m -30,-6 v 6 m 5,-6 h 20 m -20,-20 v 20 m -5,-20 v 20 m 5,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 5,-20 v 20 m -5,-20 v 20 m -25,-25 h 30 m 0,0 v 5 m -30,-5 v 5 m 5,0 h 20 m -71,-63 h 30 m 0,-6 v 6 m -30,-6 v 6 m 5,-6 h 20 m -20,-20 v 20 m -5,-20 v 20 m 5,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 5,-20 v 20 m -5,-20 v 20 m -25,-25 h 30 m 0,0 v 5 m -30,-5 v 5 m 5,0 h 20"
+       style="fill:none;stroke:#7f00c2;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.94488196" />
+    <g
+       style="clip-rule:nonzero"
+       id="g171"
+       clip-path="url(#clip15)">
+      <rect
+         id="rect169"
+         mask="url(#mask7)"
+         style="fill:#7f00c2;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       id="path173"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 650,959 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 M 640,870 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-41 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 31,241 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-41 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 83,241 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-41 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 83,241 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-41 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 83,241 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-41 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 83,241 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-41 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 31,241 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-41 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 41,241 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-41 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 31,241 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-41 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 M 652,506 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 94,-3 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -77,-44 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 168,44 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 111,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 98,3 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -81,-47 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -77,-48 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 M 822,364 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 55,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 55,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 241,47 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 M 640,256 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 31,40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 83,40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 83,40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 83,40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 83,40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 31,40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 41,40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 31,40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m -20,-40 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 M 650,126 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20 m 60,0 h 20 m -20,-20 h 20 m -20,0 v 20 m 20,-20 v 20"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
+    <path
+       id="path175"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 650,939 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m -590,-89 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-41 20,20 m -20,0 20,-20 m 31,241 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-41 20,20 m -20,0 20,-20 m 83,241 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-41 20,20 m -20,0 20,-20 m 83,241 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-41 20,20 m -20,0 20,-20 m 83,241 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-41 20,20 m -20,0 20,-20 m 83,241 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-41 20,20 m -20,0 20,-20 m 31,241 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-41 20,20 m -20,0 20,-20 m 41,241 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-41 20,20 m -20,0 20,-20 m 31,241 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -20,-41 20,20 m -20,0 20,-20 m -634,-123 20,20 m -20,0 20,-20 m 94,-3 20,20 m -20,0 20,-20 m -77,-44 20,20 m -20,0 20,-20 m 168,44 20,20 m -20,0 20,-20 m 111,0 20,20 m -20,0 20,-20 m 98,3 20,20 m -20,0 20,-20 m -81,-47 20,20 m -20,0 20,-20 m -77,-48 20,20 m -20,0 20,-20 m -226,-47 20,20 m -20,0 20,-20 m 55,0 20,20 m -20,0 20,-20 m 55,0 20,20 m -20,0 20,-20 m 241,47 20,20 m -20,0 20,-20 m -613,-155 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m 31,40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m 83,40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m 83,40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m 83,40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m 83,40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m 31,40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m 41,40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m 31,40 20,20 m -20,0 20,-20 m -20,-40 20,20 m -20,0 20,-20 m -636,-90 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20 m 60,0 20,20 m -20,0 20,-20"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
+    <path
+       id="path177"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 939,113 v 5 m -3,-2 h 5 m 1,832 v 5 m -3,-2 h 5"
+       style="fill:none;stroke:#ffff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
+    <path
+       id="path179"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 1294,502 v 5 m -3,-2 h 5"
+       style="fill:none;stroke:#000099;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
+    <path
+       id="path181"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 1294,505 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0"
+       style="fill:none;stroke:#30e3e1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+    <path
+       id="path183"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 866,557 v 5 m -3,-2 h 5"
+       style="fill:none;stroke:#000099;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
+    <path
+       id="path185"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 866,560 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0"
+       style="fill:none;stroke:#30e3e1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+    <path
+       id="path187"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 1212,410 v 5 m -3,-2 h 5"
+       style="fill:none;stroke:#000099;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
+    <path
+       id="path189"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 1212,413 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0"
+       style="fill:none;stroke:#30e3e1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+    <path
+       id="path191"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 701,459 v 5 m -3,-2 h 5"
+       style="fill:none;stroke:#000099;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
+    <path
+       id="path193"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 701,462 v 0 m 0,0 v 0 m 0,0 v 0 m 0,0 v 0"
+       style="fill:none;stroke:#30e3e1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1277 -1260 1277 1277
+<< viali >>
+rect -17 0 17 17
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_mcon_05.gds
+string GDS_END 226
+string GDS_START 158
+<< end >>

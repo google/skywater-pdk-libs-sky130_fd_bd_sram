@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg47"
+   version="1.2"
+   viewBox="0 0 1364 877"
+   height="877pt"
+   width="1364pt">
+  <metadata
+     id="metadata51">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24">
+    <clipPath
+       id="clip1">
+      <path
+         id="path2"
+         d="M 18.5,2.5 H 1898 V 1059 H 18.5 Z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         id="path5"
+         d="m 1538.5,463.5 h 103 v 144 h -103 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         id="path8"
+         d="m 278.5,163.5 h 1332 v 133 h -1332 z m 0,133 h 117 v 39 h -117 z m 211,133 h 1121 v 34 h -1121 z m 0,34 h 1152 v 5 h -1152 z m -211,5 h 1363 v 133 h -1363 z m 211,133 h 1152 v 6 h -1152 z m 0,6 h 1121 v 33 h -1121 z m -211,128 h 117 v 38 h -117 z m 0,38 h 1332 v 134 h -1332 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <path
+         id="path11"
+         d="m 1538.5,463.5 h 103 v 144 h -103 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAABASURBVDiN7dCxEQAgCATBhf57xoBUsQAluYThnwtQxIGpQJyYlN7fM6bzgXSZnPK75JBPddz85rXD9/A9POdhAZH9ZDMXFbbWAAAAAElFTkSuQmCC"
+       height="32"
+       width="32"
+       id="image202" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern0">
+      <use
+         id="use15"
+         xlink:href="#image202" />
+    </pattern>
+    <mask
+       id="mask0">
+      <rect
+         id="rect18"
+         style="fill:url(#pattern0);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+    <clipPath
+       id="clip5">
+      <path
+         id="path21"
+         d="m 278.5,96.5 h 1332 v 114 h -1332 z m 0,281 h 1332 v 316 h -1332 z m 0,482 h 1332 v 114 h -1332 z m 0,0" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(-278.5,-96.5)"
+     id="surface199">
+    <g
+       style="clip-rule:nonzero"
+       id="g26"
+       clip-path="url(#clip1)" />
+    <g
+       style="clip-rule:nonzero"
+       id="g30"
+       clip-path="url(#clip2)">
+      <rect
+         id="rect28"
+         style="fill:#b066f0;fill-opacity:0.62992099;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g34"
+       clip-path="url(#clip3)">
+      <rect
+         id="rect32"
+         style="fill:#ff78f3;fill-opacity:0.62992099;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       id="path36"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 1538,616 h 103 M 1538,472 h 103 m -103,0 v 144 m 103,-144 v 144"
+       style="fill:none;stroke:#7f00c2;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.94488196" />
+    <g
+       style="clip-rule:nonzero"
+       id="g40"
+       clip-path="url(#clip4)">
+      <rect
+         id="rect38"
+         mask="url(#mask0)"
+         style="fill:#7f00c2;fill-opacity:0.94488196;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g44"
+       clip-path="url(#clip5)">
+      <rect
+         id="rect42"
+         style="fill:#878787;fill-opacity:0.62992099;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>

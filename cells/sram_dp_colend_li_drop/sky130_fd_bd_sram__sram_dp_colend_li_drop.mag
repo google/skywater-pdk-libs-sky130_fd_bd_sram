@@ -1,0 +1,11 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1261 1261
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_li_drop.gds
+string GDS_END 306
+string GDS_START 174
+<< end >>

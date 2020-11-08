@@ -1,0 +1,34 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1520 1576
+<< pdiffc >>
+rect 14 142 17 174
+<< locali >>
+rect 0 174 14 175
+rect 0 141 14 142
+<< metal1 >>
+rect 0 0 14 15
+use sky130_fd_bd_sram__sram_sp_rowend_met2  sky130_fd_bd_sram__sram_sp_rowend_met2_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 24 260 257
+use sky130_fd_bd_sram__sram_sp_rowenda_p1m_siz  sky130_fd_bd_sram__sram_sp_rowenda_p1m_siz_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_sp_rowend_ce  sky130_fd_bd_sram__sram_sp_rowend_ce_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 260 316
+<< labels >>
+flabel metal2 s 33 76 33 76 0 FreeSans 2000 0 0 0 wl
+flabel metal1 s 0 0 14 15 0 FreeSans 40 90 0 0 vpwr
+port 0 nsew
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_rowenda.gds
+string GDS_END 3510
+string GDS_START 3134
+<< end >>

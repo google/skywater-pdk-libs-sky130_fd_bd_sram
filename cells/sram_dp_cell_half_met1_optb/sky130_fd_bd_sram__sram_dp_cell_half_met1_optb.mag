@@ -1,0 +1,20 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1500 1576
+<< metal1 >>
+rect 0 216 42 298
+rect 0 18 42 100
+rect 78 0 114 316
+rect 150 0 186 316
+rect 222 0 240 316
+<< labels >>
+flabel comment s 45 57 45 57 0 FreeSans 100 0 0 0 short met1
+flabel comment s 43 259 43 259 0 FreeSans 100 0 0 0 short met1
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_half_met1_optb.gds
+string GDS_END 646
+string GDS_START 182
+<< end >>

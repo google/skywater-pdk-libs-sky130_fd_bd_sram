@@ -1,0 +1,75 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1236 1740 1553
+use sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optd  sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optd_0
+timestamp 0
+transform 1 0 0 0 1 24
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optc  sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optc_0
+timestamp 0
+transform 1 0 0 0 1 54
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optd  sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optd_1
+timestamp 0
+transform -1 0 480 0 1 24
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optc  sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optc_1
+timestamp 0
+transform -1 0 480 0 1 54
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta  sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta_1
+timestamp 0
+transform 1 0 34 0 1 134
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_poly_srf_dp_opta  sky130_fd_bd_sram__sram_dp_cell_poly_srf_dp_opta_1
+timestamp 0
+transform 1 0 89 0 1 179
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_poly_srf_optb  sky130_fd_bd_sram__sram_dp_cell_poly_srf_optb_0
+timestamp 0
+transform 1 0 288 0 1 132
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_poly_srf_dp_opta  sky130_fd_bd_sram__sram_dp_cell_poly_srf_dp_opta_0
+timestamp 0
+transform -1 0 391 0 1 179
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta  sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta_4
+timestamp 0
+transform -1 0 446 0 1 134
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta  sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta_0
+timestamp 0
+transform 1 0 34 0 1 212
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optb  sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optb_1
+timestamp 0
+transform 1 0 0 0 1 262
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta  sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta_2
+timestamp 0
+transform 1 0 242 0 1 214
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta  sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta_3
+timestamp 0
+transform -1 0 446 0 1 212
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optb  sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_optb_0
+timestamp 0
+transform -1 0 480 0 1 262
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_opta  sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_opta_0
+timestamp 0
+transform 1 0 0 0 1 292
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_opta  sky130_fd_bd_sram__sram_dp_cell_half_poly_siz_opta_1
+timestamp 0
+transform -1 0 480 0 1 292
+box 0 0 1 1
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_opt1_poly_siz.gds
+string GDS_END 4268
+string GDS_START 1798
+<< end >>

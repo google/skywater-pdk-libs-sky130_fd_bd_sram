@@ -1,0 +1,62 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1295 -1271 1882 1587
+<< psubdiffcont >>
+rect 460 0 494 17
+<< polycont >>
+rect 567 262 601 292
+<< locali >>
+rect 594 174 611 175
+rect 594 141 611 142
+use sky130_fd_bd_sram__sram_dp_swldrv_strap1  sky130_fd_bd_sram__sram_dp_swldrv_strap1_0
+timestamp 0
+transform 1 0 0 0 -1 316
+box -35 0 78 316
+use sky130_fd_bd_sram__sram_dp_mcon_05  sky130_fd_bd_sram__sram_dp_mcon_05_0
+timestamp 0
+transform 0 1 0 -1 0 57
+box -17 0 17 17
+use sky130_fd_bd_sram__sram_dp_swldrv_mcon_a  sky130_fd_bd_sram__sram_dp_swldrv_mcon_a_0
+timestamp 0
+transform 1 0 126 0 -1 302
+box -9 -4 223 268
+use sky130_fd_bd_sram__sram_dp_swldrv_coreid  sky130_fd_bd_sram__sram_dp_swldrv_coreid_0
+timestamp 0
+transform 1 0 385 0 1 0
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_swldrv_p1lic  sky130_fd_bd_sram__sram_dp_swldrv_p1lic_0
+timestamp 0
+transform 1 0 611 0 -1 316
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_swldrv_met2_lwl  sky130_fd_bd_sram__sram_dp_swldrv_met2_lwl_0
+timestamp 0
+transform 1 0 611 0 -1 316
+box -137 121 0 185
+use sky130_fd_bd_sram__sram_dp_swldrv_p1m_siz_a  sky130_fd_bd_sram__sram_dp_swldrv_p1m_siz_a_0
+timestamp 0
+transform 1 0 611 0 1 1
+box -52 23 -33 292
+use sky130_fd_bd_sram__sram_dp_swldrv_p1m_ser  sky130_fd_bd_sram__sram_dp_swldrv_p1m_ser_0
+timestamp 0
+transform 1 0 611 0 1 0
+box -52 54 -34 293
+use sky130_fd_bd_sram__sram_dp_swldrv_base  sky130_fd_bd_sram__sram_dp_swldrv_base_0
+timestamp 0
+transform 1 0 611 0 -1 316
+box -611 0 0 316
+use sky130_fd_bd_sram__sram_dp_swldrv_tap  sky130_fd_bd_sram__sram_dp_swldrv_tap_0
+timestamp 0
+transform 1 0 0 0 -1 47
+box 0 -62 519 47
+use sky130_fd_bd_sram__sram_dp_swldrv_met23_1a  sky130_fd_bd_sram__sram_dp_swldrv_met23_1a_0
+timestamp 0
+transform 1 0 611 0 -1 316
+box -622 -11 11 327
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_swldrv_opt1b.gds
+string GDS_END 10464
+string GDS_START 9696
+<< end >>

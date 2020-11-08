@@ -1,0 +1,55 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1740 1576
+<< ndiffc >>
+rect 42 299 76 316
+rect 404 299 438 316
+rect 42 220 76 254
+rect 404 220 438 254
+rect 0 142 17 174
+rect 463 142 480 174
+rect 42 62 76 96
+rect 404 62 438 96
+rect 42 0 76 17
+rect 404 0 438 17
+<< pdiffc >>
+rect 256 222 284 256
+rect 256 141 284 175
+rect 256 60 284 94
+<< nsubdiffcont >>
+rect 175 145 202 179
+<< poly >>
+rect 256 102 306 132
+<< polycont >>
+rect 107 182 139 188
+rect 109 154 139 182
+rect 341 134 371 162
+rect 341 128 373 134
+use sky130_fd_bd_sram__sram_dp_cell_ndiff  sky130_fd_bd_sram__sram_dp_cell_ndiff_0
+timestamp 0
+transform -1 0 480 0 1 0
+box 0 0 80 316
+use sky130_fd_bd_sram__sram_dp_cell_ndiff  sky130_fd_bd_sram__sram_dp_cell_ndiff_1
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 80 316
+use sky130_fd_bd_sram__sram_dp_cell_poly_chair  sky130_fd_bd_sram__sram_dp_cell_poly_chair_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 22 256 294
+use sky130_fd_bd_sram__sram_dp_cell_poly_chair  sky130_fd_bd_sram__sram_dp_cell_poly_chair_1
+timestamp 0
+transform -1 0 480 0 -1 316
+box 0 22 256 294
+use sky130_fd_bd_sram__sram_dp_cell_pdiff  sky130_fd_bd_sram__sram_dp_cell_pdiff_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 144 0 336 316
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell.gds
+string GDS_END 4008
+string GDS_START 3522
+<< end >>

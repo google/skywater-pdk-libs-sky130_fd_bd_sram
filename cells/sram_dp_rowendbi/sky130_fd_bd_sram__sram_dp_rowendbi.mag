@@ -1,0 +1,91 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1271 1483 1576
+<< nwell >>
+rect 121 0 188 316
+<< pwell >>
+rect 37 0 95 316
+<< psubdiff >>
+rect 37 299 49 316
+rect 83 299 95 316
+rect 37 254 95 299
+rect 37 220 49 254
+rect 83 220 95 254
+rect 37 175 95 220
+rect 37 141 49 175
+rect 83 141 95 175
+rect 37 96 95 141
+rect 37 62 49 96
+rect 83 62 95 96
+rect 37 17 95 62
+rect 37 0 49 17
+rect 83 0 95 17
+<< nsubdiff >>
+rect 157 77 188 108
+rect 157 43 171 77
+rect 157 19 188 43
+<< psubdiffcont >>
+rect 49 299 83 316
+rect 49 220 83 254
+rect 49 141 83 175
+rect 49 62 83 96
+rect 49 0 83 17
+<< nsubdiffcont >>
+rect 171 43 188 77
+<< poly >>
+rect 149 299 188 316
+rect 149 265 171 299
+rect 149 199 188 265
+<< polycont >>
+rect 171 265 188 299
+<< locali >>
+rect 0 299 49 316
+rect 0 254 83 299
+rect 0 220 49 254
+rect 155 299 188 316
+rect 155 265 171 299
+rect 155 234 188 265
+rect 0 175 83 220
+rect 0 141 49 175
+rect 0 96 83 141
+rect 0 62 49 96
+rect 0 17 83 62
+rect 155 77 188 87
+rect 155 43 171 77
+rect 155 33 188 43
+rect 0 0 49 17
+<< metal1 >>
+rect 89 0 110 316
+<< via1 >>
+rect 162 -11 199 26
+<< metal2 >>
+rect 89 28 188 48
+rect 89 0 160 28
+<< via2 >>
+rect 160 26 196 28
+rect 160 -8 162 26
+rect 162 -8 196 26
+<< metal3 >>
+rect 89 275 188 316
+rect 89 28 188 41
+rect 89 0 160 28
+use sky130_fd_bd_sram__sram_dp_licon_05  sky130_fd_bd_sram__sram_dp_licon_05_0
+timestamp 0
+transform 0 -1 188 1 0 282
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_rowend_strp  sky130_fd_bd_sram__sram_dp_rowend_strp_0
+timestamp 0
+transform 1 0 11 0 1 0
+box -10 0 42 316
+use sky130_fd_bd_sram__sram_dp_swldrv_strap1  sky130_fd_bd_sram__sram_dp_swldrv_strap1_0
+timestamp 0
+transform -1 0 188 0 -1 316
+box -35 0 78 316
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_rowendbi.gds
+string GDS_END 2728
+string GDS_START 1094
+<< end >>

@@ -1,0 +1,40 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1882 -1271 1271 1587
+<< via1 >>
+rect -622 290 -585 327
+rect -26 290 11 327
+rect -26 -11 11 26
+<< metal2 >>
+rect -583 288 -563 316
+rect -611 268 -563 288
+rect -291 290 -26 316
+rect -291 279 0 290
+rect -291 220 -195 279
+rect -611 135 -195 220
+rect -568 28 -472 48
+rect -568 0 -548 28
+rect -492 0 -472 28
+rect -291 37 -195 135
+rect -291 26 0 37
+rect -291 0 -26 26
+<< via2 >>
+rect -619 290 -585 324
+rect -585 290 -583 324
+rect -619 288 -583 290
+rect -548 -8 -492 28
+<< metal3 >>
+rect -583 288 0 316
+rect -611 275 0 288
+rect -611 101 0 215
+rect -611 28 0 41
+rect -611 0 -548 28
+rect -492 0 0 28
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_swldrv_met23_1.gds
+string GDS_END 946
+string GDS_START 174
+<< end >>

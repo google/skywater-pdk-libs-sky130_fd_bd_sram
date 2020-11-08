@@ -1,0 +1,31 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1751 1576
+<< via1 >>
+rect -11 132 26 184
+rect 454 132 491 184
+<< metal2 >>
+rect 0 244 480 292
+rect 0 184 480 196
+rect 26 132 454 184
+rect 0 120 480 132
+rect 0 24 480 72
+<< metal3 >>
+rect 0 275 480 316
+rect 0 101 480 215
+rect 0 0 480 41
+<< labels >>
+flabel metal3 s 240 298 240 298 0 FreeSans 200 0 0 0 vpwr
+flabel metal3 s 240 23 240 23 0 FreeSans 200 0 0 0 vpwr
+flabel metal3 s 240 178 240 178 0 FreeSans 200 0 0 0 gwl
+flabel metal2 s 240 48 240 48 0 FreeSans 200 0 0 0 swl (k or j)
+flabel metal2 s 240 268 240 268 0 FreeSans 200 0 0 0 swl (j or k)
+flabel metal2 s 240 148 240 148 0 FreeSans 200 0 0 0 vgnd
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_met23_opt1.gds
+string GDS_END 1090
+string GDS_START 174
+<< end >>

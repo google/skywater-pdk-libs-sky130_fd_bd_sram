@@ -1,0 +1,34 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1520 1671
+<< metal1 >>
+rect 50 375 110 411
+rect 152 375 212 411
+rect 0 0 14 19
+use sky130_fd_bd_sram__sram_sp_corner_met2  sky130_fd_bd_sram__sram_sp_corner_met2_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 4 260 411
+use sky130_fd_bd_sram__sram_sp_cornera_p1m_serif  sky130_fd_bd_sram__sram_sp_cornera_p1m_serif_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_sp_corner_ce  sky130_fd_bd_sram__sram_sp_corner_ce_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 260 411
+<< labels >>
+flabel metal1 s 152 375 212 411 0 FreeSans 100 0 0 0 vnb
+port 0 nsew
+flabel metal1 s 0 0 14 19 0 FreeSans 40 90 0 0 vpwr
+port 2 nsew
+flabel metal1 s 50 375 110 411 0 FreeSans 100 0 0 0 vpb
+port 1 nsew
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_cornera.gds
+string GDS_END 3182
+string GDS_START 2464
+<< end >>

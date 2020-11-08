@@ -1,0 +1,65 @@
+# Copyright 2020 The SkyWater PDK Authors
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# SPDX-License-Identifier: Apache-2.0
+
+VERSION 5.7 ;
+  NOWIREEXTENSIONATPIN ON ;
+  DIVIDERCHAR "/" ;
+  BUSBITCHARS "[]" ;
+MACRO sky130_fd_bd_sram__sram_dp_colend_swldrv
+  CLASS BLOCK ;
+  FOREIGN sky130_fd_bd_sram__sram_dp_colend_swldrv ;
+  ORIGIN  3.055000  0.000000 ;
+  SIZE  3.055000 BY  1.925000 ;
+  OBS
+    LAYER li1 ;
+      RECT -3.055000 0.000000 -1.745000 0.085000 ;
+      RECT -3.055000 0.085000 -1.875000 0.385000 ;
+      RECT -3.055000 0.385000 -2.890000 0.545000 ;
+      RECT -3.055000 0.975000  0.000000 1.145000 ;
+      RECT -0.760000 0.585000  0.000000 0.975000 ;
+      RECT -0.755000 0.000000 -0.420000 0.085000 ;
+      RECT -0.755000 0.310000 -0.585000 0.480000 ;
+      RECT -0.220000 0.120000 -0.070000 0.265000 ;
+      RECT -0.220000 0.265000 -0.050000 0.270000 ;
+    LAYER mcon ;
+      RECT -3.055000 0.200000 -2.970000 0.370000 ;
+      RECT -0.590000 0.000000 -0.420000 0.085000 ;
+      RECT -0.085000 0.775000  0.000000 0.945000 ;
+    LAYER met1 ;
+      RECT -3.055000 0.000000 -2.870000 1.925000 ;
+      RECT -2.465000 0.000000 -2.215000 1.925000 ;
+      RECT -2.015000 0.000000 -1.765000 1.925000 ;
+      RECT -1.565000 0.000000 -1.315000 1.925000 ;
+      RECT -1.115000 0.000000 -0.865000 1.925000 ;
+      RECT -0.620000 0.000000  0.000000 1.925000 ;
+    LAYER nwell ;
+      RECT -1.480000 0.000000 -1.300000 0.160000 ;
+    LAYER nwell ;
+      RECT -1.545000 0.160000 -1.300000 0.375000 ;
+    LAYER nwell ;
+      RECT -3.055000 0.375000 -1.300000 0.785000 ;
+    LAYER pwell ;
+      RECT -0.960000 0.000000 -0.460000 0.715000 ;
+      RECT -0.960000 0.715000  0.000000 0.915000 ;
+    LAYER pwell ;
+      RECT -3.055000 0.000000 -1.480000 0.160000 ;
+    LAYER pwell ;
+      RECT -3.055000 0.160000 -1.545000 0.375000 ;
+    LAYER pwell ;
+      RECT -3.055000 0.915000 0.000000 1.205000 ;
+  END
+END sky130_fd_bd_sram__sram_dp_colend_swldrv
+END LIBRARY

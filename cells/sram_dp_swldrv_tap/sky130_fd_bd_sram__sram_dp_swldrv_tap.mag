@@ -1,0 +1,36 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1322 1779 1307
+<< pwell >>
+rect 0 15 315 47
+rect 0 -28 302 15
+rect 419 7 519 47
+<< psubdiff >>
+rect 419 7 519 47
+<< nsubdiff >>
+rect 0 15 315 47
+rect 0 -28 302 15
+<< locali >>
+rect 0 30 262 47
+rect 0 -30 236 30
+rect 0 -62 33 -30
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_0
+timestamp 0
+transform 1 0 152 0 1 13
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_1
+timestamp 0
+transform 1 0 76 0 1 13
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_05  sky130_fd_bd_sram__sram_dp_licon_05_0
+timestamp 0
+transform 0 1 0 -1 0 13
+box 0 0 1 1
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_swldrv_tap.gds
+string GDS_END 1288
+string GDS_START 498
+<< end >>

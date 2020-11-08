@@ -1,0 +1,15 @@
+magic
+tech sky130A
+timestamp 0
+<< checkpaint >>
+rect -630 -630 750 788
+<< metal1 >>
+rect 0 0 21 158
+rect 39 0 57 158
+rect 75 0 93 158
+rect 111 0 120 158
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_half_met1_opta.gds
+string GDS_END 442
+string GDS_START 182
+<< end >>

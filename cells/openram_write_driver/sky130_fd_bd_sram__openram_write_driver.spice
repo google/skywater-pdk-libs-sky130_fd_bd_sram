@@ -1,0 +1,35 @@
+* Copyright 2020 The SkyWater PDK Authors
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*     https://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*
+* SPDX-License-Identifier: Apache-2.0
+
+
+.subckt sky130_fd_bd_sram__openram_write_driver BL BR DIN E_N GND VDD
+X0 a_183_1687# a_129_736# VDD VDD sky130_fd_pr__pfet_01v8 w=550000u l=150000u
+X1 a_213_736# E_N a_129_736# GND sky130_fd_pr__nfet_01v8 w=550000u l=150000u
+X2 VDD DIN a_41_1120# VDD sky130_fd_pr__pfet_01v8 w=550000u l=150000u
+X3 BR a_121_1585# GND GND sky130_fd_pr__nfet_01v8 w=1e+06u l=150000u
+X4 GND a_41_1120# a_121_1585# GND sky130_fd_pr__nfet_01v8 w=360000u l=150000u
+X5 a_41_1120# E_N VDD VDD sky130_fd_pr__pfet_01v8 w=550000u l=150000u
+X6 GND DIN a_145_492# GND sky130_fd_pr__nfet_01v8 w=550000u l=150000u
+X7 a_129_736# a_271_690# VDD VDD sky130_fd_pr__pfet_01v8 w=550000u l=150000u
+X8 a_145_492# E_N a_41_1120# GND sky130_fd_pr__nfet_01v8 w=550000u l=150000u
+X9 VDD E_N a_129_736# VDD sky130_fd_pr__pfet_01v8 w=550000u l=150000u
+X10 a_183_1687# a_129_736# GND GND sky130_fd_pr__nfet_01v8 w=360000u l=150000u
+X11 a_271_690# DIN VDD VDD sky130_fd_pr__pfet_01v8 w=550000u l=150000u
+X12 VDD a_41_1120# a_121_1585# VDD sky130_fd_pr__pfet_01v8 w=550000u l=150000u
+X13 a_271_690# DIN GND GND sky130_fd_pr__nfet_01v8 w=360000u l=150000u
+X14 GND a_183_1687# BL GND sky130_fd_pr__nfet_01v8 w=1e+06u l=150000u
+X15 GND a_271_690# a_213_736# GND sky130_fd_pr__nfet_01v8 w=550000u l=150000u
+.ends

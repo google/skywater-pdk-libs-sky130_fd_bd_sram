@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg42"
+   version="1.2"
+   viewBox="0 0 668 878"
+   height="878pt"
+   width="668pt">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21">
+    <clipPath
+       id="clip1">
+      <path
+         id="path2"
+         d="M 18.5,2.5 H 1898 V 1059 H 18.5 Z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         id="path5"
+         d="m 670.5,96.5 h 627 v 42 h -627 z m 233,42 h 394 v 28 h -394 z m 25,122 h 369 v 100 h -369 z m 0,100 h 94 v 241 h -94 z m 180,100 h 189 v 150 h -189 z m -477,-244 h 39 v 419 h -39 z m 116,0 h 95 v 494 h -95 z m 0,494 h 550 v 2 h -550 z m -77,2 h 627 v 97 h -627 z m 0,192 h 288 v 69 h -288 z m 366,0 h 261 v 69 h -261 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         id="path8"
+         d="m 1250.5,488.5 h 47 v 94 h -47 z m -619,0 h 47 v 94 h -47 z m 219,438 h 94 v 47 h -94 z m 200,0 h 94 v 47 h -94 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <path
+         id="path11"
+         d="m 1250.5,488.5 h 47 v 94 h -47 z m -619,0 h 47 v 94 h -47 z m 219,438 h 94 v 47 h -94 z m 200,0 h 94 v 47 h -94 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAA9SURBVDiN7ZAhEgAgDMNS/v/nIsAgtnpuMzG7axsIJ9xTYEDUBJ/nkqGDQ48FulEFQ36uMR7o94+Hl3942JrBc/FcUmODAAAAAElFTkSuQmCC"
+       height="32"
+       width="32"
+       id="image236" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern0">
+      <use
+         id="use15"
+         xlink:href="#image236" />
+    </pattern>
+    <mask
+       id="mask0">
+      <rect
+         id="rect18"
+         style="fill:url(#pattern0);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+  </defs>
+  <g
+     transform="translate(-630.5,-96.5)"
+     id="surface233">
+    <g
+       style="clip-rule:nonzero"
+       id="g23"
+       clip-path="url(#clip1)" />
+    <g
+       style="clip-rule:nonzero"
+       id="g27"
+       clip-path="url(#clip2)">
+      <rect
+         id="rect25"
+         style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g33"
+       clip-path="url(#clip3)">
+      <rect
+         id="rect29"
+         style="fill:#78a1f5;fill-opacity:0.50393701;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+      <rect
+         id="rect31"
+         style="fill:#b894d9;fill-opacity:0.50393701;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       id="path35"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="m 850,153 h 94 m -94,-47 h 94 m -94,0 v 47 m 94,-47 v 47 M 631,591 h 47 m -47,-94 h 47 m -47,0 v 94 m 47,-94 v 94 m 572,0 h 47 m -47,-94 h 47 m -47,0 v 94 m 47,-94 v 94 M 1050,153 h 94 m -94,-47 h 94 m -94,0 v 47 m 94,-47 v 47"
+       style="fill:none;stroke:#2e9c9c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
+    <g
+       style="clip-rule:nonzero"
+       id="g39"
+       clip-path="url(#clip4)">
+      <rect
+         id="rect37"
+         mask="url(#mask0)"
+         style="fill:#2e9c9c;fill-opacity:0.72440898;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>

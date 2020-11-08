@@ -1,0 +1,44 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1741 1368
+<< pwell >>
+rect 0 19 42 108
+<< ndiff >>
+rect 419 0 481 40
+<< pdiff >>
+rect 100 45 286 57
+rect 100 11 118 45
+rect 152 11 210 45
+rect 244 11 286 45
+rect 100 0 286 11
+<< nsubdiff >>
+rect 0 19 42 108
+<< psubdiffcont >>
+rect 118 11 152 45
+rect 210 11 244 45
+<< locali >>
+rect 0 77 130 87
+rect 0 43 35 77
+rect 69 54 130 77
+rect 69 45 260 54
+rect 69 43 118 45
+rect 0 33 118 43
+rect 102 11 118 33
+rect 152 11 210 45
+rect 244 11 260 45
+rect 102 0 136 11
+<< viali >>
+rect 35 43 69 77
+<< metal1 >>
+rect 0 77 78 95
+rect 0 43 35 77
+rect 69 43 78 77
+rect 0 0 78 43
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_swldrv_tap_c.gds
+string GDS_END 1070
+string GDS_START 170
+<< end >>

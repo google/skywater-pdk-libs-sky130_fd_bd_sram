@@ -1,0 +1,146 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1871 -1260 1260 1645
+<< nwell >>
+rect -611 0 -260 157
+<< pwell >>
+rect -611 183 0 241
+rect -192 143 0 183
+rect -192 40 -92 143
+<< psubdiff >>
+rect -611 229 0 241
+rect -594 195 -549 229
+rect -515 195 -470 229
+rect -436 195 -391 229
+rect -357 195 -312 229
+rect -278 195 -233 229
+rect -199 209 0 229
+rect -199 195 -72 209
+rect -611 183 -72 195
+rect -192 175 -72 183
+rect -38 175 0 209
+rect -192 141 -151 175
+rect -117 143 0 175
+rect -117 141 -92 143
+rect -192 96 -92 141
+rect -192 62 -151 96
+rect -117 62 -92 96
+rect -192 40 -92 62
+<< psubdiffcont >>
+rect -611 195 -594 229
+rect -549 195 -515 229
+rect -470 195 -436 229
+rect -391 195 -357 229
+rect -312 195 -278 229
+rect -233 195 -199 229
+rect -72 175 -38 209
+rect -151 141 -117 175
+rect -151 62 -117 96
+rect -151 0 -117 17
+<< poly >>
+rect -70 24 -44 54
+rect -10 53 0 54
+rect -14 24 0 53
+<< polycont >>
+rect -44 53 -10 54
+rect -44 24 -14 53
+<< locali >>
+rect -594 195 -549 229
+rect -515 195 -470 229
+rect -436 195 -391 229
+rect -357 195 -312 229
+rect -278 195 -233 229
+rect -199 209 0 229
+rect -199 195 -72 209
+rect -152 175 -72 195
+rect -38 189 0 209
+rect -38 175 -17 189
+rect -152 141 -151 175
+rect -117 155 -17 175
+rect -117 141 0 155
+rect -152 117 0 141
+<< corelocali >>
+rect -152 96 0 117
+rect -152 62 -151 96
+rect -117 62 0 96
+rect -152 54 0 62
+rect -152 24 -44 54
+rect -10 53 0 54
+rect -152 18 -14 24
+rect -152 17 -84 18
+rect -152 0 -151 17
+<< viali >>
+rect -17 155 0 189
+rect -118 0 -117 17
+rect -117 0 -84 17
+<< metal1 >>
+rect -611 0 -574 385
+rect -493 0 -443 385
+rect -403 0 -353 385
+rect -313 0 -263 385
+rect -223 0 -173 385
+rect -124 189 0 385
+rect -124 155 -17 189
+rect -124 17 0 155
+rect -124 0 -118 17
+rect -84 0 0 17
+use sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta  sky130_fd_bd_sram__sram_dp_cell_poly_srf_opta_0
+timestamp 0
+transform 1 0 -52 0 1 54
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_mcon_05  sky130_fd_bd_sram__sram_dp_mcon_05_0
+timestamp 0
+transform 0 1 -611 1 0 57
+box -17 0 17 17
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_7
+timestamp 0
+transform 1 0 -134 0 1 79
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_colend_li_drop  sky130_fd_bd_sram__sram_dp_colend_li_drop_0
+timestamp 0
+transform 1 0 -14 0 1 53
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_6
+timestamp 0
+transform 1 0 -55 0 1 192
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_5
+timestamp 0
+transform 1 0 -216 0 1 212
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_4
+timestamp 0
+transform 1 0 -295 0 1 212
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_3
+timestamp 0
+transform 1 0 -374 0 1 212
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_2
+timestamp 0
+transform 1 0 -453 0 1 212
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_1
+timestamp 0
+transform 1 0 -134 0 1 158
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_0
+timestamp 0
+transform 1 0 -532 0 1 212
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_05  sky130_fd_bd_sram__sram_dp_licon_05_0
+timestamp 0
+transform 0 1 -611 -1 0 212
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_swldrv_tap  sky130_fd_bd_sram__sram_dp_swldrv_tap_0
+timestamp 0
+transform 1 0 -611 0 -1 47
+box 0 -62 519 47
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_swldrv.gds
+string GDS_END 4210
+string GDS_START 1848
+<< end >>

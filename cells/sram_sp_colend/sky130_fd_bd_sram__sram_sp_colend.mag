@@ -1,0 +1,42 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1511 1671
+<< ndiffc >>
+rect 174 15 202 17
+<< corelocali >>
+rect 171 0 174 15
+rect 202 0 205 15
+<< metal1 >>
+rect 69 55 97 81
+rect 142 55 170 81
+rect 0 0 14 19
+rect 226 0 240 19
+use sky130_fd_bd_sram__sram_sp_colend_p1m_siz  sky130_fd_bd_sram__sram_sp_colend_p1m_siz_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_sp_colend_met2  sky130_fd_bd_sram__sram_sp_colend_met2_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 4 251 411
+use sky130_fd_bd_sram__sram_sp_colend_ce  sky130_fd_bd_sram__sram_sp_colend_ce_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 240 411
+<< labels >>
+flabel metal1 s 69 55 97 81 0 FreeSans 100 0 0 0 bl1
+port 1 nsew
+flabel metal1 s 0 0 14 19 0 FreeSans 40 90 0 0 vpwr
+port 3 nsew
+flabel metal1 s 226 0 240 19 0 FreeSans 40 90 0 0 vgnd
+port 2 nsew
+flabel metal1 s 142 55 170 81 0 FreeSans 100 0 0 0 bl0
+port 0 nsew
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_colend.gds
+string GDS_END 3416
+string GDS_START 2624
+<< end >>

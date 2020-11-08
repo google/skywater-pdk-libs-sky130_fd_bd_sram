@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg40"
+   version="1.2"
+   viewBox="0 0 1569 551"
+   height="551pt"
+   width="1569pt">
+  <metadata
+     id="metadata44">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21">
+    <clipPath
+       id="clip1">
+      <path
+         id="path2"
+         d="M 18.5,2.5 H 1898 V 1059 H 18.5 Z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         id="path5"
+         d="m 633.5,261.5 h 1111 v 52 h -1111 z m -458,0 h 361 v 87 h -361 z m 458,52 h 820 v 35 h -820 z m -166,410 h 819 v 35 h -819 z m -292,35 h 1111 v 52 h -1111 z m 1208,-35 h 361 v 87 h -361 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         id="path8"
+         d="m 651.5,261.5 h 118 v 59 h -118 z m -250,0 h 118 v 59 h -118 z m 749,490 h 119 v 59 h -119 z m 250,0 h 118 v 59 h -118 z m 0,0" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <path
+         id="path11"
+         d="m 651.5,261.5 h 118 v 59 h -118 z m -250,0 h 118 v 59 h -118 z m 749,490 h 119 v 59 h -119 z m 250,0 h 118 v 59 h -118 z m 0,0" />
+    </clipPath>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAA9SURBVDiN7ZAhEgAgDMNS/v/nIsAgtnpuMzG7axsIJ9xTYEDUBJ/nkqGDQ48FulEFQ36uMR7o94+Hl3942JrBc/FcUmODAAAAAElFTkSuQmCC"
+       height="32"
+       width="32"
+       id="image231" />
+    <pattern
+       patternTransform="matrix(1,0,0,1,0.5,1079.5)"
+       height="32"
+       width="32"
+       patternUnits="userSpaceOnUse"
+       id="pattern0">
+      <use
+         id="use15"
+         xlink:href="#image231" />
+    </pattern>
+    <mask
+       id="mask0">
+      <rect
+         id="rect18"
+         style="fill:url(#pattern0);stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </mask>
+  </defs>
+  <g
+     transform="translate(-175.5,-260.5)"
+     id="surface228">
+    <g
+       style="clip-rule:nonzero"
+       id="g23"
+       clip-path="url(#clip1)" />
+    <g
+       style="clip-rule:nonzero"
+       id="g27"
+       clip-path="url(#clip2)">
+      <rect
+         id="rect25"
+         style="fill:#78a1f5;fill-opacity:0.50393701;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       style="clip-rule:nonzero"
+       id="g31"
+       clip-path="url(#clip3)">
+      <rect
+         id="rect29"
+         style="fill:#b894d9;fill-opacity:0.50393701;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+    <path
+       id="path33"
+       transform="matrix(1,0,0,-1,0.5,1079.5)"
+       d="M 651,818 H 769 M 651,759 h 118 m -118,0 v 59 m 118,-59 v 59 m -368,0 H 519 M 401,759 h 118 m -118,0 v 59 m 118,-59 v 59 m 631,-490 h 119 m -119,-59 h 119 m -119,0 v 59 m 119,-59 v 59 m 131,0 h 118 m -118,-59 h 118 m -118,0 v 59 m 118,-59 v 59"
+       style="fill:none;stroke:#2e9c9c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
+    <g
+       style="clip-rule:nonzero"
+       id="g37"
+       clip-path="url(#clip4)">
+      <rect
+         id="rect35"
+         mask="url(#mask0)"
+         style="fill:#2e9c9c;fill-opacity:0.72440898;stroke:none"
+         height="1059"
+         width="1898"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>

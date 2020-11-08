@@ -1,0 +1,26 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1500 1418
+<< pdiff >>
+rect 38 118 80 158
+rect 38 0 80 40
+<< viali >>
+rect 0 62 17 96
+<< via1 >>
+rect -11 96 26 105
+rect -11 62 0 96
+rect 0 62 17 96
+rect 17 62 26 96
+rect -11 53 26 62
+use sky130_fd_bd_sram__sram_dp_horstrap_half  sky130_fd_bd_sram__sram_dp_horstrap_half_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 240 158
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_horstrap_half2.gds
+string GDS_END 2168
+string GDS_START 1908
+<< end >>

@@ -1,0 +1,23 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1332 -1260 1434 1645
+use sky130_fd_bd_sram__sram_dp_colend_cent_base  sky130_fd_bd_sram__sram_dp_colend_cent_base_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -72 0 174 385
+use sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optd  sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optd_0
+timestamp 0
+transform 1 0 0 0 1 24
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optc  sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optc_0
+timestamp 0
+transform 1 0 0 0 1 54
+box 0 0 1 1
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_cent_opt1.gds
+string GDS_END 3262
+string GDS_START 3046
+<< end >>

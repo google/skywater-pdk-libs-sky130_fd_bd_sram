@@ -1,0 +1,27 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1751 1576
+<< via1 >>
+rect 454 132 491 184
+<< metal2 >>
+rect 0 244 480 292
+rect 0 230 42 244
+rect 76 184 480 196
+rect 76 182 454 184
+rect 0 134 454 182
+rect 76 132 454 134
+rect 76 120 480 132
+rect 0 72 42 86
+rect 0 24 480 72
+<< metal3 >>
+rect 0 275 480 316
+rect 0 101 480 215
+rect 0 0 480 41
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_met23_opt2.gds
+string GDS_END 786
+string GDS_START 174
+<< end >>

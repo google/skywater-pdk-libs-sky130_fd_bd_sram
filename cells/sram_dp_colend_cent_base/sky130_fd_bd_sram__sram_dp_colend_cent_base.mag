@@ -1,0 +1,65 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1332 -1260 1434 1645
+<< pwell >>
+rect 0 143 102 359
+<< psubdiff >>
+rect 0 347 102 359
+rect 0 313 34 347
+rect 68 313 102 347
+rect 0 202 102 313
+rect 0 168 34 202
+rect 68 168 102 202
+rect 0 143 102 168
+<< psubdiffcont >>
+rect 34 313 68 347
+rect 34 168 68 202
+<< locali >>
+rect 0 347 102 385
+rect 0 313 34 347
+rect 68 313 102 347
+rect 0 202 102 313
+rect 0 189 34 202
+rect 17 168 34 189
+rect 68 189 102 202
+rect 68 168 85 189
+rect 17 155 85 168
+rect 0 117 102 155
+<< corelocali >>
+rect 0 53 102 117
+<< viali >>
+rect 0 155 17 189
+rect 85 155 102 189
+<< metal1 >>
+rect 0 198 102 385
+rect 26 146 76 198
+rect 0 18 102 146
+rect 87 0 102 18
+<< via1 >>
+rect -11 189 26 198
+rect -11 155 0 189
+rect 0 155 17 189
+rect 17 155 26 189
+rect -11 146 26 155
+rect 76 189 113 198
+rect 76 155 85 189
+rect 85 155 102 189
+rect 102 155 113 189
+rect 76 146 113 155
+<< metal2 >>
+rect -72 294 174 385
+rect 0 198 102 217
+rect 26 146 76 198
+rect 0 72 102 146
+use sky130_fd_bd_sram__sram_dp_wls_half  sky130_fd_bd_sram__sram_dp_wls_half_0
+timestamp 0
+transform 1 0 -20 0 1 0
+box -7 0 122 100
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_cent_base.gds
+string GDS_END 2034
+string GDS_START 930
+<< end >>

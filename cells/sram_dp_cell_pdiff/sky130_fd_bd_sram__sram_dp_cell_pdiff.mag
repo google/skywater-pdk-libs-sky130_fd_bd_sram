@@ -1,0 +1,49 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1116 -1260 1596 1576
+<< nwell >>
+rect 144 0 336 316
+<< pdiff >>
+rect 256 36 284 280
+<< nsubdiff >>
+rect 174 116 202 280
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_0
+timestamp 0
+transform 1 0 270 0 1 77
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_1
+timestamp 0
+transform 1 0 270 0 1 239
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_2
+timestamp 0
+transform 1 0 192 0 1 162
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_3
+timestamp 0
+transform 1 0 270 0 1 158
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_cell_fom_ext_1  sky130_fd_bd_sram__sram_dp_cell_fom_ext_1_0
+timestamp 0
+transform 1 0 174 0 -1 116
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_fom_ext_1  sky130_fd_bd_sram__sram_dp_cell_fom_ext_1_1
+timestamp 0
+transform 1 0 256 0 -1 36
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_fom_ext_1  sky130_fd_bd_sram__sram_dp_cell_fom_ext_1_2
+timestamp 0
+transform 1 0 174 0 1 280
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_cell_fom_ext_1  sky130_fd_bd_sram__sram_dp_cell_fom_ext_1_3
+timestamp 0
+transform 1 0 256 0 1 280
+box 0 0 1 1
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_pdiff.gds
+string GDS_END 1792
+string GDS_START 640
+<< end >>

@@ -1,0 +1,59 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1751 1576
+<< ndiffc >>
+rect 42 299 76 316
+rect 404 299 438 316
+rect 42 220 76 254
+rect 404 220 438 254
+rect 0 142 17 174
+rect 463 142 480 174
+rect 42 62 76 96
+rect 404 62 438 96
+rect 42 0 76 17
+rect 404 0 438 17
+<< pdiffc >>
+rect 256 222 284 256
+rect 256 141 284 175
+rect 256 60 284 94
+<< polycont >>
+rect 341 182 373 188
+rect 109 134 139 162
+rect 341 154 371 182
+rect 107 128 139 134
+use sky130_fd_bd_sram__sram_dp_cell  sky130_fd_bd_sram__sram_dp_cell_0
+timestamp 0
+transform 1 0 0 0 -1 316
+box 0 0 480 316
+use sky130_fd_bd_sram__sram_dp_cell_opt1a_poly_siz  sky130_fd_bd_sram__sram_dp_cell_opt1a_poly_siz_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 34 132 446 214
+use sky130_fd_bd_sram__sram_dp_cell_half_met1_opta  sky130_fd_bd_sram__sram_dp_cell_half_met1_opta_0
+timestamp 0
+transform -1 0 480 0 1 0
+box 0 0 240 316
+use sky130_fd_bd_sram__sram_dp_cell_half_met1_opta  sky130_fd_bd_sram__sram_dp_cell_half_met1_opta_1
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 240 316
+use sky130_fd_bd_sram__sram_dp_cell_met23_opt1  sky130_fd_bd_sram__sram_dp_cell_met23_opt1_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 0 491 316
+use sky130_fd_bd_sram__sram_dp_cell_half_limcon_opta  sky130_fd_bd_sram__sram_dp_cell_half_limcon_opta_0
+timestamp 0
+transform -1 0 480 0 1 0
+box 0 0 240 316
+use sky130_fd_bd_sram__sram_dp_cell_half_limcon_optb  sky130_fd_bd_sram__sram_dp_cell_half_limcon_optb_0
+timestamp 0
+transform 1 0 0 0 -1 316
+box 0 0 240 316
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_opt4a.gds
+string GDS_END 11342
+string GDS_START 10750
+<< end >>

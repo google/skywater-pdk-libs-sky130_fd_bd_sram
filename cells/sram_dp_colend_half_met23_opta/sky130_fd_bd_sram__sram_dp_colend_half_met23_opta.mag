@@ -1,0 +1,14 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1236 1500 1645
+<< metal2 >>
+rect 0 294 240 385
+rect 0 24 240 217
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_half_met23_opta.gds
+string GDS_END 322
+string GDS_START 190
+<< end >>

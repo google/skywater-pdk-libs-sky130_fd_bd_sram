@@ -1,0 +1,101 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1511 1645
+<< nwell >>
+rect 144 0 240 269
+<< pwell >>
+rect 0 301 240 359
+rect 0 143 80 301
+rect 38 117 80 143
+<< ndiff >>
+rect 38 103 80 117
+rect 38 69 42 103
+rect 76 69 80 103
+rect 38 0 80 69
+<< ndiffc >>
+rect 42 69 76 103
+<< psubdiff >>
+rect 0 347 240 359
+rect 0 313 23 347
+rect 57 313 240 347
+rect 0 301 240 313
+rect 0 208 80 301
+rect 0 174 23 208
+rect 57 174 80 208
+rect 0 143 80 174
+rect 38 117 80 143
+<< nsubdiff >>
+rect 180 205 240 225
+rect 180 171 223 205
+rect 180 137 240 171
+rect 180 103 223 137
+rect 180 77 240 103
+<< psubdiffcont >>
+rect 23 313 57 347
+rect 23 174 57 208
+<< nsubdiffcont >>
+rect 223 171 240 205
+rect 223 103 240 137
+<< locali >>
+rect 0 347 84 385
+rect 0 313 23 347
+rect 57 313 84 347
+rect 0 208 84 313
+rect 0 189 23 208
+rect 17 174 23 189
+rect 57 174 84 208
+rect 17 155 84 174
+rect 0 117 84 155
+rect 168 363 240 385
+rect 168 329 223 363
+rect 168 205 240 329
+rect 168 171 223 205
+rect 168 137 240 171
+rect 168 117 223 137
+<< corelocali >>
+rect 0 103 84 117
+rect 0 69 42 103
+rect 76 69 84 103
+rect 0 53 84 69
+rect 168 103 223 117
+rect 168 53 240 103
+<< viali >>
+rect 0 155 17 189
+rect 223 329 240 363
+<< via1 >>
+rect 214 363 251 365
+rect 214 329 223 363
+rect 223 329 240 363
+rect 240 329 251 363
+rect 214 313 251 329
+rect -11 189 26 198
+rect -11 155 0 189
+rect 0 155 17 189
+rect 17 155 26 189
+rect -11 146 26 155
+<< metal3 >>
+rect 0 0 240 41
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_0
+timestamp 0
+transform 1 0 40 0 1 191
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_licon_1  sky130_fd_bd_sram__sram_dp_licon_1_1
+timestamp 0
+transform 1 0 40 0 1 330
+box 0 -1 1 1
+use sky130_fd_bd_sram__sram_dp_colend_half_limcon_optb  sky130_fd_bd_sram__sram_dp_colend_half_limcon_optb_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 14 0 240 19
+use sky130_fd_bd_sram__sram_dp_cell_half_wl  sky130_fd_bd_sram__sram_dp_cell_half_wl_0
+timestamp 0
+transform 1 0 0 0 1 24
+box 0 -2 240 30
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_half_optb.gds
+string GDS_END 3106
+string GDS_START 1024
+<< end >>

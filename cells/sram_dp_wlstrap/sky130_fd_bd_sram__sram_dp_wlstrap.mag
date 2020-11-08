@@ -1,0 +1,67 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1290 -1260 1393 1576
+<< ndiff >>
+rect 17 142 85 174
+<< ndiffc >>
+rect 0 142 17 174
+rect 85 142 102 174
+<< corelocali >>
+rect 0 175 102 191
+rect 0 174 89 175
+rect 17 142 85 174
+rect 0 141 89 142
+rect 0 125 102 141
+<< viali >>
+rect 89 174 123 175
+rect 89 142 102 174
+rect 102 142 123 174
+rect 89 141 123 142
+<< metal1 >>
+rect 87 199 102 316
+rect 70 184 102 199
+rect 70 132 81 184
+rect 70 117 102 132
+rect 87 0 102 117
+<< via1 >>
+rect 81 175 133 184
+rect 81 141 89 175
+rect 89 141 123 175
+rect 123 141 133 175
+rect 81 132 133 141
+<< metal2 >>
+rect 74 184 102 196
+rect 74 182 81 184
+rect 0 134 81 182
+rect 74 132 81 134
+rect 74 120 102 132
+<< metal3 >>
+rect 0 101 102 215
+use sky130_fd_bd_sram__sram_dp_licon_05  sky130_fd_bd_sram__sram_dp_licon_05_0
+timestamp 0
+transform 0 1 0 -1 0 158
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_licon_05  sky130_fd_bd_sram__sram_dp_licon_05_1
+timestamp 0
+transform 0 -1 102 -1 0 158
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_wls_half  sky130_fd_bd_sram__sram_dp_wls_half_0
+timestamp 0
+transform 1 0 -20 0 1 0
+box -7 0 122 100
+use sky130_fd_bd_sram__sram_dp_wls_half  sky130_fd_bd_sram__sram_dp_wls_half_1
+timestamp 0
+transform 1 0 -20 0 -1 316
+box -7 0 122 100
+use sky130_fd_bd_sram__sram_dp_wls_p1m_siz  sky130_fd_bd_sram__sram_dp_wls_p1m_siz_0
+timestamp 0
+transform 1 0 51 0 1 24
+box -81 0 81 269
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_wlstrap.gds
+string GDS_END 5212
+string GDS_START 4000
+<< end >>

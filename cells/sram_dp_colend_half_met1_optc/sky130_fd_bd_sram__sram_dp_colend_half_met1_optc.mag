@@ -1,0 +1,36 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1500 1645
+<< metal1 >>
+rect 0 206 18 385
+rect 54 245 90 385
+rect 126 275 162 385
+rect 198 305 240 385
+tri 198 290 213 305 ne
+rect 213 290 240 305
+tri 162 275 177 290 sw
+tri 213 281 222 290 ne
+tri 126 260 141 275 ne
+rect 141 266 177 275
+tri 177 266 186 275 sw
+rect 141 260 186 266
+tri 90 245 105 260 sw
+tri 141 251 150 260 ne
+tri 54 230 69 245 ne
+rect 69 236 105 245
+tri 105 236 114 245 sw
+rect 69 230 114 236
+tri 18 206 42 230 sw
+tri 69 221 78 230 ne
+rect 0 18 42 206
+rect 78 0 114 230
+rect 150 0 186 260
+rect 222 0 240 290
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_half_met1_optc.gds
+string GDS_END 542
+string GDS_START 186
+<< end >>

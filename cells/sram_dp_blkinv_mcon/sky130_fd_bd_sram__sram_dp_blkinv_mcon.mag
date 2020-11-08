@@ -1,0 +1,22 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1269 -1269 1483 1466
+<< metal1 >>
+rect 171 136 223 206
+rect -9 -9 43 61
+use sky130_fd_bd_sram__sram_dp_mcon_1  sky130_fd_bd_sram__sram_dp_mcon_1_0
+timestamp 0
+transform 1 0 17 0 1 26
+box -17 -17 17 17
+use sky130_fd_bd_sram__sram_dp_mcon_1  sky130_fd_bd_sram__sram_dp_mcon_1_1
+timestamp 0
+transform 1 0 197 0 1 171
+box -17 -17 17 17
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_blkinv_mcon.gds
+string GDS_END 740
+string GDS_START 492
+<< end >>

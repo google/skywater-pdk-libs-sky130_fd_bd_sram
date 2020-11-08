@@ -1,0 +1,21 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1246 -1260 1500 1279
+<< locali >>
+rect 14 17 118 19
+rect 14 0 79 17
+rect 113 0 118 17
+rect 146 17 240 19
+rect 146 0 151 17
+rect 185 0 240 17
+<< viali >>
+rect 79 0 113 17
+rect 151 0 185 17
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_half_limcon_optb.gds
+string GDS_END 450
+string GDS_START 190
+<< end >>

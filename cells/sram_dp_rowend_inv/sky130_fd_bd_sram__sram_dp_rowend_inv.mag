@@ -1,0 +1,66 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1271 1459 1429
+<< nwell >>
+rect 121 0 188 158
+<< pwell >>
+rect 37 0 95 158
+<< psubdiff >>
+rect 37 141 49 158
+rect 83 141 95 158
+rect 37 96 95 141
+rect 37 62 49 96
+rect 83 62 95 96
+rect 37 17 95 62
+rect 37 0 49 17
+rect 83 0 95 17
+<< psubdiffcont >>
+rect 49 141 83 158
+rect 49 62 83 96
+rect 49 0 83 17
+<< locali >>
+rect 0 141 49 158
+rect 0 96 83 141
+rect 0 62 49 96
+rect 0 17 83 62
+rect 0 0 49 17
+<< metal1 >>
+rect 89 132 162 158
+rect 89 26 188 132
+rect 89 0 162 26
+<< via1 >>
+rect 162 132 199 169
+rect 162 -11 199 26
+<< metal2 >>
+rect 89 130 160 158
+rect 89 28 188 130
+rect 89 0 160 28
+<< via2 >>
+rect 160 132 162 166
+rect 162 132 196 166
+rect 160 130 196 132
+rect 160 26 196 28
+rect 160 -8 162 26
+rect 162 -8 196 26
+<< metal3 >>
+rect 89 130 160 158
+rect 89 117 188 130
+rect 147 41 188 117
+rect 89 28 188 41
+rect 89 0 160 28
+use sky130_fd_bd_sram__sram_dp_rowend_strp_cont  sky130_fd_bd_sram__sram_dp_rowend_strp_cont_0
+timestamp 0
+transform 1 0 11 0 -1 158
+box -10 0 42 158
+use sky130_fd_bd_sram__sram_dp_rowend_strp_cont  sky130_fd_bd_sram__sram_dp_rowend_strp_cont_1
+timestamp 0
+transform 1 0 11 0 1 0
+box -10 0 42 158
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_rowend_inv.gds
+string GDS_END 1882
+string GDS_START 584
+<< end >>

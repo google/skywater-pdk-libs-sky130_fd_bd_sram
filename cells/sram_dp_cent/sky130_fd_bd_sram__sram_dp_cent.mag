@@ -1,0 +1,64 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1373 1418
+<< poly >>
+rect 0 104 102 134
+rect 25 96 77 104
+rect 25 62 34 96
+rect 68 62 77 96
+rect 25 54 77 62
+rect 0 24 102 54
+<< polycont >>
+rect 34 62 68 96
+<< corelocali >>
+rect 0 96 102 105
+rect 17 62 34 96
+rect 68 62 85 96
+rect 0 53 102 62
+<< viali >>
+rect 0 62 17 96
+rect 85 62 102 96
+<< metal1 >>
+rect 87 117 102 158
+rect 0 105 102 117
+rect 26 53 76 105
+rect 0 41 102 53
+rect 87 0 102 41
+<< via1 >>
+rect -11 96 26 105
+rect -11 62 0 96
+rect 0 62 17 96
+rect 17 62 26 96
+rect -11 53 26 62
+rect 76 96 113 105
+rect 76 62 85 96
+rect 85 62 102 96
+rect 102 62 113 96
+rect 76 53 113 62
+<< metal2 >>
+rect 0 105 102 134
+rect 26 53 76 105
+rect 0 24 102 53
+<< metal3 >>
+rect 0 117 102 158
+rect 0 0 102 41
+use sky130_fd_bd_sram__sram_dp_wls_poly_sizing_opte  sky130_fd_bd_sram__sram_dp_wls_poly_sizing_opte_0
+timestamp 0
+transform 1 0 0 0 1 104
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optd  sky130_fd_bd_sram__sram_dp_wls_poly_sizing_optd_0
+timestamp 0
+transform 1 0 0 0 1 24
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_wls_poly_sizing_opta  sky130_fd_bd_sram__sram_dp_wls_poly_sizing_opta_0
+timestamp 0
+transform 1 0 0 0 1 134
+box 0 0 1 1
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cent.gds
+string GDS_END 2770
+string GDS_START 1430
+<< end >>

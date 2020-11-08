@@ -1,0 +1,13 @@
+magic
+tech sky130A
+timestamp 0
+<< checkpaint >>
+rect -630 -618 638 776
+<< poly >>
+rect 0 131 8 146
+rect 0 12 8 27
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_cell_addpoly.gds
+string GDS_END 302
+string GDS_START 170
+<< end >>

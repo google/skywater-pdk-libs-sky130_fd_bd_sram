@@ -1,0 +1,19 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -791 -1254 1730 1377
+use sky130_fd_bd_sram__sram_dp_swldrv_opt1_poly_siz_optb  sky130_fd_bd_sram__sram_dp_swldrv_opt1_poly_siz_optb_0
+timestamp 0
+transform 1 0 469 0 1 6
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_dp_swldrv_opt1_poly_siz_opta  sky130_fd_bd_sram__sram_dp_swldrv_opt1_poly_siz_opta_0
+timestamp 0
+transform 1 0 469 0 1 116
+box 0 0 1 1
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_blkinv_p1m_siz.gds
+string GDS_END 1018
+string GDS_START 606
+<< end >>

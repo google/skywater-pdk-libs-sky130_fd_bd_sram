@@ -1,0 +1,140 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1260 1531 1576
+<< dnwell >>
+rect 0 0 260 316
+<< pwell >>
+rect 83 122 177 252
+<< ndiff >>
+rect 14 142 27 174
+rect 233 142 246 174
+<< ndiffc >>
+rect 0 142 14 174
+rect 246 142 260 174
+<< psubdiff >>
+rect 83 245 177 252
+rect 83 211 113 245
+rect 147 211 177 245
+rect 83 177 177 211
+rect 83 143 113 177
+rect 147 143 177 177
+rect 83 122 177 143
+<< psubdiffcont >>
+rect 113 211 147 245
+rect 113 143 147 177
+<< poly >>
+rect 0 262 260 292
+rect 40 90 73 262
+rect 187 90 220 262
+rect 40 74 220 90
+rect 40 54 56 74
+rect 0 40 56 54
+rect 90 40 170 74
+rect 204 54 220 74
+rect 204 40 260 54
+rect 0 24 260 40
+<< polycont >>
+rect 56 40 90 74
+rect 170 40 204 74
+<< corelocali >>
+rect 44 211 113 245
+rect 147 227 216 245
+rect 147 211 165 227
+rect 44 193 165 211
+rect 199 193 216 227
+rect 0 175 14 191
+rect 44 177 216 193
+rect 44 143 113 177
+rect 147 155 216 177
+rect 246 175 260 191
+rect 147 143 165 155
+rect 0 125 14 141
+rect 44 121 165 143
+rect 199 121 216 155
+rect 246 125 260 141
+rect 44 107 216 121
+rect 40 40 56 74
+rect 90 40 170 74
+rect 204 40 220 74
+<< viali >>
+rect 165 193 199 227
+rect 0 174 17 175
+rect 0 142 14 174
+rect 14 142 17 174
+rect 0 141 17 142
+rect 165 121 199 155
+rect 243 174 260 175
+rect 243 142 246 174
+rect 246 142 260 174
+rect 243 141 260 142
+<< metal1 >>
+rect 0 263 14 316
+rect 0 179 26 263
+rect 0 126 26 127
+rect 0 121 21 126
+tri 21 121 26 126 nw
+rect 0 0 14 121
+rect 54 116 102 316
+rect 54 114 100 116
+tri 100 114 102 116 nw
+rect 158 227 206 316
+rect 246 263 260 316
+rect 158 193 165 227
+rect 199 193 206 227
+rect 158 155 206 193
+rect 158 121 165 155
+rect 199 121 206 155
+rect 234 179 260 263
+rect 234 126 260 127
+tri 234 121 239 126 ne
+rect 239 121 260 126
+rect 158 116 206 121
+tri 158 114 160 116 ne
+rect 160 114 206 116
+tri 42 102 54 114 se
+rect 54 102 88 114
+tri 88 102 100 114 nw
+tri 160 102 172 114 ne
+rect 172 102 206 114
+tri 206 102 218 114 sw
+rect 42 0 76 102
+tri 76 90 88 102 nw
+tri 172 90 184 102 ne
+tri 104 75 111 82 se
+rect 111 75 149 82
+tri 149 75 156 82 sw
+rect 104 21 156 23
+tri 104 14 111 21 ne
+rect 111 14 149 21
+tri 149 14 156 21 nw
+rect 184 0 218 102
+rect 246 0 260 121
+<< via1 >>
+rect -11 175 26 179
+rect -11 141 0 175
+rect 0 141 17 175
+rect 17 141 26 175
+rect -11 127 26 141
+rect 234 175 271 179
+rect 234 141 243 175
+rect 243 141 260 175
+rect 260 141 271 175
+rect 234 127 271 141
+rect 104 23 156 75
+<< metal2 >>
+rect 98 75 162 88
+rect 98 24 104 75
+rect 156 24 162 75
+use sky130_fd_bd_sram__sram_l1m1  sky130_fd_bd_sram__sram_l1m1_0
+timestamp 0
+transform 0 -1 147 1 0 32
+box -12 -6 46 40
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_wlstrap_p_ce.gds
+string GDS_END 3610
+string GDS_START 426
+string path 0.200 0.285 1.100 0.285 
+<< end >>

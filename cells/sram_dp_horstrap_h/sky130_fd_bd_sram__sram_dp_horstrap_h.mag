@@ -1,0 +1,41 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1500 1418
+<< nwell >>
+rect 144 0 240 158
+<< pwell >>
+rect 38 40 80 118
+<< pdiff >>
+rect 38 118 80 158
+rect 38 0 80 40
+<< psubdiff >>
+rect 38 96 80 118
+rect 38 62 42 96
+rect 76 62 80 96
+rect 38 40 80 62
+<< psubdiffcont >>
+rect 42 62 76 96
+<< locali >>
+rect 0 96 240 97
+rect 0 62 42 96
+rect 76 62 240 96
+rect 0 61 240 62
+<< metal3 >>
+rect 0 117 240 158
+rect 0 0 240 41
+use sky130_fd_bd_sram__sram_dp_cell_half_wl  sky130_fd_bd_sram__sram_dp_cell_half_wl_0
+timestamp 0
+transform 1 0 0 0 -1 134
+box 0 -2 240 30
+use sky130_fd_bd_sram__sram_dp_cell_half_wl  sky130_fd_bd_sram__sram_dp_cell_half_wl_1
+timestamp 0
+transform 1 0 0 0 1 24
+box 0 -2 240 30
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_horstrap_h.gds
+string GDS_END 1308
+string GDS_START 338
+<< end >>

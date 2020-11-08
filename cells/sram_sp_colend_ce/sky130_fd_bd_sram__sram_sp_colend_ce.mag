@@ -1,0 +1,91 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1500 1671
+<< dnwell >>
+rect 0 0 240 411
+<< nwell >>
+rect 0 0 96 411
+<< pwell >>
+rect 140 106 240 336
+<< nmos >>
+rect 174 24 202 52
+<< ndiff >>
+rect 174 15 202 24
+<< ndiffc >>
+rect 174 0 202 15
+<< psubdiff >>
+rect 140 142 240 336
+rect 140 108 155 142
+rect 189 108 223 142
+rect 140 106 240 108
+<< nsubdiff >>
+rect 0 368 66 375
+rect 0 334 17 368
+rect 51 334 66 368
+rect 0 300 66 334
+rect 0 266 17 300
+rect 51 266 66 300
+rect 0 232 66 266
+rect 0 198 17 232
+rect 51 198 66 232
+rect 0 94 66 198
+<< psubdiffcont >>
+rect 155 108 189 142
+rect 223 108 240 142
+<< nsubdiffcont >>
+rect 17 334 51 368
+rect 17 266 51 300
+rect 17 198 51 232
+<< poly >>
+rect 0 52 240 54
+rect 0 24 174 52
+rect 202 24 240 52
+<< locali >>
+rect 0 368 240 375
+rect 0 334 17 368
+rect 51 334 240 368
+rect 0 300 240 334
+rect 0 266 17 300
+rect 51 266 240 300
+rect 0 235 240 266
+rect 0 232 68 235
+rect 0 198 17 232
+rect 51 198 68 232
+rect 104 162 240 201
+rect 0 142 240 162
+rect 0 108 155 142
+rect 189 108 223 142
+rect 0 55 240 108
+rect 14 0 67 15
+rect 101 0 174 15
+rect 202 0 226 15
+<< viali >>
+rect 67 0 101 17
+<< metal1 >>
+rect 0 205 18 411
+rect 61 318 97 411
+tri 61 310 69 318 ne
+tri 18 205 34 221 sw
+rect 0 146 34 205
+rect 0 0 14 146
+tri 14 126 34 146 nw
+rect 69 29 97 318
+rect 142 319 178 411
+rect 60 17 108 29
+rect 60 0 67 17
+rect 101 0 108 17
+rect 142 0 170 319
+tri 170 311 178 319 nw
+rect 210 319 240 411
+tri 210 311 218 319 ne
+rect 218 311 240 319
+tri 218 303 226 311 ne
+rect 226 0 240 311
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_colend_ce.gds
+string GDS_END 1960
+string GDS_START 162
+<< end >>

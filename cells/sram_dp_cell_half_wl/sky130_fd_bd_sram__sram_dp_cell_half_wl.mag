@@ -1,0 +1,15 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1262 1500 1290
+<< poly >>
+rect 0 28 138 30
+rect 0 0 240 28
+rect 127 -2 240 0
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_half_wl.gds
+string GDS_END 270
+string GDS_START 170
+<< end >>

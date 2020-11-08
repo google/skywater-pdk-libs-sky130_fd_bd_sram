@@ -1,0 +1,15 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1244 -1141 1469 1458
+use sky130_fd_bd_sram__sram_sp_cell_p1_serifs  sky130_fd_bd_sram__sram_sp_cell_p1_serifs_0
+timestamp 0
+transform 1 0 14 0 1 94
+box 2 25 195 104
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_sp_cell_p1m_sizing.gds
+string GDS_END 974
+string GDS_START 648
+<< end >>

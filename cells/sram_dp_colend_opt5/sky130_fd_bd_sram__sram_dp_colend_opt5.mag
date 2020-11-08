@@ -1,0 +1,42 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1271 -1271 1751 1645
+<< ndiffc >>
+rect 42 0 76 17
+rect 404 0 438 17
+use sky130_fd_bd_sram__sram_dp_colend_opt1_poly_siz  sky130_fd_bd_sram__sram_dp_colend_opt1_poly_siz_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 24 480 55
+use sky130_fd_bd_sram__sram_dp_colend_half_met23_optc  sky130_fd_bd_sram__sram_dp_colend_half_met23_optc_0
+timestamp 0
+transform -1 0 480 0 1 0
+box 0 0 240 385
+use sky130_fd_bd_sram__sram_dp_colend_half_met1_optb  sky130_fd_bd_sram__sram_dp_colend_half_met1_optb_0
+timestamp 0
+transform -1 0 480 0 1 0
+box 0 0 240 385
+use sky130_fd_bd_sram__sram_dp_colend_half_met23_optb  sky130_fd_bd_sram__sram_dp_colend_half_met23_optb_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 -11 240 385
+use sky130_fd_bd_sram__sram_dp_colend_half_optb  sky130_fd_bd_sram__sram_dp_colend_half_optb_0
+timestamp 0
+transform -1 0 480 0 1 0
+box -11 0 251 385
+use sky130_fd_bd_sram__sram_dp_colend_half_met1_opta  sky130_fd_bd_sram__sram_dp_colend_half_met1_opta_0
+timestamp 0
+transform 1 0 0 0 1 0
+box 0 0 240 385
+use sky130_fd_bd_sram__sram_dp_colend_half_opta  sky130_fd_bd_sram__sram_dp_colend_half_opta_0
+timestamp 0
+transform 1 0 0 0 1 0
+box -11 0 251 385
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__sram_dp_colend_opt5.gds
+string GDS_END 8548
+string GDS_START 7990
+<< end >>
