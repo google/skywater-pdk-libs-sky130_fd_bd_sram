@@ -1,0 +1,102 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1614044852
+<< nwell >>
+rect 0 0 96 411
+<< pwell >>
+rect 140 106 240 336
+<< metal1 >>
+rect 67 0 101 17
+<< metal1 >>
+rect 0 205 18 411
+rect 61 318 97 411
+tri 61 310 69 318 ne
+tri 18 205 34 221 sw
+rect 0 201 34 205
+rect -11 149 34 201
+rect 0 146 34 149
+rect 0 0 14 146
+tri 14 126 34 146 nw
+rect 69 29 97 318
+rect 142 319 178 411
+rect 60 17 108 29
+rect 60 0 67 17
+rect 101 0 108 17
+rect 142 0 170 319
+tri 170 311 178 319 nw
+rect 210 391 240 411
+rect 210 339 214 391
+rect 210 319 240 339
+tri 210 303 226 319 ne
+rect 226 0 240 319
+<< metal1 >>
+rect 214 339 251 391
+<< metal2 >>
+rect 214 339 251 391
+<< metal2 >>
+rect 0 391 240 411
+rect 0 339 214 391
+rect 0 320 240 339
+rect 0 201 240 206
+rect -11 149 240 201
+rect 0 116 240 149
+<< obsm2 >>
+rect 0 236 240 292
+rect 0 4 240 81
+<< labels >>
+rlabel metal1 s 142 0 170 319 6 BL0
+port 1 nsew
+rlabel metal1 s 142 319 178 411 6 BL0
+port 1 nsew
+rlabel metal1 s 60 0 108 29 6 BL1
+port 2 nsew
+rlabel metal1 s 69 29 97 318 6 BL1
+port 2 nsew
+rlabel metal1 s 61 318 97 411 6 BL1
+port 2 nsew
+rlabel viali s 67 0 101 17 6 BL1
+port 2 nsew
+rlabel locali s 14 0 226 15 6 BL1
+port 2 nsew
+rlabel locali s 174 15 202 17 6 BL1
+port 2 nsew
+rlabel locali s 67 15 101 17 6 BL1
+port 2 nsew
+rlabel metal2 s 0 320 240 339 6 VGND
+port 3 nsew ground default
+rlabel metal2 s 0 339 251 391 6 VGND
+port 3 nsew ground default
+rlabel metal2 s 0 391 240 411 6 VGND
+port 3 nsew ground default
+rlabel via1 s 214 339 251 391 6 VGND
+port 3 nsew ground default
+rlabel metal1 s 226 0 240 319 6 VGND
+port 3 nsew ground default
+rlabel metal1 s 210 319 240 339 6 VGND
+port 3 nsew ground default
+rlabel metal1 s 210 339 251 391 6 VGND
+port 3 nsew ground default
+rlabel metal1 s 210 391 240 411 6 VGND
+port 3 nsew ground default
+rlabel metal2 s 0 116 240 149 6 VPWR
+port 4 nsew power default
+rlabel metal2 s -11 149 240 201 6 VPWR
+port 4 nsew power default
+rlabel metal2 s 0 201 240 206 6 VPWR
+port 4 nsew power default
+rlabel metal1 s 0 0 14 146 6 VPWR
+port 4 nsew power default
+rlabel metal1 s 0 146 34 149 6 VPWR
+port 4 nsew power default
+rlabel metal1 s -11 149 34 201 6 VPWR
+port 4 nsew power default
+rlabel metal1 s 0 201 34 205 6 VPWR
+port 4 nsew power default
+rlabel metal1 s 0 205 18 411 6 VPWR
+port 4 nsew power default
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX -11 0 251 411
+string LEFview TRUE
+<< end >>

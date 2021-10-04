@@ -18,12 +18,12 @@ rect 0 275 480 316
 rect 0 101 480 215
 rect 0 0 480 41
 << labels >>
-flabel metal3 s 240 298 240 298 0 FreeSans 200 0 0 0 vpwr
-flabel metal3 s 240 23 240 23 0 FreeSans 200 0 0 0 vpwr
-flabel metal3 s 240 178 240 178 0 FreeSans 200 0 0 0 gwl
-flabel metal2 s 240 48 240 48 0 FreeSans 200 0 0 0 swl (k or j)
-flabel metal2 s 240 268 240 268 0 FreeSans 200 0 0 0 swl (j or k)
-flabel metal2 s 240 148 240 148 0 FreeSans 200 0 0 0 vgnd
+flabel metal3 s 240 298 240 298 0 FreeSans 200 0 0 0 VPWR
+flabel metal3 s 240 23 240 23 0 FreeSans 200 0 0 0 VPWR
+flabel metal3 s 240 178 240 178 0 FreeSans 200 0 0 0 GWL
+flabel metal2 s 240 48 240 48 0 FreeSans 200 0 0 0 SWL (K OR J)
+flabel metal2 s 240 268 240 268 0 FreeSans 200 0 0 0 SWL (J OR K)
+flabel metal2 s 240 148 240 148 0 FreeSans 200 0 0 0 VGND
 << properties >>
 string GDS_FILE sky130_fd_bd_sram__sram_dp_cell_met23_opt1.gds
 string GDS_END 1090

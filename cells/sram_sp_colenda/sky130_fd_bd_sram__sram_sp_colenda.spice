@@ -1,21 +1,5 @@
-* Copyright 2020 The SkyWater PDK Authors
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*     https://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*
-* SPDX-License-Identifier: Apache-2.0
+* NGSPICE file created from sky130_fd_bd_sram__sram_sp_colenda.ext - technology: sky130A
 
-
-
-.subckt sky130_fd_bd_sram__sram_sp_colenda bl0 bl1 vgnd vpwr
-Xsky130_fd_bd_sram__sram_sp_colenda_ce_0 vpwr bl0 SUBS bl1 vgnd sky130_fd_bd_sram__sram_sp_colenda_ce
+.subckt sky130_fd_bd_sram__sram_sp_colenda BL1 VPWR VGND BL0
+*X0 BL1 a_0_24# BL1 w_96_0# sky130_fd_pr__nfet_01v8 ad=1.68e+10p pd=520000u as=0p ps=0u w=70000u l=210000u
 .ends

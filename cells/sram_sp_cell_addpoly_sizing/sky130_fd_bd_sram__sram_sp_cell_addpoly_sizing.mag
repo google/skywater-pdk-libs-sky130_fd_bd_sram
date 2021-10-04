@@ -1,11 +1,4 @@
 magic
 tech sky130A
-magscale 1 2
 timestamp 0
-<< checkpaint >>
-rect -1260 -1260 1261 1261
-<< properties >>
-string GDS_FILE sky130_fd_bd_sram__sram_sp_cell_addpoly_sizing.gds
-string GDS_END 314
-string GDS_START 182
 << end >>

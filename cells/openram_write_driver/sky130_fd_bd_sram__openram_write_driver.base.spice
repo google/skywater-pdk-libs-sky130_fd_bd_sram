@@ -1,4 +1,3 @@
-
 * Copyright 2020 The SkyWater PDK Authors
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
@@ -17,36 +16,36 @@
 
 *********************** "sky130_fd_bd_sram__openram_write_driver" ******************************
 
-.SUBCKT sky130_fd_bd_sram__openram_write_driver din bl br en vdd gnd
+.SUBCKT sky130_fd_bd_sram__openram_write_driver DIN BL BR EN VDD GND
 
 **** Inverter to conver Data_in to data_in_bar ******
-* din_bar = inv(din)
-X_1 din_bar din gnd gnd sky130_fd_pr__nfet_01v8 W=0.36 L=0.15
-X_2 din_bar din vdd vdd sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
+* din_bar = inv(DIN)
+X_1 din_bar DIN GND GND sky130_fd_pr__nfet_01v8 W=0.36 L=0.15
+X_2 din_bar DIN VDD VDD sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
 
 **** 2input nand gate follwed by inverter to drive BL ******
-* din_bar_gated = nand(en, din)
-X_3 din_bar_gated en net_7 gnd sky130_fd_pr__nfet_01v8 W=0.55 L=0.15
-X_4 net_7 din gnd gnd sky130_fd_pr__nfet_01v8 W=0.55 L=0.15
-X_5 din_bar_gated en vdd vdd sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
-X_6 din_bar_gated din vdd vdd sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
+* din_bar_gated = nand(EN, DIN)
+X_3 din_bar_gated EN net_7 GND sky130_fd_pr__nfet_01v8 W=0.55 L=0.15
+X_4 net_7 DIN GND GND sky130_fd_pr__nfet_01v8 W=0.55 L=0.15
+X_5 din_bar_gated EN VDD VDD sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
+X_6 din_bar_gated DIN VDD VDD sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
 * din_bar_gated_bar = inv(din_bar_gated)
-X_7 din_bar_gated_bar din_bar_gated vdd vdd sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
-X_8 din_bar_gated_bar din_bar_gated gnd gnd sky130_fd_pr__nfet_01v8 W=0.36 L=0.15
+X_7 din_bar_gated_bar din_bar_gated VDD VDD sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
+X_8 din_bar_gated_bar din_bar_gated GND GND sky130_fd_pr__nfet_01v8 W=0.36 L=0.15
 
 **** 2input nand gate follwed by inverter to drive BR******
-* din_gated = nand(en, din_bar)
-X_9 din_gated en vdd vdd sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
-X_10 din_gated en net_8 gnd sky130_fd_pr__nfet_01v8 W=0.55 L=0.15
-X_11 net_8 din_bar gnd gnd sky130_fd_pr__nfet_01v8 W=0.55 L=0.15
-X_12 din_gated din_bar vdd vdd sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
+* din_gated = nand(EN, din_bar)
+X_9 din_gated EN VDD VDD sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
+X_10 din_gated EN net_8 GND sky130_fd_pr__nfet_01v8 W=0.55 L=0.15
+X_11 net_8 din_bar GND GND sky130_fd_pr__nfet_01v8 W=0.55 L=0.15
+X_12 din_gated din_bar VDD VDD sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
 * din_gated_bar = inv(din_gated)
-X_13 din_gated_bar din_gated vdd vdd sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
-X_14 din_gated_bar din_gated gnd gnd sky130_fd_pr__nfet_01v8 W=0.36 L=0.15
+X_13 din_gated_bar din_gated VDD VDD sky130_fd_pr__pfet_01v8 W=0.55 L=0.15
+X_14 din_gated_bar din_gated GND GND sky130_fd_pr__nfet_01v8 W=0.36 L=0.15
 
 ************************************************
-* pull down with en enable
-X_15 bl din_gated_bar gnd gnd sky130_fd_pr__nfet_01v8 W=1 L=0.15
-X_16 br din_bar_gated_bar gnd gnd sky130_fd_pr__nfet_01v8 W=1 L=0.15
+* pull down with EN enable
+X_15 BL din_gated_bar GND GND sky130_fd_pr__nfet_01v8 W=1 L=0.15
+X_16 BR din_bar_gated_bar GND GND sky130_fd_pr__nfet_01v8 W=1 L=0.15
 
 .ENDS sky130_fd_bd_sram__openram_write_driver

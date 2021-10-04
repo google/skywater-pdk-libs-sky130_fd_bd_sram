@@ -1,0 +1,10 @@
+* NGSPICE file created from sky130_fd_bd_sram__openram_sp_nand3_dec.ext - technology: sky130A
+
+.subckt sky130_fd_bd_sram__openram_sp_nand3_dec
+X0 GND C a_128_208# GND sky130_fd_pr__nfet_01v8 w=0.74 l=0.15
+X1 VDD C Z VDD sky130_fd_pr__pfet_01v8 w=1.12 l=0.15
+X2 Z B VDD VDD sky130_fd_pr__pfet_01v8 w=1.12 l=0.15
+X3 a_128_136# A Z GND sky130_fd_pr__nfet_01v8 w=0.74 l=0.15
+X4 VDD A Z VDD sky130_fd_pr__pfet_01v8 w=1.12 l=0.15
+X5 a_128_208# B a_128_136# GND sky130_fd_pr__nfet_01v8 w=0.74 l=0.15
+.ends

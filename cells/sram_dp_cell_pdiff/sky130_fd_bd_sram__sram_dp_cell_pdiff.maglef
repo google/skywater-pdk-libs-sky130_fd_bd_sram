@@ -1,0 +1,10 @@
+magic
+tech sky130A
+timestamp 1607456520
+<< nwell >>
+rect 72 0 168 158
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX 72 0 168 158
+string LEFview TRUE
+<< end >>

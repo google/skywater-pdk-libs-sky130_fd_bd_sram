@@ -1,13 +1,10 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 0
-<< checkpaint >>
-rect -1412 -1256 1916 3271
+timestamp 1620010949
 << nwell >>
-rect -152 920 656 1366
-rect -152 422 654 424
-rect -152 138 656 422
+rect -376 920 880 1366
+rect -376 138 880 424
 << pwell >>
 rect 229 1561 321 1595
 rect 431 728 465 820
@@ -400,7 +397,7 @@ rect 255 20 267 54
 rect 301 20 315 54
 rect 255 4 315 20
 << labels >>
-rlabel metal1 s 106 118 106 118 4 E_N
+rlabel metal1 s 106 118 106 118 4 EN
 port 3 nsew
 rlabel metal1 s 296 210 296 210 4 VDD
 port 5 nsew
@@ -421,6 +418,6 @@ port 4 nsew
 << properties >>
 string FIXED_BBOX 0 0 500 2011
 string GDS_FILE sky130_fd_bd_sram__openram_write_driver.gds
-string GDS_END 11666
 string GDS_START 170
+string GDS_END 11664
 << end >>

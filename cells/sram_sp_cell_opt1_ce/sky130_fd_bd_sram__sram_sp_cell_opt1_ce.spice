@@ -1,33 +1,12 @@
-* Copyright 2020 The SkyWater PDK Authors
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*     https://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*
-* SPDX-License-Identifier: Apache-2.0
+* NGSPICE file created from sky130_fd_bd_sram__sram_sp_cell_opt1_ce.ext - technology: sky130A
 
-
-.subckt sky130_fd_bd_sram__sram_sp_cell a_16_182# SUBS a_38_292# a_38_0# a_16_104#
-+ a_174_134# a_16_262# a_16_24# a_0_142# w_138_13#
-X0 a_174_134# a_16_104# a_16_182# w_138_13# sky130_fd_pr__pfet_01v8_hvt w=140000u l=150000u
-X1 a_16_104# a_16_182# a_0_142# SUBS sky130_fd_pr__special_nfet_latch w=210000u l=150000u
-X2 a_16_182# a_16_24# a_38_0# SUBS sky130_fd_pr__special_nfet_latch w=140000u l=150000u
-X3 a_16_104# a_16_262# a_16_104# w_138_13# sky130_fd_pr__pfet_01v8_hvt w=70000u l=95000u
-X4 a_16_104# a_16_182# a_174_134# w_138_13# sky130_fd_pr__pfet_01v8_hvt w=140000u l=150000u
-X5 a_38_292# a_16_262# a_16_104# SUBS sky130_fd_pr__special_nfet_latch w=140000u l=150000u
-X6 a_0_142# a_16_104# a_16_182# SUBS sky130_fd_pr__special_nfet_latch w=210000u l=150000u
-X7 a_16_182# a_16_24# a_16_182# w_138_13# sky130_fd_pr__pfet_01v8_hvt w=70000u l=95000u
+.subckt sky130_fd_bd_sram__sram_sp_cell_opt1_ce
+X0 a_16_182# a_0_24# a_38_0# w_n26_116# sky130_fd_pr__special_nfet_pass ad=4.375e+10p pd=920000u as=1.68e+10p ps=520000u w=140000u l=150000u
+X1 a_16_104# a_16_182# a_0_142# w_n26_116# sky130_fd_pr__special_nfet_latch ad=1.56e+11p pd=2.38e+06u as=8.08e+10p ps=1.28e+06u w=210000u l=150000u
+X2 a_38_292# a_0_262# a_16_104# w_n26_116# sky130_fd_pr__special_nfet_pass ad=1.68e+10p pd=520000u as=4.25e+10p ps=920000u w=140000u l=150000u
+X3 a_16_104# a_0_262# a_16_104# dw_0_0# sky130_fd_pr__special_pfet_pass ad=3.5e+10p pd=780000u as=0p ps=0u w=70000u l=95000u
+X4 a_16_182# a_0_24# a_16_182# dw_0_0# sky130_fd_pr__special_pfet_pass ad=3.32e+10p pd=720000u as=0p ps=0u w=70000u l=95000u
+X5 a_174_134# a_16_104# a_16_182# dw_0_0# sky130_fd_pr__special_pfet_pass ad=6.4e+10p pd=1.14e+06u as=0p ps=0u w=140000u l=150000u
+X6 a_16_104# a_16_182# a_174_134# dw_0_0# sky130_fd_pr__special_pfet_pass ad=0p pd=0u as=0p ps=0u w=140000u l=150000u
+X7 a_0_142# a_16_104# a_16_182# w_n26_116# sky130_fd_pr__special_nfet_latch ad=0p pd=0u as=0p ps=0u w=210000u l=150000u
 .ends
-* Top level circuit sky130_fd_bd_sram__sram_sp_cell_opt1_ce
-Xsky130_fd_bd_sram__sram_sp_cell_0 a_70_79# SUBS a_38_299# a_38_15# a_62_220# a_223_142#
-+ sky130_fd_bd_sram__sram_sp_cell_0/a_16_262# sky130_fd_bd_sram__sram_sp_cell_0/a_16_24#
-+ a_14_142# dw_0_0# sky130_fd_bd_sram__sram_sp_cell
-.end

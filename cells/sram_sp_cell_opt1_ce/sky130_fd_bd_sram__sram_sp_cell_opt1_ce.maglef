@@ -1,0 +1,20 @@
+magic
+tech sky130A
+timestamp 1614044844
+<< checkpaint >>
+rect -630 -630 750 788
+<< dnwell >>
+rect 0 0 120 158
+use sky130_fd_bd_sram__sram_sp_cell  sky130_fd_bd_sram__sram_sp_cell_0
+timestamp 1614044844
+transform 1 0 0 0 1 0
+box 0 0 120 158
+use sky130_fd_bd_sram__sram_sp_cell_addpoly  sky130_fd_bd_sram__sram_sp_cell_addpoly_0
+timestamp 1614044843
+transform 1 0 0 0 1 0
+box 0 12 8 146
+use sky130_fd_bd_sram__sram_sp_cell_metopt1  sky130_fd_bd_sram__sram_sp_cell_metopt1_0
+timestamp 1614044843
+transform 1 0 0 0 1 0
+box 0 0 120 158
+<< end >>

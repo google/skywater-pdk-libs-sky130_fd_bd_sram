@@ -1,4 +1,3 @@
-
 * Copyright 2020 The SkyWater PDK Authors
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
@@ -17,36 +16,36 @@
 
 *********************** "sky130_fd_bd_sram__openram_write_driver" ******************************
 
-.SUBCKT sky130_fd_bd_sram__openram_write_driver din bl br en vdd gnd
+.SUBCKT sky130_fd_bd_sram__openram_write_driver DIN BL BR EN VDD GND
 
 **** Inverter to conver Data_in to data_in_bar ******
-* din_bar = inv(din)
-M_1 din_bar din gnd gnd nshort W=0.36 L=0.15 m=1 mult=1
-M_2 din_bar din vdd vdd pshort W=0.55 L=0.15 m=1 mult=1
+* din_bar = inv(DIN)
+M_1 din_bar DIN GND GND nshort W=0.36 L=0.15 m=1 mult=1
+M_2 din_bar DIN VDD VDD pshort W=0.55 L=0.15 m=1 mult=1
 
 **** 2input nand gate follwed by inverter to drive BL ******
-* din_bar_gated = nand(en, din)
-M_3 din_bar_gated en net_7 gnd nshort W=0.55 L=0.15 m=1 mult=1
-M_4 net_7 din gnd gnd nshort W=0.55 L=0.15 m=1 mult=1
-M_5 din_bar_gated en vdd vdd pshort W=0.55 L=0.15 m=1 mult=1
-M_6 din_bar_gated din vdd vdd pshort W=0.55 L=0.15 m=1 mult=1
+* din_bar_gated = nand(EN, DIN)
+M_3 din_bar_gated EN net_7 GND nshort W=0.55 L=0.15 m=1 mult=1
+M_4 net_7 DIN GND GND nshort W=0.55 L=0.15 m=1 mult=1
+M_5 din_bar_gated EN VDD VDD pshort W=0.55 L=0.15 m=1 mult=1
+M_6 din_bar_gated DIN VDD VDD pshort W=0.55 L=0.15 m=1 mult=1
 * din_bar_gated_bar = inv(din_bar_gated)
-M_7 din_bar_gated_bar din_bar_gated vdd vdd pshort W=0.55 L=0.15 m=1 mult=1
-M_8 din_bar_gated_bar din_bar_gated gnd gnd nshort W=0.36 L=0.15 m=1 mult=1
+M_7 din_bar_gated_bar din_bar_gated VDD VDD pshort W=0.55 L=0.15 m=1 mult=1
+M_8 din_bar_gated_bar din_bar_gated GND GND nshort W=0.36 L=0.15 m=1 mult=1
 
 **** 2input nand gate follwed by inverter to drive BR******
-* din_gated = nand(en, din_bar)
-M_9 din_gated en vdd vdd pshort W=0.55 L=0.15 m=1 mult=1
-M_10 din_gated en net_8 gnd nshort W=0.55 L=0.15 m=1 mult=1
-M_11 net_8 din_bar gnd gnd nshort W=0.55 L=0.15 m=1 mult=1
-M_12 din_gated din_bar vdd vdd pshort W=0.55 L=0.15 m=1 mult=1
+* din_gated = nand(EN, din_bar)
+M_9 din_gated EN VDD VDD pshort W=0.55 L=0.15 m=1 mult=1
+M_10 din_gated EN net_8 GND nshort W=0.55 L=0.15 m=1 mult=1
+M_11 net_8 din_bar GND GND nshort W=0.55 L=0.15 m=1 mult=1
+M_12 din_gated din_bar VDD VDD pshort W=0.55 L=0.15 m=1 mult=1
 * din_gated_bar = inv(din_gated)
-M_13 din_gated_bar din_gated vdd vdd pshort W=0.55 L=0.15 m=1 mult=1
-M_14 din_gated_bar din_gated gnd gnd nshort W=0.36 L=0.15 m=1 mult=1
+M_13 din_gated_bar din_gated VDD VDD pshort W=0.55 L=0.15 m=1 mult=1
+M_14 din_gated_bar din_gated GND GND nshort W=0.36 L=0.15 m=1 mult=1
 
 ************************************************
-* pull down with en enable
-M_15 bl din_gated_bar gnd gnd nshort W=1 L=0.15 m=1 mult=1
-M_16 br din_bar_gated_bar gnd gnd nshort W=1 L=0.15 m=1 mult=1
+* pull down with EN enable
+M_15 BL din_gated_bar GND GND nshort W=1 L=0.15 m=1 mult=1
+M_16 BR din_bar_gated_bar GND GND nshort W=1 L=0.15 m=1 mult=1
 
 .ENDS sky130_fd_bd_sram__openram_write_driver

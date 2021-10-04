@@ -1,12 +1,9 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 0
-<< checkpaint >>
-rect -1420 -1260 1944 3516
+timestamp 1620015898
 << nwell >>
-rect -160 524 682 1614
-rect -160 264 684 524
+rect -541 264 937 1614
 << pwell >>
 rect 434 2017 468 2109
 rect 364 83 398 175
@@ -259,7 +256,7 @@ rect 434 2017 468 2051
 rect 364 151 398 175
 rect 364 83 398 117
 << nsubdiff >>
-rect 388 1348 422 1372
+rect 388 1348 422 1376
 rect 388 1290 422 1314
 << psubdiffcont >>
 rect 434 2051 468 2085
@@ -480,11 +477,8 @@ rlabel metal1 s 380 77 380 77 4 GND
 port 4 nsew
 rlabel metal1 s 378 400 378 400 4 VDD
 port 5 nsew
-rlabel metal1 s 100 2190 100 2190 4 E_N
+rlabel metal1 s 100 2190 100 2190 4 EN
 port 3 nsew
 << properties >>
 string FIXED_BBOX 0 0 500 2256
-string GDS_FILE sky130_fd_bd_sram__openram_sense_amp.gds
-string GDS_END 11106
-string GDS_START 162
 << end >>

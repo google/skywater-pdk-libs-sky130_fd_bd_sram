@@ -1,0 +1,83 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1607456506
+<< nwell >>
+rect 412 -56 888 476
+<< pwell >>
+rect 228 -18 312 18
+<< locali >>
+rect 70 282 136 316
+rect 210 314 888 348
+rect 70 174 136 208
+rect 509 170 543 314
+rect 509 169 598 170
+rect 660 169 728 170
+rect 509 136 728 169
+rect 509 135 685 136
+rect 509 134 572 135
+<< obsli1 >>
+rect 208 142 254 176
+rect 288 142 340 176
+rect 660 226 677 260
+rect 711 226 727 260
+rect 236 17 312 18
+rect 236 -17 253 17
+rect 287 -17 312 17
+rect 236 -18 312 -17
+rect 660 17 730 19
+rect 660 -17 679 17
+rect 713 -17 730 17
+rect 660 -19 730 -17
+<< obsli1c >>
+rect 254 142 288 176
+rect 677 226 711 260
+rect 253 -17 287 17
+rect 679 -17 713 17
+<< metal1 >>
+rect 246 176 294 402
+rect 246 142 254 176
+rect 288 142 294 176
+rect 246 17 294 142
+rect 246 -17 253 17
+rect 287 -17 294 17
+rect 246 -30 294 -17
+rect 670 260 720 402
+rect 670 226 677 260
+rect 711 226 720 260
+rect 670 17 720 226
+rect 670 -17 679 17
+rect 713 -17 720 17
+rect 670 -32 720 -17
+<< labels >>
+rlabel locali s 70 282 136 316 6 A
+port 1 nsew
+rlabel locali s 70 174 136 208 6 B
+port 2 nsew
+rlabel pwell s 228 -18 312 18 8 GND
+port 3 nsew
+rlabel metal1 s 246 -30 294 402 6 GND
+port 3 nsew
+rlabel nwell s 412 -56 888 476 6 VDD
+port 4 nsew
+rlabel metal1 s 670 -32 720 402 6 VDD
+port 4 nsew
+rlabel locali s 660 169 728 170 6 Z
+port 5 nsew
+rlabel locali s 509 170 543 314 6 Z
+port 5 nsew
+rlabel locali s 509 169 598 170 6 Z
+port 5 nsew
+rlabel locali s 509 136 728 169 6 Z
+port 5 nsew
+rlabel locali s 509 135 685 136 6 Z
+port 5 nsew
+rlabel locali s 509 134 572 135 6 Z
+port 5 nsew
+rlabel locali s 210 314 888 348 6 Z
+port 5 nsew
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX 0 0 876 395
+string LEFview TRUE
+<< end >>

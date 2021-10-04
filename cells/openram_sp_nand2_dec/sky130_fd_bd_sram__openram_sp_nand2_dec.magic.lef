@@ -1,0 +1,77 @@
+VERSION 5.7 ;
+  NOWIREEXTENSIONATPIN ON ;
+  DIVIDERCHAR "/" ;
+  BUSBITCHARS "[]" ;
+MACRO sky130_fd_bd_sram__openram_sp_nand2_dec
+  CLASS BLOCK ;
+  FOREIGN sky130_fd_bd_sram__openram_sp_nand2_dec ;
+  ORIGIN -0.290 -0.265 ;
+  SIZE 4.285 BY 1.715 ;
+  PIN A
+    ANTENNAGATEAREA 0.279000 ;
+    PORT
+      LAYER li1 ;
+        RECT 0.350 1.410 0.680 1.580 ;
+    END
+  END A
+  PIN B
+    ANTENNAGATEAREA 0.279000 ;
+    PORT
+      LAYER li1 ;
+        RECT 0.350 0.870 0.680 1.040 ;
+    END
+  END B
+  PIN GND
+    ANTENNADIFFAREA 0.297600 ;
+    PORT
+      LAYER pwell ;
+        RECT 0.290 0.500 0.710 0.680 ;
+      LAYER li1 ;
+        RECT 1.040 0.710 1.700 0.880 ;
+        RECT 0.330 0.500 0.710 0.680 ;
+      LAYER mcon ;
+        RECT 1.270 0.710 1.440 0.880 ;
+        RECT 0.415 0.505 0.585 0.675 ;
+      LAYER met1 ;
+        RECT 0.380 0.680 0.620 0.740 ;
+        RECT 1.230 0.680 1.470 2.010 ;
+        RECT 0.380 0.500 1.470 0.680 ;
+        RECT 0.380 0.440 0.620 0.500 ;
+        RECT 1.230 0.145 1.470 0.500 ;
+    END
+  END GND
+  PIN VDD
+    ANTENNADIFFAREA 0.415800 ;
+    PORT
+      LAYER nwell ;
+        RECT 2.060 -0.300 4.880 2.390 ;
+      LAYER li1 ;
+        RECT 3.300 1.130 3.635 1.300 ;
+        RECT 4.225 0.680 4.575 0.860 ;
+      LAYER mcon ;
+        RECT 3.385 1.130 3.555 1.300 ;
+        RECT 4.315 0.685 4.485 0.855 ;
+      LAYER met1 ;
+        RECT 3.350 0.850 3.600 2.010 ;
+        RECT 4.225 0.850 4.560 0.890 ;
+        RECT 3.350 0.680 4.560 0.850 ;
+        RECT 3.350 0.150 3.600 0.680 ;
+        RECT 4.245 0.640 4.560 0.680 ;
+    END
+  END VDD
+  PIN Z
+    ANTENNADIFFAREA 0.947700 ;
+    PORT
+      LAYER li1 ;
+        RECT 1.050 1.570 4.440 1.740 ;
+        RECT 2.545 0.850 2.715 1.570 ;
+        RECT 2.545 0.845 2.990 0.850 ;
+        RECT 3.300 0.845 3.640 0.850 ;
+        RECT 2.545 0.680 3.640 0.845 ;
+        RECT 2.545 0.675 3.425 0.680 ;
+        RECT 2.545 0.670 2.860 0.675 ;
+    END
+  END Z
+END sky130_fd_bd_sram__openram_sp_nand2_dec
+END LIBRARY
+

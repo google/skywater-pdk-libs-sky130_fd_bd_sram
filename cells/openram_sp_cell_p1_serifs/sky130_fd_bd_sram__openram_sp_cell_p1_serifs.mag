@@ -1,0 +1,27 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1258 -1235 1455 1364
+use sky130_fd_bd_sram__openram_sp_cell_p1_serif  sky130_fd_bd_sram__openram_sp_cell_p1_serif_0
+timestamp 0
+transform 1 0 2 0 1 25
+box 0 0 1 1
+use sky130_fd_bd_sram__openram_sp_cell_p1_serif  sky130_fd_bd_sram__openram_sp_cell_p1_serif_1
+timestamp 0
+transform 1 0 2 0 1 103
+box 0 0 1 1
+use sky130_fd_bd_sram__openram_sp_cell_p1_serif  sky130_fd_bd_sram__openram_sp_cell_p1_serif_2
+timestamp 0
+transform 1 0 194 0 1 25
+box 0 0 1 1
+use sky130_fd_bd_sram__openram_sp_cell_p1_serif  sky130_fd_bd_sram__openram_sp_cell_p1_serif_3
+timestamp 0
+transform 1 0 194 0 1 103
+box 0 0 1 1
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__openram_sp_cell_p1_serifs.gds
+string GDS_END 598
+string GDS_START 322
+<< end >>

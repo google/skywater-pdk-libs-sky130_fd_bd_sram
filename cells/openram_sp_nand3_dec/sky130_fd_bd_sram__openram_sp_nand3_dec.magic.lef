@@ -1,0 +1,96 @@
+VERSION 5.7 ;
+  NOWIREEXTENSIONATPIN ON ;
+  DIVIDERCHAR "/" ;
+  BUSBITCHARS "[]" ;
+MACRO sky130_fd_bd_sram__openram_sp_nand3_dec
+  CLASS BLOCK ;
+  FOREIGN sky130_fd_bd_sram__openram_sp_nand3_dec ;
+  ORIGIN 0.360 -0.175 ;
+  SIZE 6.965 BY 1.580 ;
+  PIN A
+    ANTENNAGATEAREA 0.279000 ;
+    PORT
+      LAYER li1 ;
+        RECT 0.200 0.430 0.530 0.600 ;
+    END
+  END A
+  PIN B
+    ANTENNAGATEAREA 0.279000 ;
+    PORT
+      LAYER li1 ;
+        RECT -0.350 0.880 -0.020 1.050 ;
+    END
+  END B
+  PIN C
+    ANTENNAGATEAREA 0.279000 ;
+    PORT
+      LAYER li1 ;
+        RECT 0.200 1.330 0.530 1.500 ;
+        RECT 1.630 1.300 2.055 1.510 ;
+        RECT 4.610 1.300 5.035 1.510 ;
+        RECT 1.630 1.215 1.970 1.300 ;
+        RECT 4.610 1.215 4.950 1.300 ;
+      LAYER mcon ;
+        RECT 1.710 1.275 1.880 1.445 ;
+        RECT 4.690 1.275 4.860 1.445 ;
+      LAYER met1 ;
+        RECT 1.630 1.450 1.970 1.510 ;
+        RECT 4.610 1.450 4.950 1.510 ;
+        RECT 1.630 1.135 1.975 1.450 ;
+        RECT 4.610 1.135 4.955 1.450 ;
+      LAYER via ;
+        RECT 1.670 1.170 1.930 1.430 ;
+        RECT 4.650 1.170 4.910 1.430 ;
+      LAYER met2 ;
+        RECT 1.630 1.300 5.045 1.440 ;
+        RECT 1.630 1.135 1.975 1.300 ;
+        RECT 4.610 1.135 4.955 1.300 ;
+    END
+  END C
+  PIN GND
+    ANTENNADIFFAREA 0.374750 ;
+    PORT
+      LAYER pwell ;
+        RECT -0.320 1.300 -0.050 1.715 ;
+      LAYER li1 ;
+        RECT -0.270 1.670 0.900 1.840 ;
+        RECT -0.270 1.300 -0.100 1.670 ;
+        RECT 0.700 1.650 0.900 1.670 ;
+        RECT 0.700 1.455 1.360 1.650 ;
+      LAYER mcon ;
+        RECT 0.920 1.465 1.090 1.635 ;
+      LAYER met1 ;
+        RECT 0.890 -0.220 1.120 1.840 ;
+    END
+  END GND
+  PIN VDD
+    ANTENNADIFFAREA 0.844200 ;
+    PORT
+      LAYER nwell ;
+        RECT 2.070 -0.300 6.610 2.370 ;
+      LAYER li1 ;
+        RECT 5.550 1.360 5.740 1.690 ;
+        RECT 3.310 0.770 5.805 0.940 ;
+      LAYER mcon ;
+        RECT 5.555 1.440 5.725 1.610 ;
+        RECT 3.395 0.770 3.565 0.940 ;
+        RECT 5.555 0.770 5.725 0.940 ;
+      LAYER met1 ;
+        RECT 3.360 0.070 3.600 1.840 ;
+        RECT 5.520 0.070 5.760 1.840 ;
+    END
+  END VDD
+  PIN Z
+    ANTENNADIFFAREA 1.204100 ;
+    PORT
+      LAYER li1 ;
+        RECT 2.555 1.440 3.435 1.445 ;
+        RECT 2.555 1.275 3.650 1.440 ;
+        RECT 2.555 0.475 2.725 1.275 ;
+        RECT 3.310 1.270 3.650 1.275 ;
+        RECT 0.710 0.305 6.610 0.475 ;
+    END
+  END Z
+END sky130_fd_bd_sram__openram_sp_nand3_dec
+END LIBRARY
+

@@ -1,0 +1,20 @@
+VERSION 5.7 ;
+  NOWIREEXTENSIONATPIN ON ;
+  DIVIDERCHAR "/" ;
+  BUSBITCHARS "[]" ;
+MACRO sky130_fd_bd_sram__openram_sp_cell_met2
+  CLASS BLOCK ;
+  FOREIGN sky130_fd_bd_sram__openram_sp_cell_met2 ;
+  ORIGIN 0.000 -0.295 ;
+  SIZE 1.200 BY 0.990 ;
+  OBS
+      LAYER met2 ;
+        RECT 0.000 1.065 1.200 1.285 ;
+        RECT 0.955 1.025 1.200 1.065 ;
+        RECT 0.000 0.855 0.290 0.895 ;
+        RECT 0.000 0.635 1.200 0.855 ;
+        RECT 0.000 0.295 1.200 0.465 ;
+  END
+END sky130_fd_bd_sram__openram_sp_cell_met2
+END LIBRARY
+
