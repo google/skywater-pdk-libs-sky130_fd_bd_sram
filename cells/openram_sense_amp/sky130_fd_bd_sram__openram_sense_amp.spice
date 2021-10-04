@@ -15,13 +15,13 @@
 * SPDX-License-Identifier: Apache-2.0
 
 
-.subckt sky130_fd_bd_sram__openram_sense_amp BL BR DOUT E_N GND VDD
+.subckt sky130_fd_bd_sram__openram_sense_amp BL BR DOUT EN GND VDD
 X0 GND a_154_1298# DOUT GND sky130_fd_pr__nfet_01v8 w=650000u l=150000u
 X1 a_154_1298# a_96_1689# VDD VDD sky130_fd_pr__pfet_01v8 w=1.26e+06u l=150000u
-X2 BL E_N a_96_1689# VDD sky130_fd_pr__pfet_01v8 w=2e+06u l=150000u
-X3 GND E_N a_184_1689# GND sky130_fd_pr__nfet_01v8 w=650000u l=150000u
+X2 BL EN a_96_1689# VDD sky130_fd_pr__pfet_01v8 w=2e+06u l=150000u
+X3 GND EN a_184_1689# GND sky130_fd_pr__nfet_01v8 w=650000u l=150000u
 X4 a_184_1689# a_154_1298# a_96_1689# GND sky130_fd_pr__nfet_01v8 w=650000u l=150000u
-X5 a_154_1298# E_N BR VDD sky130_fd_pr__pfet_01v8 w=2e+06u l=150000u
+X5 a_154_1298# EN BR VDD sky130_fd_pr__pfet_01v8 w=2e+06u l=150000u
 X6 a_154_1298# a_96_1689# a_184_1689# GND sky130_fd_pr__nfet_01v8 w=650000u l=150000u
 X7 VDD a_154_1298# a_96_1689# VDD sky130_fd_pr__pfet_01v8 w=1.26e+06u l=150000u
 X8 VDD a_154_1298# DOUT VDD sky130_fd_pr__pfet_01v8 w=1.26e+06u l=150000u

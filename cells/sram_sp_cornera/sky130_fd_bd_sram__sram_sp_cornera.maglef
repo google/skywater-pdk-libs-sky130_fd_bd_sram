@@ -1,0 +1,159 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1614044886
+<< nwell >>
+rect 0 0 89 411
+<< metal1 >>
+rect 57 322 91 356
+rect 57 250 91 284
+rect 158 151 192 185
+rect 180 11 214 45
+<< metal1 >>
+rect 0 205 18 411
+rect 50 356 110 411
+rect 50 322 57 356
+rect 91 322 110 356
+rect 50 292 110 322
+rect 50 241 54 292
+tri 50 240 51 241 ne
+rect 51 240 54 241
+rect 106 240 110 292
+tri 51 229 62 240 ne
+tri 18 205 34 221 sw
+rect 0 201 34 205
+rect -11 149 34 201
+rect 0 146 34 149
+rect 0 0 14 146
+tri 14 126 34 146 nw
+tri 42 79 62 99 se
+rect 62 79 110 240
+rect 42 34 110 79
+rect 42 24 100 34
+tri 100 24 110 34 nw
+rect 152 243 212 411
+rect 152 185 198 243
+tri 198 229 212 243 nw
+rect 152 151 158 185
+rect 192 151 198 185
+rect 152 76 198 151
+tri 198 76 215 93 sw
+rect 152 32 160 76
+rect 212 73 215 76
+tri 215 73 218 76 sw
+rect 212 45 218 73
+tri 152 24 160 32 ne
+rect 42 11 87 24
+tri 87 11 100 24 nw
+tri 160 11 173 24 ne
+rect 173 11 180 24
+rect 214 11 218 45
+rect 42 0 76 11
+tri 76 0 87 11 nw
+tri 173 0 184 11 ne
+rect 184 0 218 11
+<< metal1 >>
+rect 54 284 106 292
+rect 54 250 57 284
+rect 57 250 91 284
+rect 91 250 106 284
+rect 54 240 106 250
+rect 160 45 212 76
+rect 160 24 180 45
+rect 180 24 212 45
+<< metal2 >>
+rect 54 284 106 292
+rect 54 250 57 284
+rect 57 250 91 284
+rect 91 250 106 284
+rect 54 240 106 250
+rect 160 45 212 76
+rect 160 24 180 45
+rect 180 24 212 45
+<< metal2 >>
+rect 0 240 54 292
+rect 106 240 260 292
+rect 0 236 260 240
+rect 0 201 260 206
+rect -11 149 260 201
+rect 0 116 260 149
+rect 0 76 260 81
+rect 0 24 160 76
+rect 212 24 260 76
+rect 0 4 260 24
+<< obsm2 >>
+rect 0 320 260 411
+<< labels >>
+rlabel metal2 s 0 4 260 81 6 VNB
+port 1 nsew
+rlabel via1 s 160 24 212 76 6 VNB
+port 1 nsew
+rlabel metal1 s 184 0 218 11 6 VNB
+port 1 nsew
+rlabel metal1 s 173 11 218 24 6 VNB
+port 1 nsew
+rlabel metal1 s 160 24 218 32 6 VNB
+port 1 nsew
+rlabel metal1 s 152 32 218 73 6 VNB
+port 1 nsew
+rlabel metal1 s 152 73 215 76 6 VNB
+port 1 nsew
+rlabel metal1 s 152 76 198 243 6 VNB
+port 1 nsew
+rlabel metal1 s 152 243 212 411 6 VNB
+port 1 nsew
+rlabel viali s 180 11 214 45 6 VNB
+port 1 nsew
+rlabel viali s 158 151 192 185 6 VNB
+port 1 nsew
+rlabel locali s 32 0 226 55 6 VNB
+port 1 nsew
+rlabel locali s 0 55 226 162 6 VNB
+port 1 nsew
+rlabel locali s 104 162 226 198 6 VNB
+port 1 nsew
+rlabel metal2 s 0 236 260 292 6 VPB
+port 2 nsew
+rlabel via1 s 54 240 106 292 6 VPB
+port 2 nsew
+rlabel metal1 s 42 0 76 34 6 VPB
+port 2 nsew
+rlabel metal1 s 42 34 110 79 6 VPB
+port 2 nsew
+rlabel metal1 s 62 79 110 240 6 VPB
+port 2 nsew
+rlabel metal1 s 51 240 110 241 6 VPB
+port 2 nsew
+rlabel metal1 s 50 241 110 411 6 VPB
+port 2 nsew
+rlabel viali s 57 250 91 284 6 VPB
+port 2 nsew
+rlabel viali s 57 322 91 356 6 VPB
+port 2 nsew
+rlabel locali s 0 198 68 232 6 VPB
+port 2 nsew
+rlabel locali s 0 232 260 375 6 VPB
+port 2 nsew
+rlabel nwell s 0 0 89 411 6 VPB
+port 2 nsew
+rlabel metal2 s 0 116 260 149 6 VPWR
+port 3 nsew power default
+rlabel metal2 s -11 149 260 201 6 VPWR
+port 3 nsew power default
+rlabel metal2 s 0 201 260 206 6 VPWR
+port 3 nsew power default
+rlabel metal1 s 0 0 14 146 6 VPWR
+port 3 nsew power default
+rlabel metal1 s 0 146 34 149 6 VPWR
+port 3 nsew power default
+rlabel metal1 s -11 149 34 201 6 VPWR
+port 3 nsew power default
+rlabel metal1 s 0 201 34 205 6 VPWR
+port 3 nsew power default
+rlabel metal1 s 0 205 18 411 6 VPWR
+port 3 nsew power default
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX -11 0 260 411
+string LEFview TRUE
+<< end >>

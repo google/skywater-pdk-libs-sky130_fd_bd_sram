@@ -1,0 +1,91 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1614044918
+<< nwell >>
+rect 0 0 260 316
+<< metal1 >>
+rect 0 263 14 316
+rect 0 257 26 263
+rect -11 205 26 257
+rect 0 198 26 205
+rect 0 129 23 198
+rect 0 127 21 129
+tri 21 127 23 129 nw
+rect 0 0 14 127
+rect 246 263 260 316
+rect 234 257 260 263
+rect 234 205 271 257
+rect 234 198 260 205
+rect 237 129 260 198
+tri 237 127 239 129 ne
+rect 239 127 260 129
+rect 246 0 260 127
+<< obsm1 >>
+rect 54 122 102 316
+rect 54 120 100 122
+tri 100 120 102 122 nw
+rect 158 122 206 316
+tri 158 120 160 122 ne
+rect 160 120 206 122
+tri 42 108 54 120 se
+rect 54 108 76 120
+rect 42 0 76 108
+tri 76 96 100 120 nw
+tri 160 96 184 120 ne
+rect 184 108 206 120
+tri 206 108 218 120 sw
+tri 104 84 108 88 se
+rect 108 84 152 88
+tri 152 84 156 88 sw
+rect 104 20 156 84
+tri 104 14 110 20 ne
+rect 110 14 150 20
+tri 150 14 156 20 nw
+rect 184 0 218 108
+<< metal2 >>
+rect -11 205 271 257
+<< obsm2 >>
+rect 0 127 260 171
+rect 0 59 260 93
+rect 104 24 156 59
+<< labels >>
+rlabel metal2 s -11 205 271 257 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 246 0 260 127 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 0 0 14 127 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 239 127 260 129 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 237 129 260 198 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 0 127 21 129 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 0 129 23 198 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 234 198 260 205 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 234 205 271 257 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 234 257 260 263 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 0 198 26 205 6 VPWR
+port 1 nsew power default
+rlabel metal1 s -11 205 26 257 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 0 257 26 263 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 246 263 260 316 6 VPWR
+port 1 nsew power default
+rlabel metal1 s 0 263 14 316 6 VPWR
+port 1 nsew power default
+rlabel locali s 243 141 260 175 6 VPWR
+port 1 nsew power default
+rlabel locali s 0 141 17 175 6 VPWR
+port 1 nsew power default
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX -11 0 271 316
+string LEFview TRUE
+<< end >>

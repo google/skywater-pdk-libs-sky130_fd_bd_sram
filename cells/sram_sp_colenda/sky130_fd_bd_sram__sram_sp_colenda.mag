@@ -1,42 +1,105 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 0
-<< checkpaint >>
-rect -1271 -1260 1511 1671
+timestamp 1621288225
+<< dnwell >>
+rect 0 0 240 411
+<< nwell >>
+rect 0 0 96 411
+<< pwell >>
+rect 114 80 266 362
+rect 148 -26 228 80
+<< nmos >>
+rect 174 24 202 52
+<< ndiff >>
+rect 174 15 202 24
 << ndiffc >>
-rect 174 15 202 17
-<< corelocali >>
-rect 171 0 174 15
-rect 202 0 205 15
+rect 174 0 202 15
+<< psubdiff >>
+rect 140 142 240 336
+rect 140 108 155 142
+rect 189 108 223 142
+rect 140 106 240 108
+<< nsubdiff >>
+rect 0 368 66 375
+rect 0 334 17 368
+rect 51 334 66 368
+rect 0 300 66 334
+rect 0 266 17 300
+rect 51 266 66 300
+rect 0 232 66 266
+rect 0 198 17 232
+rect 51 198 66 232
+rect 0 94 66 198
+<< psubdiffcont >>
+rect 155 108 189 142
+rect 223 108 240 142
+<< nsubdiffcont >>
+rect 17 334 51 368
+rect 17 266 51 300
+rect 17 198 51 232
+<< poly >>
+rect 0 52 240 54
+rect 0 24 174 52
+rect 202 24 240 52
+<< locali >>
+rect 0 368 240 375
+rect 0 334 17 368
+rect 51 334 240 368
+rect 0 300 240 334
+rect 0 266 17 300
+rect 51 266 240 300
+rect 0 235 240 266
+rect 0 232 68 235
+rect 0 198 17 232
+rect 51 198 68 232
+rect 104 162 240 201
+rect 0 142 240 162
+rect 0 108 155 142
+rect 189 108 223 142
+rect 0 55 240 108
+rect 14 0 67 15
+rect 101 0 174 15
+rect 202 0 226 15
+<< viali >>
+rect 67 0 101 17
 << metal1 >>
-rect 69 55 97 81
-rect 142 55 170 81
-rect 0 0 14 19
-rect 226 0 240 19
-use sky130_fd_bd_sram__sram_sp_colend_met2  sky130_fd_bd_sram__sram_sp_colend_met2_0
-timestamp 0
-transform 1 0 0 0 1 0
-box -11 4 251 411
-use sky130_fd_bd_sram__sram_sp_colenda_p1m_siz  sky130_fd_bd_sram__sram_sp_colenda_p1m_siz_0
-timestamp 0
-transform 1 0 0 0 1 0
-box 0 0 1 1
-use sky130_fd_bd_sram__sram_sp_colenda_ce  sky130_fd_bd_sram__sram_sp_colenda_ce_0
-timestamp 0
-transform 1 0 0 0 1 0
-box 0 0 240 411
+rect 0 205 18 411
+rect 61 318 97 411
+tri 61 310 69 318 ne
+tri 18 205 34 221 sw
+rect 0 200 34 205
+rect 25 150 34 200
+rect 0 146 34 150
+rect 0 0 14 146
+tri 14 126 34 146 nw
+rect 69 29 97 318
+rect 142 319 178 411
+rect 60 17 108 29
+rect 60 0 67 17
+rect 101 0 108 17
+rect 142 0 170 319
+tri 170 311 178 319 nw
+rect 210 390 240 411
+rect 210 340 215 390
+rect 210 319 240 340
+tri 210 303 226 319 ne
+rect 226 0 240 319
+<< via1 >>
+rect -10 150 25 200
+rect 215 340 250 390
+<< metal2 >>
+rect 0 390 240 411
+rect 0 340 215 390
+rect 0 320 240 340
+rect 0 236 240 292
+rect 0 200 240 206
+rect 25 150 240 200
+rect 0 116 240 150
+rect 0 4 240 81
 << labels >>
-flabel metal1 s 69 55 97 81 0 FreeSans 100 0 0 0 bl1
-port 1 nsew
-flabel metal1 s 0 0 14 19 0 FreeSans 40 90 0 0 vpwr
-port 3 nsew
-flabel metal1 s 226 0 240 19 0 FreeSans 40 90 0 0 vgnd
-port 2 nsew
-flabel metal1 s 142 55 170 81 0 FreeSans 100 0 0 0 bl0
-port 0 nsew
-<< properties >>
-string GDS_FILE sky130_fd_bd_sram__sram_sp_colenda.gds
-string GDS_END 3484
-string GDS_START 2626
+rlabel metal1 s 69 55 97 81 4 BL1
+rlabel metal1 s 0 0 14 19 4 VPWR
+rlabel metal1 s 226 0 240 19 4 VGND
+rlabel metal1 s 142 55 170 81 4 BL0
 << end >>

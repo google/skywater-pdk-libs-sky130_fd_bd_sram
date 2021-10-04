@@ -1,0 +1,151 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1607456511
+<< nwell >>
+rect -152 920 656 1366
+rect -152 422 654 424
+rect -152 138 656 422
+<< pwell >>
+rect 229 1561 321 1595
+rect 431 728 465 820
+<< obsli1 >>
+rect 137 1709 171 1913
+rect 117 1580 171 1647
+rect 137 1216 171 1580
+rect 225 1595 259 1927
+rect 313 1709 347 1913
+rect 381 1923 429 1989
+rect 225 1561 309 1595
+rect 225 1433 259 1561
+rect 313 1399 347 1513
+rect 381 1399 415 1923
+rect 313 1365 415 1399
+rect 57 1114 103 1180
+rect 69 444 103 1114
+rect 225 1158 259 1333
+rect 313 1216 347 1365
+rect 225 1124 309 1158
+rect 137 918 171 1070
+rect 225 952 259 1124
+rect 381 1114 427 1180
+rect 313 918 347 1070
+rect 381 918 415 1114
+rect 137 884 415 918
+rect 137 730 171 884
+rect 313 824 347 850
+rect 313 790 360 824
+rect 394 790 471 824
+rect 313 732 347 790
+rect 431 740 465 790
+rect 387 632 433 698
+rect 157 488 191 606
+rect 245 488 279 590
+rect 345 622 433 632
+rect 345 598 421 622
+rect 345 578 391 598
+rect 69 410 191 444
+rect 345 424 379 578
+rect 69 208 103 376
+rect 157 258 191 410
+rect 333 390 379 424
+rect 245 208 279 376
+rect 333 258 367 390
+rect 69 174 245 208
+rect 279 174 329 208
+rect 245 168 279 174
+rect 94 100 111 134
+rect 145 100 161 134
+rect 251 20 267 54
+rect 301 20 317 54
+<< obsli1c >>
+rect 137 1913 171 1947
+rect 313 1913 347 1947
+rect 360 790 394 824
+rect 245 590 279 624
+rect 245 174 279 208
+rect 111 100 145 134
+rect 267 20 301 54
+<< metal1 >>
+rect 126 1959 156 2011
+rect 328 1959 358 2011
+rect 125 1947 182 1959
+rect 125 1913 137 1947
+rect 171 1913 182 1947
+rect 125 1901 182 1913
+rect 302 1947 359 1959
+rect 302 1913 313 1947
+rect 347 1913 359 1947
+rect 302 1901 359 1913
+rect 213 1595 299 1601
+rect 213 1561 321 1595
+rect 213 1555 299 1561
+rect 213 1118 299 1164
+rect 334 824 420 830
+rect 334 790 360 824
+rect 394 790 420 824
+rect 334 789 420 790
+rect 347 784 420 789
+rect 219 624 305 630
+rect 219 590 245 624
+rect 279 590 305 624
+rect 219 584 305 590
+rect 233 208 319 214
+rect 233 174 245 208
+rect 279 174 319 208
+rect 233 168 319 174
+rect 99 134 157 156
+rect 99 100 111 134
+rect 145 128 157 134
+rect 145 100 500 128
+rect 99 94 500 100
+rect 255 54 315 60
+rect 255 20 267 54
+rect 301 20 315 54
+rect 255 4 315 20
+<< labels >>
+rlabel metal1 s 126 1959 156 2011 6 BL
+port 1 nsew
+rlabel metal1 s 125 1901 182 1959 6 BL
+port 1 nsew
+rlabel metal1 s 328 1959 358 2011 6 BR
+port 2 nsew
+rlabel metal1 s 302 1901 359 1959 6 BR
+port 2 nsew
+rlabel metal1 s 255 4 315 60 6 DIN
+port 3 nsew
+rlabel metal1 s 99 128 157 156 6 EN
+port 4 nsew
+rlabel metal1 s 99 94 500 128 6 EN
+port 4 nsew
+rlabel pwell s 229 1561 321 1595 6 GND
+port 5 nsew
+rlabel metal1 s 213 1595 299 1601 6 GND
+port 5 nsew
+rlabel metal1 s 213 1561 321 1595 6 GND
+port 5 nsew
+rlabel metal1 s 213 1555 299 1561 6 GND
+port 5 nsew
+rlabel metal1 s 219 584 305 630 6 GND
+port 5 nsew
+rlabel pwell s 431 728 465 820 6 GND
+port 5 nsew
+rlabel metal1 s 347 784 420 789 6 GND
+port 5 nsew
+rlabel metal1 s 334 789 420 830 6 GND
+port 5 nsew
+rlabel nwell s -152 920 656 1366 6 VDD
+port 6 nsew
+rlabel metal1 s 213 1118 299 1164 6 VDD
+port 6 nsew
+rlabel nwell s -152 422 654 424 6 VDD
+port 6 nsew
+rlabel nwell s -152 138 656 422 6 VDD
+port 6 nsew
+rlabel metal1 s 233 168 319 214 6 VDD
+port 6 nsew
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX 0 0 500 2011
+string LEFview TRUE
+<< end >>

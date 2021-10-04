@@ -1,0 +1,85 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1607456541
+<< nwell >>
+rect 0 0 351 316
+<< pwell >>
+rect 419 276 519 316
+rect 419 0 519 40
+<< obsli1 >>
+rect 0 234 63 316
+rect 102 235 287 298
+rect 459 284 527 316
+rect 459 209 498 284
+rect 556 252 597 298
+rect 526 223 597 252
+rect 108 179 299 190
+rect 526 179 558 223
+rect 108 137 558 179
+rect 0 77 33 109
+rect 0 17 236 77
+rect 296 37 431 101
+rect 459 32 498 107
+rect 526 93 558 137
+rect 586 125 611 191
+rect 526 64 597 93
+rect 556 54 597 64
+rect 0 0 262 17
+rect 459 0 527 32
+rect 556 24 601 54
+rect 556 18 597 24
+<< obsm1 >>
+rect 585 316 622 327
+rect 42 188 78 316
+rect 118 306 168 316
+rect 117 236 169 306
+rect -35 136 78 188
+rect 0 26 78 136
+rect -11 0 78 26
+rect 118 0 168 236
+rect 208 0 258 316
+rect 298 104 348 316
+rect 297 34 349 104
+rect 298 0 348 34
+rect 388 0 438 316
+rect 487 290 622 316
+rect 487 240 611 290
+rect 474 120 558 204
+rect 475 107 558 120
+rect 594 71 611 240
+rect 487 26 611 71
+rect 487 0 622 26
+rect -11 -11 26 0
+rect 585 -11 622 0
+<< obsm2 >>
+rect 63 316 119 324
+rect 585 316 622 327
+rect 43 268 139 316
+rect 320 290 622 316
+rect 320 279 611 290
+rect 320 181 416 279
+rect 0 96 416 181
+rect 474 169 556 185
+rect 474 121 611 169
+rect 0 28 48 48
+rect -8 26 48 28
+rect -11 0 48 26
+rect 320 37 416 96
+rect 320 26 611 37
+rect 320 0 622 26
+rect -11 -8 28 0
+rect -11 -11 26 -8
+rect 585 -11 622 0
+<< obsm3 >>
+rect 63 316 119 324
+rect 0 275 611 316
+rect 0 101 611 215
+rect 0 28 611 41
+rect -8 0 611 28
+rect -8 -8 28 0
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX -35 -11 622 327
+string LEFview TRUE
+<< end >>

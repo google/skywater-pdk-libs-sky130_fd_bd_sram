@@ -1,21 +1,4 @@
 magic
 tech sky130A
-magscale 1 2
 timestamp 0
-<< checkpaint >>
-rect -1271 -1236 1520 1517
-<< via1 >>
-rect -11 205 26 257
-rect 104 30 156 82
-<< metal2 >>
-rect 26 205 260 257
-rect 0 127 260 171
-rect 0 82 260 93
-rect 0 59 104 82
-rect 156 59 260 82
-rect 104 24 156 30
-<< properties >>
-string GDS_FILE sky130_fd_bd_sram__sram_sp_rowend_met2.gds
-string GDS_END 554
-string GDS_START 166
 << end >>

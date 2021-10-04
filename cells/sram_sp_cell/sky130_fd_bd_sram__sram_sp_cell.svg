@@ -6,13 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg439"
+   id="svg437"
    version="1.2"
    viewBox="0 0 668 879"
    height="879pt"
    width="668pt">
   <metadata
-     id="metadata443">
+     id="metadata441">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -40,7 +40,7 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAApSURBVDiNY2Rg+M/AiAczMdAe/P+PH9PBDYyj4cDAwDAaDjAwGg4QAAAzhF/RgilCzQAAAABJRU5ErkJggg=="
        height="32"
        width="32"
-       id="image272" />
+       id="image268" />
     <pattern
        patternTransform="matrix(1,0,0,1,0.5,1079.5)"
        height="32"
@@ -49,7 +49,7 @@
        id="pattern0">
       <use
          id="use9"
-         xlink:href="#image272" />
+         xlink:href="#image268" />
     </pattern>
     <mask
        id="mask0">
@@ -137,7 +137,7 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAAtSURBVDiNY/jPwMDAwMDwHxeNWwZK49E7eFQwwnzDiINmGA0HhtFwGA0HdBoAtQDvIRl1O+YAAAAASUVORK5CYII="
        height="32"
        width="32"
-       id="image273" />
+       id="image269" />
     <pattern
        patternTransform="matrix(1,0,0,1,0.5,1079.5)"
        height="32"
@@ -146,7 +146,7 @@
        id="pattern1">
       <use
          id="use52"
-         xlink:href="#image273" />
+         xlink:href="#image269" />
     </pattern>
     <mask
        id="mask1">
@@ -168,7 +168,7 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAAtSURBVDiNY/jPwMDAwMDwHxfNCKUZGHHQBPQPEZphNBxgHsSvbjQcIPQICQcAbQzvIWHO67YAAAAASUVORK5CYII="
        height="32"
        width="32"
-       id="image274" />
+       id="image270" />
     <pattern
        patternTransform="matrix(1,0,0,1,0.5,1079.5)"
        height="32"
@@ -177,7 +177,7 @@
        id="pattern2">
       <use
          id="use62"
-         xlink:href="#image274" />
+         xlink:href="#image270" />
     </pattern>
     <mask
        id="mask2">
@@ -487,7 +487,7 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAmJLR0QA/4ePzL8AAAA9SURBVDiN7ZAhEgAgDMNS/v/nIsAgtnpuMzG7axsIJ9xTYEDUBJ/nkqGDQ48FulEFQ36uMR7o94+Hl3942JrBc/FcUmODAAAAAElFTkSuQmCC"
        height="32"
        width="32"
-       id="image275" />
+       id="image271" />
     <pattern
        patternTransform="matrix(1,0,0,1,0.5,1079.5)"
        height="32"
@@ -496,7 +496,7 @@
        id="pattern3">
       <use
          id="use216"
-         xlink:href="#image275" />
+         xlink:href="#image271" />
     </pattern>
     <mask
        id="mask3">
@@ -511,7 +511,7 @@
   </defs>
   <g
      transform="translate(-630.5,-95.5)"
-     id="surface269">
+     id="surface265">
     <g
        style="clip-rule:nonzero"
        id="g224"
@@ -660,7 +660,7 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g280"
+       id="g278"
        clip-path="url(#clip15)">
       <rect
          id="rect274"
@@ -677,24 +677,17 @@
          width="1898"
          y="0"
          x="0" />
-      <rect
-         id="rect278"
-         style="fill:#ffff00;fill-opacity:0.15748004;stroke:none"
-         height="1059"
-         width="1898"
-         y="0"
-         x="0" />
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g286"
+       id="g284"
        clip-path="url(#clip16)">
       <g
          style="clip-rule:nonzero"
-         id="g284"
+         id="g282"
          clip-path="url(#clip17)">
         <rect
-           id="rect282"
+           id="rect280"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -704,14 +697,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g292"
+       id="g290"
        clip-path="url(#clip18)">
       <g
          style="clip-rule:nonzero"
-         id="g290"
+         id="g288"
          clip-path="url(#clip19)">
         <rect
-           id="rect288"
+           id="rect286"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -721,14 +714,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g298"
+       id="g296"
        clip-path="url(#clip20)">
       <g
          style="clip-rule:nonzero"
-         id="g296"
+         id="g294"
          clip-path="url(#clip21)">
         <rect
-           id="rect294"
+           id="rect292"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -738,14 +731,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g304"
+       id="g302"
        clip-path="url(#clip22)">
       <g
          style="clip-rule:nonzero"
-         id="g302"
+         id="g300"
          clip-path="url(#clip23)">
         <rect
-           id="rect300"
+           id="rect298"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -755,14 +748,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g310"
+       id="g308"
        clip-path="url(#clip24)">
       <g
          style="clip-rule:nonzero"
-         id="g308"
+         id="g306"
          clip-path="url(#clip25)">
         <rect
-           id="rect306"
+           id="rect304"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -772,14 +765,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g316"
+       id="g314"
        clip-path="url(#clip26)">
       <g
          style="clip-rule:nonzero"
-         id="g314"
+         id="g312"
          clip-path="url(#clip27)">
         <rect
-           id="rect312"
+           id="rect310"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -789,14 +782,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g322"
+       id="g320"
        clip-path="url(#clip28)">
       <g
          style="clip-rule:nonzero"
-         id="g320"
+         id="g318"
          clip-path="url(#clip29)">
         <rect
-           id="rect318"
+           id="rect316"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -806,14 +799,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g328"
+       id="g326"
        clip-path="url(#clip30)">
       <g
          style="clip-rule:nonzero"
-         id="g326"
+         id="g324"
          clip-path="url(#clip31)">
         <rect
-           id="rect324"
+           id="rect322"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -823,14 +816,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g334"
+       id="g332"
        clip-path="url(#clip32)">
       <g
          style="clip-rule:nonzero"
-         id="g332"
+         id="g330"
          clip-path="url(#clip33)">
         <rect
-           id="rect330"
+           id="rect328"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -840,14 +833,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g340"
+       id="g338"
        clip-path="url(#clip34)">
       <g
          style="clip-rule:nonzero"
-         id="g338"
+         id="g336"
          clip-path="url(#clip35)">
         <rect
-           id="rect336"
+           id="rect334"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -857,14 +850,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g346"
+       id="g344"
        clip-path="url(#clip36)">
       <g
          style="clip-rule:nonzero"
-         id="g344"
+         id="g342"
          clip-path="url(#clip37)">
         <rect
-           id="rect342"
+           id="rect340"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -874,14 +867,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g352"
+       id="g350"
        clip-path="url(#clip38)">
       <g
          style="clip-rule:nonzero"
-         id="g350"
+         id="g348"
          clip-path="url(#clip39)">
         <rect
-           id="rect348"
+           id="rect346"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -891,14 +884,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g358"
+       id="g356"
        clip-path="url(#clip40)">
       <g
          style="clip-rule:nonzero"
-         id="g356"
+         id="g354"
          clip-path="url(#clip41)">
         <rect
-           id="rect354"
+           id="rect352"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -908,14 +901,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g364"
+       id="g362"
        clip-path="url(#clip42)">
       <g
          style="clip-rule:nonzero"
-         id="g362"
+         id="g360"
          clip-path="url(#clip43)">
         <rect
-           id="rect360"
+           id="rect358"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -925,14 +918,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g370"
+       id="g368"
        clip-path="url(#clip44)">
       <g
          style="clip-rule:nonzero"
-         id="g368"
+         id="g366"
          clip-path="url(#clip45)">
         <rect
-           id="rect366"
+           id="rect364"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -942,14 +935,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g376"
+       id="g374"
        clip-path="url(#clip46)">
       <g
          style="clip-rule:nonzero"
-         id="g374"
+         id="g372"
          clip-path="url(#clip47)">
         <rect
-           id="rect372"
+           id="rect370"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -959,14 +952,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g382"
+       id="g380"
        clip-path="url(#clip48)">
       <g
          style="clip-rule:nonzero"
-         id="g380"
+         id="g378"
          clip-path="url(#clip49)">
         <rect
-           id="rect378"
+           id="rect376"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -976,14 +969,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g388"
+       id="g386"
        clip-path="url(#clip50)">
       <g
          style="clip-rule:nonzero"
-         id="g386"
+         id="g384"
          clip-path="url(#clip51)">
         <rect
-           id="rect384"
+           id="rect382"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -993,14 +986,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g394"
+       id="g392"
        clip-path="url(#clip52)">
       <g
          style="clip-rule:nonzero"
-         id="g392"
+         id="g390"
          clip-path="url(#clip53)">
         <rect
-           id="rect390"
+           id="rect388"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -1010,14 +1003,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g400"
+       id="g398"
        clip-path="url(#clip54)">
       <g
          style="clip-rule:nonzero"
-         id="g398"
+         id="g396"
          clip-path="url(#clip55)">
         <rect
-           id="rect396"
+           id="rect394"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -1027,14 +1020,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g406"
+       id="g404"
        clip-path="url(#clip56)">
       <g
          style="clip-rule:nonzero"
-         id="g404"
+         id="g402"
          clip-path="url(#clip57)">
         <rect
-           id="rect402"
+           id="rect400"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -1044,14 +1037,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g412"
+       id="g410"
        clip-path="url(#clip58)">
       <g
          style="clip-rule:nonzero"
-         id="g410"
+         id="g408"
          clip-path="url(#clip59)">
         <rect
-           id="rect408"
+           id="rect406"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -1061,14 +1054,14 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g418"
+       id="g416"
        clip-path="url(#clip60)">
       <g
          style="clip-rule:nonzero"
-         id="g416"
+         id="g414"
          clip-path="url(#clip61)">
         <rect
-           id="rect414"
+           id="rect412"
            style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
            height="1059"
            width="1898"
@@ -1078,10 +1071,10 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g422"
+       id="g420"
        clip-path="url(#clip62)">
       <rect
-         id="rect420"
+         id="rect418"
          style="fill:#2e7fff;fill-opacity:0.62992099;stroke:none"
          height="1059"
          width="1898"
@@ -1090,10 +1083,10 @@
     </g>
     <g
        style="clip-rule:nonzero"
-       id="g426"
+       id="g424"
        clip-path="url(#clip63)">
       <rect
-         id="rect424"
+         id="rect422"
          style="fill:#b066f0;fill-opacity:0.62992099;stroke:none"
          height="1059"
          width="1898"
@@ -1101,16 +1094,16 @@
          x="0" />
     </g>
     <path
-       id="path428"
+       id="path426"
        transform="matrix(1,0,0,-1,0.5,1079.5)"
        d="m 1250,591 h 47 m 0,-2 v 2 m -47,-2 v 2 m 8,-2 h 39 m -39,-89 v 89 m -8,-89 v 89 m 8,0 h 39 m -39,-89 h 39 m -39,0 v 89 m 39,-89 v 89 m -47,-92 h 47 m 0,0 v 3 m -47,-3 v 3 m 8,0 h 39"
        style="fill:none;stroke:#005eff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.94488196" />
     <g
        style="clip-rule:nonzero"
-       id="g432"
+       id="g430"
        clip-path="url(#clip64)">
       <rect
-         id="rect430"
+         id="rect428"
          mask="url(#mask3)"
          style="fill:#005eff;fill-opacity:0.94488196;stroke:none"
          height="1059"
@@ -1119,12 +1112,12 @@
          x="0" />
     </g>
     <path
-       id="path434"
+       id="path432"
        transform="matrix(1,0,0,-1,0.5,1079.5)"
        d="m 736,983 h 78 m -78,-42 h 78 m -78,0 v 42 m 78,-42 v 42 M 736,811 h 78 m 0,-48 v 48 m -78,-48 v 48 m 92,-67 v 19 m -92,-19 v 19 m 78,0 h 14 m -92,-47 h 64 m -64,0 v 28 m 378,69 h 77 m -77,-94 h 77 m -77,0 v 94 m 77,-94 v 94 M 928,694 h 94 m -94,-83 h 94 m -94,0 v 83 m 94,-83 v 83 M 631,589 h 39 m -39,-89 h 39 m -39,0 v 89 m 39,-89 v 89 m 588,0 h 39 m -39,-89 h 39 m -39,0 v 89 m 39,-89 v 89 M 928,478 h 94 m -94,-84 h 94 m -94,0 v 84 m 94,-84 v 84 M 736,372 h 89 m 0,-47 v 47 m -89,-47 v 47 m 78,-47 h 11 m 322,44 h 44 m 0,-33 v 33 M 736,278 h 78 m 0,0 v 47 m -78,-47 v 47 m 378,-50 h 77 m 0,0 v 61 m -77,-61 v 61 M 736,147 h 78 m -78,-41 h 78 m -78,0 v 41 m 78,-41 v 41"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />
     <path
-       id="path436"
+       id="path434"
        transform="matrix(1,0,0,-1,0.5,1079.5)"
        d="m 736,941 78,42 m -78,0 78,-42 m -78,-178 78,48 m -78,0 78,-48 m -78,-19 92,19 m -92,0 92,-19 m -92,-28 64,28 m -64,0 64,-28 m 0,0 28,28 m 286,-25 77,94 m -77,0 77,-94 m -263,-108 94,83 m -94,0 94,-83 m -391,-111 39,89 m -39,0 39,-89 m 588,0 39,89 m -39,0 39,-89 m -369,-106 94,84 m -94,0 94,-84 m -286,-69 89,47 m -89,0 89,-47 m 322,44 -33,-33 m 33,0 44,33 m -44,0 44,-33 m -455,-58 78,47 m -78,0 78,-47 m 300,-3 77,61 m -77,0 77,-61 m -455,-169 78,41 m -78,0 78,-41"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:0.72440898" />

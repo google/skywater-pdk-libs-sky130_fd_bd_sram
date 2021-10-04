@@ -1,0 +1,84 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1607456505
+<< nwell >>
+rect 144 -79 336 395
+<< pwell >>
+rect 38 -39 80 39
+rect 400 -39 442 39
+<< metal1 >>
+rect 78 -104 114 420
+rect 150 -104 186 420
+rect 222 254 258 420
+rect 222 220 223 254
+rect 257 220 258 254
+rect 222 -104 258 220
+rect 294 -104 330 420
+rect 366 -104 402 420
+<< obsm1 >>
+rect -42 -104 42 420
+rect 438 311 531 377
+rect 438 295 515 311
+tri 515 295 531 311 nw
+rect 567 278 624 420
+rect 550 196 624 278
+rect 438 163 515 179
+tri 515 163 531 179 sw
+rect 438 97 531 163
+rect 567 38 624 196
+rect 438 -38 624 38
+rect 567 -104 624 -38
+<< metal2 >>
+rect -42 323 624 371
+rect 438 309 520 323
+rect -42 261 404 275
+rect 554 261 624 275
+rect -42 213 624 261
+rect -42 199 404 213
+rect 554 199 624 213
+rect 438 151 520 165
+rect -42 103 624 151
+rect -42 -55 624 55
+<< labels >>
+rlabel metal1 s 78 -104 114 420 6 BL0
+port 1 nsew
+rlabel metal1 s 294 -104 330 420 6 BL1
+port 2 nsew
+rlabel metal1 s 150 -104 186 420 6 BR0
+port 3 nsew
+rlabel metal1 s 366 -104 402 420 6 BR1
+port 4 nsew
+rlabel pwell s 400 -39 442 39 8 GND
+port 5 nsew
+rlabel pwell s 38 -39 80 39 8 GND
+port 5 nsew
+rlabel metal2 s 554 261 624 275 6 GND
+port 5 nsew
+rlabel metal2 s 554 199 624 213 6 GND
+port 5 nsew
+rlabel metal2 s -42 261 404 275 6 GND
+port 5 nsew
+rlabel metal2 s -42 213 624 261 6 GND
+port 5 nsew
+rlabel metal2 s -42 199 404 213 6 GND
+port 5 nsew
+rlabel metal2 s -42 -55 624 55 8 GND
+port 5 nsew
+rlabel nwell s 144 -79 336 395 6 VDD
+port 6 nsew
+rlabel metal1 s 222 -104 258 420 6 VDD
+port 6 nsew
+rlabel metal2 s 438 309 520 323 6 WL0
+port 7 nsew
+rlabel metal2 s -42 323 624 371 6 WL0
+port 7 nsew
+rlabel metal2 s 438 151 520 165 6 WL1
+port 8 nsew
+rlabel metal2 s -42 103 624 151 6 WL1
+port 8 nsew
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX 0 0 624 395
+string LEFview TRUE
+<< end >>

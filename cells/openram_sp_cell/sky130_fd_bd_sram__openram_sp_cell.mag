@@ -1,0 +1,128 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< checkpaint >>
+rect -1260 -1260 1500 1576
+<< nwell >>
+rect 144 303 240 316
+rect 138 13 240 303
+rect 144 0 240 13
+<< npd >>
+rect 38 182 80 212
+rect 38 104 80 134
+<< npass >>
+rect 38 262 66 292
+rect 38 24 66 54
+<< ppu >>
+rect 174 262 202 267
+rect 174 182 202 212
+rect 174 104 202 134
+rect 174 49 202 54
+<< ndiff >>
+rect 38 292 66 301
+rect 38 237 66 262
+rect 38 212 80 237
+rect 38 174 80 182
+rect 14 142 80 174
+rect 38 134 80 142
+rect 38 79 80 104
+rect 38 54 66 79
+rect 38 15 66 24
+<< pdiff >>
+rect 174 212 202 262
+rect 174 174 202 182
+rect 174 142 226 174
+rect 174 134 202 142
+rect 174 54 202 104
+<< ndiffc >>
+rect 38 301 66 316
+rect 0 142 14 174
+rect 38 0 66 15
+<< pdiffc >>
+rect 226 142 240 174
+<< poly >>
+rect 16 262 38 292
+rect 66 267 240 292
+rect 66 262 174 267
+rect 202 262 240 267
+rect 16 182 38 212
+rect 80 182 107 212
+rect 141 182 174 212
+rect 202 182 224 212
+rect 16 104 38 134
+rect 80 104 107 134
+rect 141 104 174 134
+rect 202 104 224 134
+rect 16 24 38 54
+rect 66 49 174 54
+rect 202 49 240 54
+rect 66 24 240 49
+<< polycont >>
+rect 107 182 141 212
+rect 107 104 141 134
+<< corelocali >>
+rect 14 301 38 316
+rect 66 301 226 316
+rect 14 245 226 273
+rect 14 219 60 245
+tri 60 219 86 245 nw
+rect 170 219 226 245
+tri 93 212 98 217 se
+rect 98 212 142 217
+tri 82 201 93 212 se
+rect 93 201 107 212
+tri 72 191 82 201 se
+rect 82 191 107 201
+rect 0 174 14 191
+tri 63 182 72 191 se
+rect 72 182 107 191
+rect 141 182 142 212
+tri 55 174 63 182 se
+rect 63 175 142 182
+rect 63 174 95 175
+tri 95 174 96 175 nw
+rect 0 125 14 142
+tri 42 161 55 174 se
+rect 55 161 82 174
+tri 82 161 95 174 nw
+rect 42 97 70 161
+tri 70 149 82 161 nw
+tri 160 149 170 159 se
+rect 170 149 198 219
+rect 226 175 240 191
+tri 153 142 160 149 se
+rect 160 147 198 149
+rect 160 142 193 147
+tri 193 142 198 147 nw
+tri 152 141 153 142 se
+rect 153 141 192 142
+tri 192 141 193 142 nw
+rect 102 134 170 141
+rect 102 104 107 134
+rect 141 119 170 134
+tri 170 119 192 141 nw
+rect 226 125 240 141
+rect 141 104 150 119
+rect 102 99 150 104
+tri 150 99 170 119 nw
+rect 14 71 70 97
+tri 162 71 188 97 se
+rect 188 71 226 97
+rect 14 43 226 71
+rect 14 0 38 15
+rect 66 0 226 15
+<< viali >>
+rect 223 174 240 175
+rect 223 142 226 174
+rect 226 142 240 174
+rect 223 141 240 142
+use sky130_fd_bd_sram__openram_sp_cell_fom_serifs  sky130_fd_bd_sram__openram_sp_cell_fom_serifs_0
+timestamp 0
+transform 1 0 0 0 1 122
+box 14 0 195 49
+<< properties >>
+string GDS_FILE sky130_fd_bd_sram__openram_sp_cell.gds
+string GDS_END 4082
+string GDS_START 836
+<< end >>

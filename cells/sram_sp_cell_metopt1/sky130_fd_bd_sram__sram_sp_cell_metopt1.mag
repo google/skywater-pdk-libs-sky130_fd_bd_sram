@@ -1,38 +1,4 @@
 magic
 tech sky130A
-magscale 1 2
 timestamp 0
-<< checkpaint >>
-rect -1260 -1260 1500 1576
-<< viali >>
-rect 67 299 101 316
-rect 0 141 17 175
-rect 223 141 240 175
-rect 139 0 173 17
-<< metal1 >>
-rect 0 185 14 316
-rect 60 299 67 316
-rect 101 299 108 316
-rect 60 287 108 299
-rect 0 175 26 185
-rect 17 141 26 175
-rect 0 121 26 141
-rect 0 0 14 121
-rect 70 0 98 287
-rect 142 29 170 316
-rect 226 263 240 316
-rect 214 198 240 263
-rect 217 175 240 198
-rect 217 141 223 175
-rect 217 129 240 141
-tri 217 127 219 129 ne
-rect 219 127 240 129
-rect 132 17 180 29
-rect 132 0 139 17
-rect 173 0 180 17
-rect 226 0 240 127
-<< properties >>
-string GDS_FILE sky130_fd_bd_sram__sram_sp_cell_metopt1.gds
-string GDS_END 838
-string GDS_START 170
 << end >>

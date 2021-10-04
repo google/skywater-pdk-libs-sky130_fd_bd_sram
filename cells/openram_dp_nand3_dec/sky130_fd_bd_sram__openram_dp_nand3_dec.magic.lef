@@ -1,0 +1,91 @@
+# Copyright 2020 The SkyWater PDK Authors
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# SPDX-License-Identifier: Apache-2.0
+
+VERSION 5.7 ;
+  NOWIREEXTENSIONATPIN ON ;
+  DIVIDERCHAR "/" ;
+  BUSBITCHARS "[]" ;
+MACRO sky130_fd_bd_sram__openram_dp_nand3_dec
+  CLASS BLOCK ;
+  FOREIGN sky130_fd_bd_sram__openram_dp_nand3_dec ;
+  ORIGIN  0.000000  0.000000 ;
+  SIZE  6.560000 BY  1.975000 ;
+  PIN A
+    ANTENNAGATEAREA  0.279000 ;
+    PORT
+      LAYER li1 ;
+        RECT 0.550000 0.320000 0.880000 0.490000 ;
+    END
+  END A
+  PIN B
+    ANTENNAGATEAREA  0.279000 ;
+    PORT
+      LAYER li1 ;
+        RECT 0.000000 0.880000 0.330000 1.050000 ;
+    END
+  END B
+  PIN C
+    ANTENNAGATEAREA  0.279000 ;
+    PORT
+      LAYER li1 ;
+        RECT 0.550000 1.330000 0.880000 1.500000 ;
+    END
+  END C
+  PIN GND
+    ANTENNADIFFAREA  0.386650 ;
+    PORT
+      LAYER met1 ;
+        RECT 1.240000 -0.220000 1.470000 2.090000 ;
+      LAYER pwell ;
+        RECT 0.310000 1.885000 0.720000 2.070000 ;
+    END
+  END GND
+  PIN VDD
+    ANTENNADIFFAREA  0.844200 ;
+    PORT
+      LAYER met1 ;
+        RECT 3.360000 0.070000 3.600000 2.090000 ;
+        RECT 5.520000 0.070000 5.760000 2.090000 ;
+      LAYER nwell ;
+        RECT 2.070000 -0.300000 6.610000 2.370000 ;
+    END
+  END VDD
+  PIN Z
+    ANTENNADIFFAREA  1.230000 ;
+    PORT
+      LAYER li1 ;
+        RECT 1.060000 0.270000 6.610000 0.440000 ;
+        RECT 2.555000 0.440000 2.725000 1.275000 ;
+        RECT 2.555000 1.275000 3.650000 1.440000 ;
+        RECT 2.555000 1.440000 3.435000 1.445000 ;
+        RECT 3.310000 1.270000 3.650000 1.275000 ;
+    END
+  END Z
+  OBS
+    LAYER li1 ;
+      RECT 0.350000 1.885000 1.250000 2.075000 ;
+      RECT 1.050000 1.480000 1.710000 1.650000 ;
+      RECT 1.050000 1.650000 1.250000 1.885000 ;
+      RECT 3.310000 0.770000 5.805000 0.940000 ;
+      RECT 5.550000 1.360000 5.740000 1.690000 ;
+    LAYER mcon ;
+      RECT 1.270000 1.480000 1.440000 1.650000 ;
+      RECT 3.395000 0.770000 3.565000 0.940000 ;
+      RECT 5.555000 0.770000 5.725000 0.940000 ;
+      RECT 5.555000 1.440000 5.725000 1.610000 ;
+  END
+END sky130_fd_bd_sram__openram_dp_nand3_dec
+END LIBRARY

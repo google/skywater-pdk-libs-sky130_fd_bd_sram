@@ -1,0 +1,8 @@
+magic
+tech sky130A
+timestamp 0
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX 2 0 2 0
+string LEFview TRUE
+<< end >>

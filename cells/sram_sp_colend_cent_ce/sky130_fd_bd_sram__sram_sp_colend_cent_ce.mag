@@ -1,9 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 0
-<< checkpaint >>
-rect -1260 -1260 1520 1671
+timestamp 1621288231
 << dnwell >>
 rect 0 0 260 411
 << nwell >>
@@ -75,7 +73,7 @@ rect 64 269 93 300
 rect 158 128 192 162
 rect 158 56 192 90
 << metal1 >>
-rect 0 219 18 411
+rect 0 204 18 411
 rect 50 375 110 411
 rect 50 341 59 375
 rect 93 341 110 375
@@ -83,36 +81,24 @@ rect 50 303 110 341
 rect 50 269 59 303
 rect 93 269 110 303
 rect 50 231 110 269
-tri 50 220 61 231 ne
-rect 61 220 110 231
-tri 18 219 19 220 sw
-tri 61 219 62 220 ne
-rect 0 204 19 219
-tri 19 204 34 219 sw
+tri 18 204 34 220 sw
+tri 50 219 62 231 ne
 rect 0 146 34 204
-rect 0 128 16 146
-tri 16 128 34 146 nw
-rect 0 0 14 128
-tri 14 126 16 128 nw
-tri 56 90 62 96 se
-rect 62 90 110 220
-tri 42 76 56 90 se
-rect 56 76 110 90
+rect 0 0 14 146
+tri 14 126 34 146 nw
+tri 42 76 62 96 se
+rect 62 76 110 231
 rect 42 34 110 76
 rect 42 0 76 34
 tri 76 0 110 34 nw
 rect 150 231 210 411
-rect 150 221 200 231
-tri 200 221 210 231 nw
-rect 150 162 198 221
-tri 198 219 200 221 nw
-tri 240 219 242 221 se
-rect 242 219 260 411
+rect 150 162 198 231
+tri 198 219 210 231 nw
 rect 150 128 158 162
 rect 192 128 198 162
 rect 150 90 198 128
-tri 226 205 240 219 se
-rect 240 205 260 219
+tri 226 205 242 221 se
+rect 242 205 260 411
 rect 226 146 260 205
 tri 226 126 246 146 ne
 rect 150 56 158 90
@@ -123,8 +109,4 @@ rect 150 34 218 56
 tri 150 0 184 34 ne
 rect 184 0 218 34
 rect 246 0 260 146
-<< properties >>
-string GDS_FILE sky130_fd_bd_sram__sram_sp_colend_cent_ce.gds
-string GDS_END 1954
-string GDS_START 174
 << end >>

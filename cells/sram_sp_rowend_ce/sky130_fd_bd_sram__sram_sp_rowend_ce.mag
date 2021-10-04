@@ -1,9 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 0
-<< checkpaint >>
-rect -1260 -1260 1520 1576
+timestamp 1621288244
 << dnwell >>
 rect 0 0 260 316
 << nwell >>
@@ -81,17 +79,13 @@ rect 95 121 100 122
 rect 54 120 100 121
 tri 100 120 102 122 nw
 rect 158 122 206 316
-tri 158 120 160 122 ne
-rect 160 120 206 122
 tri 42 108 54 120 se
-rect 54 108 88 120
-tri 88 108 100 120 nw
-tri 160 108 172 120 ne
-rect 172 108 206 120
-tri 206 108 218 120 sw
+rect 54 108 76 120
 rect 42 0 76 108
-tri 76 96 88 108 nw
-tri 172 96 184 108 ne
+tri 76 96 100 120 nw
+tri 158 96 184 122 ne
+rect 184 108 206 122
+tri 206 108 218 120 sw
 tri 104 84 108 88 se
 rect 108 84 152 88
 tri 152 84 156 88 sw
@@ -103,8 +97,4 @@ tri 104 14 110 20 ne
 rect 110 14 150 20
 tri 150 14 156 20 nw
 rect 184 0 218 108
-<< properties >>
-string GDS_FILE sky130_fd_bd_sram__sram_sp_rowend_ce.gds
-string GDS_END 2406
-string GDS_START 162
 << end >>

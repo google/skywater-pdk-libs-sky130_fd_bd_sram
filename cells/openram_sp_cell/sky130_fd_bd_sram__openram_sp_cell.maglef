@@ -1,0 +1,20 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1614044797
+<< nwell >>
+rect 144 0 240 316
+<< obsli1 >>
+rect 38 301 66 316
+rect 107 182 141 212
+rect 0 142 14 174
+rect 223 141 240 175
+rect 107 104 141 134
+rect 38 0 66 15
+<< obsm1 >>
+rect 223 141 240 175
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX 0 0 240 316
+string LEFview TRUE
+<< end >>

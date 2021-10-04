@@ -1,0 +1,122 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1614044818
+<< nwell >>
+rect 412 -60 976 478
+<< pwell >>
+rect 58 100 142 136
+<< locali >>
+rect 70 282 136 316
+rect 210 314 888 348
+rect 70 174 136 208
+rect 208 142 254 176
+rect 288 142 340 176
+rect 509 170 543 314
+rect 660 226 677 260
+rect 711 226 727 260
+rect 845 171 915 172
+rect 509 169 598 170
+rect 660 169 728 170
+rect 509 136 728 169
+rect 845 137 863 171
+rect 897 137 915 171
+rect 845 136 915 137
+rect 66 135 142 136
+rect 66 101 83 135
+rect 117 101 142 135
+rect 509 135 685 136
+rect 509 134 572 135
+rect 66 100 142 101
+<< viali >>
+rect 254 142 288 176
+rect 677 226 711 260
+rect 863 137 897 171
+rect 83 101 117 135
+<< metal1 >>
+rect 246 176 294 402
+rect 76 136 124 148
+rect 246 142 254 176
+rect 288 142 294 176
+rect 246 136 294 142
+rect 76 135 294 136
+rect 76 101 83 135
+rect 117 101 294 135
+rect 76 100 294 101
+rect 76 88 124 100
+rect 246 29 294 100
+rect 670 260 720 402
+rect 670 226 677 260
+rect 711 226 720 260
+rect 670 170 720 226
+rect 845 171 912 178
+rect 845 170 863 171
+rect 670 137 863 170
+rect 897 137 912 171
+rect 670 136 912 137
+rect 670 30 720 136
+rect 849 128 912 136
+<< labels >>
+rlabel locali s 70 282 136 316 6 A
+port 1 nsew
+rlabel locali s 70 174 136 208 6 B
+port 2 nsew
+rlabel metal1 s 246 29 294 100 6 GND
+port 3 nsew
+rlabel metal1 s 76 88 124 100 6 GND
+port 3 nsew
+rlabel metal1 s 76 100 294 136 6 GND
+port 3 nsew
+rlabel metal1 s 246 136 294 402 6 GND
+port 3 nsew
+rlabel metal1 s 76 136 124 148 6 GND
+port 3 nsew
+rlabel viali s 83 101 117 135 6 GND
+port 3 nsew
+rlabel viali s 254 142 288 176 6 GND
+port 3 nsew
+rlabel locali s 66 100 142 136 6 GND
+port 3 nsew
+rlabel locali s 208 142 340 176 6 GND
+port 3 nsew
+rlabel pwell s 58 100 142 136 6 GND
+port 3 nsew
+rlabel metal1 s 849 128 912 136 6 VDD
+port 4 nsew
+rlabel metal1 s 670 30 720 136 6 VDD
+port 4 nsew
+rlabel metal1 s 670 136 912 170 6 VDD
+port 4 nsew
+rlabel metal1 s 845 170 912 178 6 VDD
+port 4 nsew
+rlabel metal1 s 670 170 720 402 6 VDD
+port 4 nsew
+rlabel viali s 863 137 897 171 6 VDD
+port 4 nsew
+rlabel viali s 677 226 711 260 6 VDD
+port 4 nsew
+rlabel locali s 845 136 915 172 6 VDD
+port 4 nsew
+rlabel locali s 660 226 727 260 6 VDD
+port 4 nsew
+rlabel nwell s 412 -60 976 478 6 VDD
+port 4 nsew
+rlabel locali s 509 134 572 135 6 Z
+port 5 nsew
+rlabel locali s 509 135 685 136 6 Z
+port 5 nsew
+rlabel locali s 509 136 728 169 6 Z
+port 5 nsew
+rlabel locali s 660 169 728 170 6 Z
+port 5 nsew
+rlabel locali s 509 169 598 170 6 Z
+port 5 nsew
+rlabel locali s 509 170 543 314 6 Z
+port 5 nsew
+rlabel locali s 210 314 888 348 6 Z
+port 5 nsew
+<< properties >>
+string LEFclass BLOCK
+string FIXED_BBOX 58 53 915 396
+string LEFview TRUE
+<< end >>

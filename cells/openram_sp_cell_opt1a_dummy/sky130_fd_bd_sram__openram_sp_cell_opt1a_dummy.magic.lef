@@ -1,0 +1,99 @@
+VERSION 5.7 ;
+  NOWIREEXTENSIONATPIN ON ;
+  DIVIDERCHAR "/" ;
+  BUSBITCHARS "[]" ;
+MACRO sky130_fd_bd_sram__openram_sp_cell_opt1a_dummy
+  CLASS BLOCK ;
+  FOREIGN sky130_fd_bd_sram__openram_sp_cell_opt1a_dummy ;
+  ORIGIN 0.130 0.130 ;
+  SIZE 1.380 BY 1.840 ;
+  PIN BL
+    ANTENNADIFFAREA 0.016800 ;
+    PORT
+      LAYER li1 ;
+        RECT 0.190 1.505 0.330 1.580 ;
+        RECT 0.335 1.495 0.505 1.580 ;
+      LAYER met1 ;
+        RECT 0.300 1.435 0.540 1.580 ;
+        RECT 0.350 0.000 0.490 1.435 ;
+    END
+  END BL
+  PIN BR
+    ANTENNADIFFAREA 0.016800 ;
+    PORT
+      LAYER li1 ;
+        RECT 0.190 0.000 0.330 0.075 ;
+        RECT 0.695 0.000 0.865 0.085 ;
+      LAYER met1 ;
+        RECT 0.710 0.145 0.850 1.580 ;
+        RECT 0.660 0.000 0.900 0.145 ;
+    END
+  END BR
+  PIN VGND
+    USE GROUND ;
+    PORT
+      LAYER li1 ;
+        RECT 0.000 0.705 0.085 0.875 ;
+      LAYER met1 ;
+        RECT 0.000 0.925 0.070 1.580 ;
+        RECT 0.000 0.890 0.130 0.925 ;
+        RECT -0.050 0.640 0.130 0.890 ;
+        RECT 0.000 0.605 0.130 0.640 ;
+        RECT 0.000 0.000 0.070 0.605 ;
+      LAYER met2 ;
+        RECT 0.000 0.890 0.290 0.895 ;
+        RECT -0.050 0.855 0.290 0.890 ;
+        RECT -0.050 0.640 1.200 0.855 ;
+        RECT 0.000 0.635 1.200 0.640 ;
+    END
+  END VGND
+  PIN VPWR
+    USE POWER ;
+    PORT
+      LAYER li1 ;
+        RECT 1.115 0.705 1.200 0.875 ;
+      LAYER met1 ;
+        RECT 1.130 1.315 1.200 1.580 ;
+        RECT 1.070 1.280 1.200 1.315 ;
+        RECT 1.070 1.030 1.250 1.280 ;
+        RECT 1.070 0.990 1.200 1.030 ;
+        RECT 1.085 0.645 1.200 0.990 ;
+        POLYGON 1.085 0.645 1.095 0.645 1.095 0.635 ;
+        RECT 1.095 0.635 1.200 0.645 ;
+        RECT 1.130 0.000 1.200 0.635 ;
+      LAYER via ;
+        RECT 1.075 1.030 1.250 1.280 ;
+      LAYER met2 ;
+        RECT 0.000 1.280 1.200 1.285 ;
+        RECT 0.000 1.065 1.250 1.280 ;
+        RECT 0.955 1.030 1.250 1.065 ;
+        RECT 0.955 1.025 1.200 1.030 ;
+    END
+  END VPWR
+  PIN VPB
+    PORT
+      LAYER nwell ;
+        RECT 0.720 0.000 1.200 1.580 ;
+    END
+  END VPB
+  PIN VNB
+    PORT
+      LAYER pwell ;
+        RECT 0.060 1.315 0.460 1.710 ;
+        RECT 0.060 1.000 0.530 1.315 ;
+        RECT -0.130 0.580 0.530 1.000 ;
+        RECT 0.010 0.265 0.530 0.580 ;
+        RECT 0.010 0.170 0.460 0.265 ;
+        RECT 0.060 -0.130 0.460 0.170 ;
+    END
+  END VNB
+  OBS
+      LAYER li1 ;
+        RECT 0.535 0.910 0.705 1.060 ;
+        RECT 0.535 0.520 0.705 0.670 ;
+      LAYER met2 ;
+        RECT 0.000 0.295 1.200 0.465 ;
+  END
+END sky130_fd_bd_sram__openram_sp_cell_opt1a_dummy
+END LIBRARY
+

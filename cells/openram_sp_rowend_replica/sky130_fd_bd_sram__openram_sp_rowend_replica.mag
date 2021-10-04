@@ -1,0 +1,26 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1619465096
+<< checkpaint >>
+rect -1271 -1260 1520 1576
+<< metal1 >>
+rect 0 0 14 15
+use sky130_fd_bd_sram__sram_sp_rowend_met2  sky130_fd_bd_sram__sram_sp_rowend_met2_0
+timestamp 1619465096
+transform 1 0 0 0 1 0
+box -11 24 260 257
+use sky130_fd_bd_sram__sram_sp_rowend_p1m_siz  sky130_fd_bd_sram__sram_sp_rowend_p1m_siz_0
+timestamp 1619465096
+transform 1 0 0 0 1 0
+box 0 0 1 1
+use sky130_fd_bd_sram__sram_sp_rowend_replica_ce  sky130_fd_bd_sram__sram_sp_rowend_replica_ce_0
+timestamp 1619465096
+transform 1 0 0 0 1 0
+box 0 0 260 316
+<< labels >>
+rlabel metal1 s 0 0 14 15 4 VPWR
+port 1 nsew
+rlabel metal2 s 25 76 25 76 4 WL
+port 2 nsew
+<< end >>

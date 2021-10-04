@@ -1,0 +1,12 @@
+VERSION 5.7 ;
+  NOWIREEXTENSIONATPIN ON ;
+  DIVIDERCHAR "/" ;
+  BUSBITCHARS "[]" ;
+MACRO sky130_fd_bd_sram__openram_sp_cell_p1m_sizing
+  CLASS BLOCK ;
+  FOREIGN sky130_fd_bd_sram__openram_sp_cell_p1m_sizing ;
+  ORIGIN -0.080 -0.595 ;
+  SIZE 0.965 BY 0.395 ;
+END sky130_fd_bd_sram__openram_sp_cell_p1m_sizing
+END LIBRARY
+

@@ -1,15 +1,14 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 0
-<< checkpaint >>
-rect -1260 -1260 1500 1671
+timestamp 1621288226
 << dnwell >>
 rect 0 0 240 411
 << nwell >>
 rect 0 0 96 411
 << pwell >>
-rect 140 106 240 336
+rect 114 80 266 362
+rect 148 -26 228 80
 << nmos >>
 rect 174 24 202 52
 << ndiff >>
@@ -80,12 +79,6 @@ rect 101 0 108 17
 rect 142 0 170 319
 tri 170 311 178 319 nw
 rect 210 319 240 411
-tri 210 311 218 319 ne
-rect 218 311 240 319
-tri 218 303 226 311 ne
-rect 226 0 240 311
-<< properties >>
-string GDS_FILE sky130_fd_bd_sram__sram_sp_colenda_ce.gds
-string GDS_END 1964
-string GDS_START 166
+tri 210 303 226 319 ne
+rect 226 0 240 319
 << end >>
